@@ -1,6 +1,6 @@
 Katharina Galuschka:
   name             : "Dr. Katharina Galuschka"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/authors/Galuschka.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Wissenschaftlerin an der LMU München"
   location         : "München"
   email            : "katharina.galuschka@med.uni-muenchen.de"
