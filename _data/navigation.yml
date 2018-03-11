@@ -1,0 +1,9 @@
+main:
+  - title: "Über die Studie"
+    url: /ueber-die-studie/
+  - title: "Ablauf"
+    url: /ablauf/
+  - title: "Team"
+    url: /team/
+  - title: "Kontakt"
+    url: /kontakt/
