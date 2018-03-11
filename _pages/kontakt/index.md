@@ -20,5 +20,5 @@ Bitte verwenden Sie das Kontaktformular für Fragen zur Studie, oder wenn Sie te
   <input type="text" name="_gotcha" style="display:none" />
   <input type="submit" value="Absenden">
 
-  <input type="hidden" name="_next" value="{{ '/kontakt/success' | absolute_url }}" />
+  <input type="hidden" name="_next" value="{{ '/kontakt/success' | absolute_url }}" />
 </form>
