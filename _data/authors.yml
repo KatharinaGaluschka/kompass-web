@@ -35,8 +35,8 @@ Sina Napiany:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Doktorandin an der Uni Wuppertal"
   location         : "Wuppertal"
-  email            : ""
-  uri              : ""
+  email            : "napiany@uni-wuppertal.de"
+  uri              : "https://www.ifb.uni-wuppertal.de/arbeitsbereiche/es/snapiany.html"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
