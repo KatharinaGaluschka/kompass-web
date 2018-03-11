@@ -44,9 +44,9 @@ header:
 
   <div class="author__content">
     {% if author.home %}
-      <a href="{{ author_link }}"><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a>
+      <a href="{{ author_link }}"><h3 class="author__name" itemprop="name" id="{{ author.name | url_encode }}">{{ author.name }}</h3></a>
     {% else %}
-      <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
+      <h3 class="author__name" itemprop="name" id="{{ author.name | url_encode }}">{{ author.name }}</h3>
     {% endif %}
     {% if author.bio %}
       <p class="author__bio" itemprop="description">
