@@ -4,7 +4,7 @@ Michael von Aster:
   bio              : "bio bitte ergänzen"
   location         : "Berlin"
   email            : ""
-  uri              : "
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -36,7 +36,7 @@ Martina Durchholz:
   bio              : "bio bitte ergänzen"
   location         : "München"
   email            : ""
-  uri              : "
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -101,7 +101,7 @@ Christian Huber
   bio              : "bio bitte ergänzen"
   location         : "Wuppertal"
   email            : ""
-  uri              : "
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -165,7 +165,7 @@ Gerd Schulte-Körne:
   bio              : "bio bitte ergänzen"
   location         : "München"
   email            : ""
-  uri              : "
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -197,7 +197,7 @@ Franziska Schulz:
   bio              : "bio bitte ergänzen"
   location         : "Berlin"
   email            : ""
-  uri              : "
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
