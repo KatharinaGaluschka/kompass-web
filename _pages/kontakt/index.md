@@ -1,6 +1,8 @@
 ---
 title: Kontakt
 permalink: /kontakt/
+header:
+  image: /assets/images/backgrounds/feedback.jpg
 ---
 
 Bitte verwenden Sie das Kontaktformular für Fragen zur Studie, oder wenn Sie teilnehmen möchten.

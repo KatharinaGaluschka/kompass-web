@@ -2,6 +2,8 @@
 title: Nachricht gesendet
 permalink: /kontakt/success
 search: false
+header:
+  image: /assets/images/backgrounds/feedback.jpg
 ---
 
 **Vielen Dank für Ihre Nachricht**
