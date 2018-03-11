@@ -58,12 +58,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dr. Katharina Galuschka"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Wissenschaftlerin an der LMU München"
   location         : "München"
-  email            :
-  uri              :
+  email            : "katharina.galuschka@med.uni-muenchen.de"
+  uri              : "http://www.katharina-galuschka.de"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
