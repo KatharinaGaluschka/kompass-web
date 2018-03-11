@@ -9,3 +9,5 @@ Hier den Ablauf beschreiben
 * [Berlin](berlin/)
 * [München](muenchen/)
 * [Wuppertal](wuppertal/)
+
+{% include machmit.html %}

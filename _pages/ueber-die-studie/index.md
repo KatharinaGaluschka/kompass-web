@@ -9,3 +9,5 @@ Die Beantwortung dieser Frage ist das Ziel des geplanten Forschungsprojekts.
 
 Erfahren Sie mehr über die [Interventionen](interventionen/) und den [Wissenschaftlicher Hintergrund](wissenschaftlicher-hintergrund/) unserer Studie.
 {: .notice--info}
+
+{% include machmit.html %}

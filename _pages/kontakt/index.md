@@ -3,6 +3,8 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
+Bitte verwenden Sie das Kontaktformular für Fragen zur Studie, oder wenn Sie teilnehmen möchten.
+
 <form action="https://formspree.io/katharina.galuschka@med.uni-muenchen.de"
       method="POST">
   <input type="text" name="name" placeholder="Ihr Name">
