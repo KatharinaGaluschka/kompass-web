@@ -3,6 +3,8 @@ title: Über die Studie
 permalink: /ueber-die-studie/
 header:
   image: /assets/images/backgrounds/abc.jpg
+sidebar:
+  nav: "ueber-die-studie"
 ---
 
 Kinder und Jugendliche mit schwerwiegenden Problemen im Lesen, Rechtschreiben oder Rechnen leiden häufig ebenfalls unter psychischen Belastungen (z. B. Ängste, Depressionen, Aufmerksamkeitsstörungen).

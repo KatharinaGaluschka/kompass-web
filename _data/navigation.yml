@@ -8,6 +8,12 @@ main:
   - title: "Kontakt"
     url: /kontakt/
 
+ueber-die-studie:
+  - title: "Die Interventionen"
+    url: /ueber-die-studie/interventionen/
+  - title: "Wissenschaftlicher Hintergrund"
+    url: /ueber-die-studie/wissenschaftlicher-hintergrund/
+
 projektablauf:
   - title: "Berlin"
     url: /projektablauf/berlin/
