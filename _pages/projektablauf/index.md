@@ -1,6 +1,8 @@
 ---
 title: Projektablauf
 permalink: /projektablauf/
+header:
+  image: /assets/images/backgrounds/stuehle.jpg
 sidebar:
   nav: "projektablauf"
 ---
