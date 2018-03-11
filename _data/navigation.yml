@@ -7,3 +7,11 @@ main:
     url: /team/
   - title: "Kontakt"
     url: /kontakt/
+
+projektablauf:
+  - title: "Berlin"
+    url: /projektablauf/berlin/
+  - title: "München"
+    url: /projektablauf/muenchen/
+  - title: "Wuppertal"
+    url: /projektablauf/wuppertal/
