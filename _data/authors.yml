@@ -66,7 +66,7 @@ Martina Durchholz:
 Katharina Galuschka:
   name             : "Dr. Katharina Galuschka"
   avatar           : "/assets/images/authors/Galuschka.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Wissenschaftlerin an der LMU München"
+  bio              : "studierte Pädagogik, Psychologie und Soziologie und arbeitet seit 2011 als Wissenschaftlerin an der Klinik und Poliklinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie der Universität München. Sie promovierte zum Thema „Evidenzbasierte Förderung von Kindern- und Jugendlichen mit Lese- und / oder Rechtschreibstörung“. Ihre derzeitigen Forschungsinteressen umfassen die Früherkennung, Prävention und Förderung von Kindern mit Schwierigkeiten im Lesen und Rechtschreiben."
   location         : "München"
   email            : "katharina.galuschka@med.uni-muenchen.de"
   uri              : "http://www.katharina-galuschka.de"
