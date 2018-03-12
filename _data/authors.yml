@@ -4,7 +4,7 @@ Michael von Aster:
   bio              : "bio bitte ergänzen"
   location         : "Berlin"
   email            : ""
-  uri              : 
+  uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -36,7 +36,7 @@ Martina Durchholz:
   bio              : "bio bitte ergänzen"
   location         : "München"
   email            : ""
-  uri              : 
+  uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -66,7 +66,12 @@ Martina Durchholz:
 Katharina Galuschka:
   name             : "Dr. Katharina Galuschka"
   avatar           : "/assets/images/authors/Galuschka.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "studierte Pädagogik, Psychologie und Soziologie und arbeitet seit 2011 als Wissenschaftlerin an der Klinik und Poliklinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie der Universität München. Sie promovierte zum Thema „Evidenzbasierte Förderung von Kindern- und Jugendlichen mit Lese- und / oder Rechtschreibstörung“. Ihre derzeitigen Forschungsinteressen umfassen die Früherkennung, Prävention und Förderung von Kindern mit Schwierigkeiten im Lesen und Rechtschreiben."
+  bio              : |-
+    studierte Pädagogik, Psychologie und Soziologie und arbeitet seit 2011 als Wissenschaftlerin an der Klinik und Poliklinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie der Universität München.
+
+    Sie promovierte zum Thema „Evidenzbasierte Förderung von Kindern- und Jugendlichen mit Lese- und / oder Rechtschreibstörung“.
+
+    Ihre derzeitigen Forschungsinteressen umfassen die Früherkennung, Prävention und Förderung von Kindern mit Schwierigkeiten im Lesen und Rechtschreiben.
   location         : "München"
   email            : "katharina.galuschka@med.uni-muenchen.de"
   uri              : "http://www.katharina-galuschka.de"
@@ -101,7 +106,7 @@ Christian Huber:
   bio              : "bio bitte ergänzen"
   location         : "Wuppertal"
   email            : ""
-  uri              : 
+  uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -158,14 +163,22 @@ Sina Napiany:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  
+
 Gerd Schulte-Körne:
   name             : "Prof. Gerd Schulte-Körne"
   avatar           : "/assets/images/authors/Galuschka.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Nach Medizinstudium in Aachen und Marburg Facharztausbildung in der Klinik für Kinder- und Jugendpsychiatrie und -psychotherapie der Philipps-Universität Marburg, Promotion 1991, Habilitation 1999 zu neuropsychologischen und neurophysiologischen Korrelaten der Lese-Rechtschreibstörung. Seit 2006 Lehrstuhl für kinder- und Jugendpsychiatrie und –psychotherapie an der Ludwig-Maximilians-Universität München und Direktor der Universitätsklinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie am Klinikum der Universität München. Seit 30 Jahren Forschung zu den Ursachen,  der Diagnostik und Förderung bei der Lese-Rechtschreibstörung,  die mit dem August Homburger Preis 2007 und dem Hermann-Emminghaus Preis 2009 ausgezeichnet wurden. Zusätzliche Forschungsschwerpunkt der letzten Jahren depressive Störungen bei Kindern und Jugendlichen. Zur Verbesserung der Diagnostik und der Behandlung hat Gerd Schulte-Körne drei S3-Leitlinien zur Behandlung der depressiven Störung im Kindes- und Jugendalter, der Lese- und/oder Rechtschreistörung und der Rechenstörung koordiniert."
+  bio              : |-
+    Nach Medizinstudium in Aachen und Marburg Facharztausbildung in der Klinik für Kinder- und Jugendpsychiatrie und -psychotherapie der Philipps-Universität Marburg, Promotion 1991, Habilitation 1999 zu neuropsychologischen und neurophysiologischen Korrelaten der Lese-Rechtschreibstörung.
+
+    Seit 2006 Lehrstuhl für kinder- und Jugendpsychiatrie und –psychotherapie an der Ludwig-Maximilians-Universität München und Direktor der Universitätsklinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie am Klinikum der Universität München.
+
+    Seit 30 Jahren Forschung zu den Ursachen, der Diagnostik und Förderung bei der Lese-Rechtschreibstörung, die mit dem August Homburger Preis 2007 und dem Hermann-Emminghaus Preis 2009 ausgezeichnet wurden.
+
+    Zusätzliche Forschungsschwerpunkt der letzten Jahren depressive Störungen bei Kindern und Jugendlichen.
+    Zur Verbesserung der Diagnostik und der Behandlung hat Gerd Schulte-Körne drei S3-Leitlinien zur Behandlung der depressiven Störung im Kindes- und Jugendalter, der Lese- und/oder Rechtschreistörung und der Rechenstörung koordiniert.
   location         : "München"
   email            : ""
-  uri              : 
+  uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -190,14 +203,14 @@ Gerd Schulte-Körne:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  
+
 Franziska Schulz:
   name             : "Franziska Schulz"
   avatar           : "/assets/images/authors/Galuschka.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "bio bitte ergänzen"
   location         : "Berlin"
   email            : ""
-  uri              : 
+  uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :

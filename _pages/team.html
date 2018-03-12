@@ -49,9 +49,9 @@ header:
       <h3 class="author__name" itemprop="name" id="{{ author.name | url_encode }}">{{ author.name }}</h3>
     {% endif %}
     {% if author.bio %}
-      <p class="author__bio" itemprop="description">
-        {{ author.bio }}
-      </p>
+      <div class="author__bio" itemprop="description">
+        {{ author.bio | markdownify }}
+      </div>
     {% endif %}
   </div>
 
