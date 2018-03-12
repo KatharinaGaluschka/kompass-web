@@ -2,6 +2,7 @@
 title: Nachricht gesendet
 permalink: /kontakt/success
 search: false
+sitemap: false
 header:
   image: /assets/images/backgrounds/feedback.jpg
 ---
