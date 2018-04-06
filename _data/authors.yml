@@ -32,7 +32,7 @@ Michael von Aster:
 
 Martina Durchholz:
   name             : "Martina Durchholz"
-  avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/authors/Durchholz.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |-
     studierte Psychologie mit klinischem und kognitionspsychologischem Schwerpunkt an der Universität Regensburg und arbeitet seit 2018 als wissenschaftliche Mitarbeiterin an der Klinik und Poliklinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie der Universität München.
   
