@@ -33,11 +33,12 @@ Michael von Aster:
 Martina Durchholz:
   name             : "Martina Durchholz"
   avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "studierte Psychologie mit klinischem und kognitionspsychologischem Schwerpunkt an der Universität Regensburg und arbeitet seit 2018 als wissenschaftliche Mitarbeiterin an der Klinik und Poliklinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie der Universität München. |-
+  bio              : |-
+    "studierte Psychologie mit klinischem und kognitionspsychologischem Schwerpunkt an der Universität Regensburg und arbeitet seit 2018 als wissenschaftliche Mitarbeiterin an der Klinik und Poliklinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie der Universität München.
   
-  Im Rahmen ihrer Abschlussarbeiten beschäftigte sie sich unter anderem mit kognitiven Komponenten der Entscheidungsfindung bei AD(H)S-Patienten und psychischen Belastungsfaktoren im Rahmen zunehmender Digitalisierung. |-
+    Im Rahmen ihrer Abschlussarbeiten beschäftigte sie sich unter anderem mit kognitiven Komponenten der Entscheidungsfindung bei AD(H)S-Patienten und psychischen Belastungsfaktoren im Rahmen zunehmender Digitalisierung.
   
-  Ihre aktuellen Forschungsinteressen umfassen die Integration psychotherapeutischer Maßnahmen in die Förderung von Kindern mit Schwierigkeiten im Lesen und Rechtschreiben bei Komorbidität von Verhaltensauffälligkeiten."
+    Ihre aktuellen Forschungsinteressen umfassen die Integration psychotherapeutischer Maßnahmen in die Förderung von Kindern mit Schwierigkeiten im Lesen und Rechtschreiben bei Komorbidität von Verhaltensauffälligkeiten.
   location         : "München"
   email            : ""
   uri              :
@@ -107,11 +108,12 @@ Katharina Galuschka:
 Christian Huber:
   name             : "Prof. Christian Huber"
   avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Christian Huber ist Professor für Sonderpädagogik mit dem Förderschwerpunkt Emotional-soziale Entwicklung an der Universität Wuppertal. |- 
+  bio              : |-
+    "Christian Huber ist Professor für Sonderpädagogik mit dem Förderschwerpunkt Emotional-soziale Entwicklung an der Universität Wuppertal. 
   
-    Zwischen 2004 und 2010 arbeitete er als Schulpsychologe in der Regionalen Schulberatung Leverkusen und wechselte 2010 an die Universität zu Köln und 2013 an die Universität Potsdam. |- 
+    Zwischen 2004 und 2010 arbeitete er als Schulpsychologe in der Regionalen Schulberatung Leverkusen und wechselte 2010 an die Universität zu Köln und 2013 an die Universität Potsdam. 
   
-    Seine Forschungsschwerpunkte liegen im Bereich Messung und Förderung sozialer Integrationsprozesse in Schule und Unterricht, der Verhaltensverlaufsdiagnostik sowie der Prävention und Intervention von internalisierenden und externalisierenden Verhaltensproblemen im RTI-Modell."
+    Seine Forschungsschwerpunkte liegen im Bereich Messung und Förderung sozialer Integrationsprozesse in Schule und Unterricht, der Verhaltensverlaufsdiagnostik sowie der Prävention und Intervention von internalisierenden und externalisierenden Verhaltensproblemen im RTI-Modell.
   
   location         : "Wuppertal"
   email            : ""
