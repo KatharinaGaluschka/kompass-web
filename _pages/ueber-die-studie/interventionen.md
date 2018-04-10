@@ -10,7 +10,7 @@ sidebar:
 Aufbauend auf der Grundlage bisheriger Forschung hat die
 
 
-![Ludwig-Maximilian-Universität München](/assets/images/logos/KUM-logo_gruen_inv_13PR.png) Ludwig-Maximilian-Universität München 
+![Ludwig-Maximilian-Universität München](/assets/images/logos/KUM-logo_gruen_inv_12PR.png) Ludwig-Maximilian-Universität München 
 
 
 in Kooperation mit der Bergischen Universität Wuppertal 
