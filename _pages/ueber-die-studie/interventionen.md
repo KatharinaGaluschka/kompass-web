@@ -10,7 +10,7 @@ sidebar:
 Aufbauend auf der Grundlage bisheriger Forschung hat die
 
 
-![Ludwig-Maximilian-Universität München](/assets/images/logos/KUM-logo_gruen_inv_7Prozent.png) Ludwig-Maximilian-Universität München 
+![Ludwig-Maximilian-Universität München](/assets/images/logos/KUM-logo_gruen_inv_7PR.png) Ludwig-Maximilian-Universität München 
 
 
 in Kooperation mit der
