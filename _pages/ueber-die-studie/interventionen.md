@@ -27,11 +27,13 @@ Der Einsatz des KlasseKinderSpiels reduziert nachweislich störendes Verhalten i
 Lehrkräfte werden durch eine Kurzfortbildung (ca. 90 Minuten) in das KlasseKinderSpiel und mögliche Problemstellungen eingeführt. Hierzu werden sämtliche Materialien zur Verfügung gestellt.
 
 
+
 # **II. PC-gestützte Förderung der schulischen Leistungsschwächen**
 
 Die zweite Komponente der geplanten Intervention bezieht sich auf die Förderung der zuvor identifizierten schulischen Leistungsschwächen der Kinder. Dazu haben sie die Aufgabe, zu Hause mehrmals wöchentlich ein Lernspiel am Computer zu spielen. Diese Lernspiele zur Rechtschreibförderung (Meister Cody Namagi) und Rechenförderung (Calcularis) wurden basierend auf aktuellen Forschungsergebnissen entwickelt und fördern das Kind individuell angepasst auf dessen Ausgangslage und Lernfortschritte. 
 
 Die Lernprogramme werden kostenlos zur Verfügung gestellt und am heimischen PC oder Tablet (mit Android Betriebssystem) ausgeführt. Bei Bedarf kann ein Gerät für die Dauer des Trainings entliehen werden. Die Kinder und Erziehungspersonen erhalten hierzu eine Einführung durch eine/n Mitarbeiter/in der Projektgruppe. 
+
 
 
 # **III. Kooperative Verhaltensmodifikation**
@@ -78,6 +80,8 @@ Die Eltern besprechen mit dem Kind am Ende der Woche die positiven Fortschritte 
 Zur Einführung in das Konzept und die damit verbundenen Aufgaben für alle Beteiligten findet ein Kooperationsgespräch unter Anleitung eines/r Projektmitarbeiters/in statt. Anschließende persönliche oder telefonische Coaching Gespräche dienen der Rückmeldung und der Lösung möglicher Problemstellungen.
 
 
+
 Alle wichtigen Informationen zur Durchführung der KVM werden den beteiligten Personen im Zuge der Kooperationsgespräche und im Verlauf des Projektes vermittelt – es findet Lernen im Prozess statt. Zusätzlich werden Online-Videos und Webinare zur Verfügung gestellt, die beispielhaft den Ablauf und die Teilschritte der KVM aufzeigen und vermitteln. 
+
 
 {% include machmit.html %}
