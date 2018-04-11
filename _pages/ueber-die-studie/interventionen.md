@@ -61,15 +61,15 @@ Die Lehrkraft meldet das beobachtete Verhalten unmittelbar nach der Schulstunde 
 
 ### _Verlaufsfeedback & Verhaltensdiagramm:_
 
-![Verlaufsfeedback & Verhaltensdiagramme](/assets/images/logos/KVM_Verlaufsfeedback_Verhaltensdiagramm.png) Verhaltensbeurteilungen der gesamten Woche werden von der Lehrkraft wertschätzend zurückgemeldet und mit dem Kind in ein Verlaufsdiagramm übertragen, auf dem Fortschritte sichtbar werden. 
+![Verlaufsfeedback & Verhaltensdiagramme](/assets/images/logos/KVM_Verlaufsfeedback_Verhaltensdiagramm_112Px.png) Verhaltensbeurteilungen der gesamten Woche werden von der Lehrkraft wertschätzend zurückgemeldet und mit dem Kind in ein Verlaufsdiagramm übertragen, auf dem Fortschritte sichtbar werden. 
 
 ### _Beziehungsarbeit durch Feedback & Belohnung:_
 
-![Beziehungsarbeit durch Feedback & Belohnung](/assets/images/logos/KVM_Beziehungsarbeit.png) Die Eltern besprechen mit dem Kind am Ende der Woche die positiven Fortschritte aus der Schule und vergeben (wenn eine zuvor festgelegte Grenze erreicht ist) eine Belohnung. Wenn das Elternhaus an einer Kooperation kein Interesse hat, kann dieser Schritt in der Schule durchgeführt werden.
+![Beziehungsarbeit durch Feedback & Belohnung](/assets/images/logos/KVM_Beziehungsarbeit_112Px.png) Die Eltern besprechen mit dem Kind am Ende der Woche die positiven Fortschritte aus der Schule und vergeben (wenn eine zuvor festgelegte Grenze erreicht ist) eine Belohnung. Wenn das Elternhaus an einer Kooperation kein Interesse hat, kann dieser Schritt in der Schule durchgeführt werden.
 
 ### _Kooperationsgespräche:_
 
-![Kooperationsgespräche](/assets/images/logos/KVM_Kooperationsgespräche.png)  Zur Einführung in das Konzept und die damit verbundenen Aufgaben für alle Beteiligten findet ein Kooperationsgespräch unter Anleitung eines/r Projektmitarbeiters/in statt. Anschließende persönliche oder telefonische Coaching Gespräche dienen der Rückmeldung und der Lösung möglicher Problemstel-lungen.
+![Kooperationsgespräche](/assets/images/logos/KVM_Kooperationsgespräche_112Px.png)  Zur Einführung in das Konzept und die damit verbundenen Aufgaben für alle Beteiligten findet ein Kooperationsgespräch unter Anleitung eines/r Projektmitarbeiters/in statt. Anschließende persönliche oder telefonische Coaching Gespräche dienen der Rückmeldung und der Lösung möglicher Problemstel-lungen.
 
 Alle wichtigen Informationen zur Durchführung der KVM werden den beteiligten Personen im Zuge der Kooperationsgespräche und im Verlauf des Projektes vermittelt – es findet Lernen im Prozess statt. Zusätzlich werden Online-Videos und Webinare zur Verfügung gestellt, die beispielhaft den Ablauf und die Teilschritte der KVM aufzeigen und vermitteln. 
 
