@@ -44,17 +44,20 @@ Zunächst wird zwischen allen Kooperationspartner/innen gemeinsam erarbeitet, wo
 
 ![KVM Kooperative Verhaltensmodifikation - Gesamtbild](/assets/images/logos/KVM_komplett.png)
 
-### _Verhaltensvertrag:_
+### _Verhaltensvertrag:_    ![Verhaltensvertrag](/assets/images/logos/KVM_Verhaltensvertrag.png)
 
-![Verhaltensvertrag](/assets/images/logos/KVM_Verhaltensvertrag.png)   Lehrkraft und Schüler formulieren gemeinsam eine „Zielvereinbarung“, die gewünschtes positives Verhalten definiert und Belohnungen für dieses Verhalten festschreibt.
+Lehrkraft und Schüler formulieren gemeinsam eine „Zielvereinbarung“, die gewünschtes positives Verhalten definiert und Belohnungen für dieses Verhalten festschreibt.
 
-### _Verhaltensverlaufsdiagnostik:_
 
-![Verhaltensverlaufsdiagnostik](/assets/images/logos/KVM_Verhaltensverlaufsdiagnostik.png)   Die Lehrkraft beobachtet während der Schulzeit, ob das zuvor vereinbarte Zielverhalten gezeigt wird. Das Kind beobachtet sein eigenes Verhalten. 
+### _Verhaltensverlaufsdiagnostik:_    ![Verhaltensverlaufsdiagnostik](/assets/images/logos/KVM_Verhaltensverlaufsdiagnostik.png)
 
-### _Direktes Feedback & Feedbackplan:_
+Die Lehrkraft beobachtet während der Schulzeit, ob das zuvor vereinbarte Zielverhalten gezeigt wird. Das Kind beobachtet sein eigenes Verhalten. 
 
-![Direktes Feedback & Feedbackplan](/assets/images/logos/KVM_Feedback_Feedbackplan.png) Die Lehrkraft meldet das beobachtete Verhalten unmittelbar nach der Schulstunde kurz an das Kind zurück. Das Kind schätzt sein eigenes Verhalten ein. Beide Beurteilungen werden in einen Feedbackplan eingetragen. 
+
+### _Direktes Feedback & Feedbackplan:_    ![Direktes Feedback & Feedbackplan](/assets/images/logos/KVM_Feedback_Feedbackplan.png) 
+
+Die Lehrkraft meldet das beobachtete Verhalten unmittelbar nach der Schulstunde kurz an das Kind zurück. Das Kind schätzt sein eigenes Verhalten ein. Beide Beurteilungen werden in einen Feedbackplan eingetragen. 
+
 
 ### _Verlaufsfeedback & Verhaltensdiagramm:_
 
