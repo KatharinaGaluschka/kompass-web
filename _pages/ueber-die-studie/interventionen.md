@@ -40,12 +40,15 @@ Als dritte Säule zur Förderung der Zielkinder wird eine „Kooperative Verhalt
 
 ## **_Ablauf:_**
 
-Zunächst wird zwischen allen Kooperationspartner/innen gemeinsam erarbeitet, wo die Verhaltensprobleme der Kinder liegen. Die Abbildung zeigt die sechs Bausteine, die Inhalt der anschließenden KVM sind. 
+Zunächst wird zwischen allen Kooperationspartner/innen gemeinsam erarbeitet, wo die Verhaltensprobleme der Kinder liegen.  
 
 ![KVM Kooperative Verhaltensmodifikation - Gesamtbild](/assets/images/logos/KVM_komplett.png)
 
+Die Abbildung zeigt die sechs Bausteine, die Inhalt der anschließenden KVM sind.
 
-![Verhaltensvertrag](/assets/images/logos/KVM_Verhaltensvertrag.png)   _Verhaltensvertrag:_ 
+
+
+### _Verhaltensvertrag:_ ![Verhaltensvertrag](/assets/images/logos/KVM_Verhaltensvertrag.png)    
 
 Lehrkraft und Schüler formulieren gemeinsam eine „Zielvereinbarung“, die gewünschtes positives Verhalten definiert und Belohnungen für dieses Verhalten festschreibt.
 
