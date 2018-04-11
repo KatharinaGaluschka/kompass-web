@@ -31,7 +31,7 @@ Michael von Aster:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 Martina Durchholz:
-  name             : "Martina Durchholz, M.Sc."
+  name             : "Martina Durchholz, M. Sc."
   avatar           : "/assets/images/authors/Durchholz.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |-
     studierte Psychologie mit klinischem und kognitionspsychologischem Schwerpunkt an der Universität Regensburg und arbeitet seit 2018 als wissenschaftliche Mitarbeiterin und Doktorandin an der Klinik und Poliklinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie der Universität München.
@@ -107,7 +107,7 @@ Katharina Galuschka:
 
 Christian Huber:
   name             : "Prof. Christian Huber"
-  avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  # path of avatar image, e.g. "/assets/images/Huber.png"
   bio              : |-
     ist Professor für Sonderpädagogik mit dem Förderschwerpunkt Emotional-soziale Entwicklung an der Universität Wuppertal. 
   
@@ -143,12 +143,13 @@ Christian Huber:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 Sina Napiany:
-  name             : "Sina Napiany"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "studierte Pädagogik und Psychologie an der Universität Salzburg. Sie arbeitet seit 2017 als wissenschaftliche Mitarbeiterin und Doktorandin am Fachbereich der Sonderpädagogik mit dem Förderschwerpunkt emotional-soziale Entwicklung an der Bergischen Universität Wuppertal.
+  name             : "Sina Napiany, M. Sc."
+  avatar           : # path of avatar image, e.g. "/assets/images/Napiany.png"
+  bio              : "studierte Pädagogik und Psychologie an der Universität Salzburg. 
+  
+    Sie arbeitet seit 2017 als wissenschaftliche Mitarbeiterin und Doktorandin im Fachbereich der Sonderpädagogik mit dem Förderschwerpunkt emotional-soziale Entwicklung an der Bergischen Universität Wuppertal.
 
-Ihre Forschungsschwerpunkte liegen im Bereich der Methoden der präventiven Förderung von Kindern- und Jugendlichen mit Verhaltensproblemen und emotionalen Auffälligkeiten in der Schule. Insbesondere sind hierbei die Verhaltensverlaufsdiagnostik und die Verhaltensbeurteilung sowohl aus der Perspektive von Lehrkräften, als auch aus der Perspektive der Schülerinnen und Schülern im Fokus. 
-"
+    Ihre Forschungsschwerpunkte liegen im Bereich der Methoden der präventiven Förderung von Kindern- und Jugendlichen mit Verhaltensproblemen und emotionalen Auffälligkeiten in der Schule. Insbesondere sind hierbei die Verhaltensverlaufsdiagnostik und die Verhaltensbeurteilung sowohl aus der Perspektive von Lehrkräften, als auch aus der Perspektive der Schülerinnen und Schülern im Fokus."
   location         : "Wuppertal"
   email            : "napiany@uni-wuppertal.de"
   uri              : "https://www.ifb.uni-wuppertal.de/arbeitsbereiche/es/snapiany.html"
