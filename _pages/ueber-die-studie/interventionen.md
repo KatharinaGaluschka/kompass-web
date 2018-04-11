@@ -45,7 +45,7 @@ Zunächst wird zwischen allen Kooperationspartner/innen gemeinsam erarbeitet, wo
 ![KVM Kooperative Verhaltensmodifikation - Gesamtbild](/assets/images/logos/KVM_komplett.png)
 
 
-![Verhaltensvertrag] (/assets/images/logos/KVM_Verhaltensvertrag.png)   _Verhaltensvertrag:_ 
+![Verhaltensvertrag](/assets/images/logos/KVM_Verhaltensvertrag.png)   _Verhaltensvertrag:_ 
 
 Lehrkraft und Schüler formulieren gemeinsam eine „Zielvereinbarung“, die gewünschtes positives Verhalten definiert und Belohnungen für dieses Verhalten festschreibt.
 
