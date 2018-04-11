@@ -107,7 +107,7 @@ Katharina Galuschka:
 
 Christian Huber:
   name             : "Prof. Christian Huber"
-  avatar           :  # path of avatar image, e.g. "/assets/images/Huber.png"
+  avatar           : "/assets/images/authors/Huber.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |-
     ist Professor für Sonderpädagogik mit dem Förderschwerpunkt Emotional-soziale Entwicklung an der Universität Wuppertal. 
   
@@ -144,7 +144,7 @@ Christian Huber:
 
 Sina Napiany:
   name             : "Sina Napiany, M. Sc."
-  avatar           : # path of avatar image, e.g. "/assets/images/Napiany.png"
+  avatar           : "/assets/images/authors/Napiany.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "studierte Pädagogik und Psychologie an der Universität Salzburg. 
   
     Sie arbeitet seit 2017 als wissenschaftliche Mitarbeiterin und Doktorandin im Fachbereich der Sonderpädagogik mit dem Förderschwerpunkt emotional-soziale Entwicklung an der Bergischen Universität Wuppertal.
