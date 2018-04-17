@@ -181,7 +181,7 @@ Sina Napiany:
 
 Gerd Schulte-Körne:
   name             : "Prof. Gerd Schulte-Körne"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/authors/Schulte-Körne.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
   location         : "München"
   email            : ""
