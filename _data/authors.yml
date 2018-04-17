@@ -182,7 +182,12 @@ Sina Napiany:
 Gerd Schulte-Körne:
   name             : "Prof. Gerd Schulte-Körne"
   avatar           : "/assets/images/authors/Schulte-Körne.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
+  bio              : |-
+    ist Direktor der Klinik und Poliklinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie am Klinikum der Universität München und Inhaber des Lehrstuhls für Kinder- und Jugendpsychiatrie der Ludwig-Maximilian-Universität München. 
+
+Nach langjähriger Tätigkeit als Oberarzt der Klinik für Kinder- und Jugendpsychiatrie und -psychotherapie der Philipps-Universität Marburg und als Stv. Leiter der Erziehungsberatungsstelle des Vereins für Erziehungshilfe e. V. Marburg und Ärztl.-Pädagogischen Jugendhilfe der Universität Marburg folgte er 2006 dem Ruf an die LMU. 
+
+Ausgewählte Forschungsschwerpunkte umfassen derzeit schulische Entwicklungsstörungen und Depression in Kindheit und Jugend. Dabei stehen Neuroimaging und Neurophysiologie, sowohl genetische als auch Interventionsstudien, Therapieentwicklung und -evaluation sowie Präventionsforschung im Fokus.
   location         : "München"
   email            : ""
   uri              :
