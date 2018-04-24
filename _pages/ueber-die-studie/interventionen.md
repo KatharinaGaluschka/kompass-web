@@ -13,7 +13,7 @@ Die geplante Intervention besteht aus drei grundlegenden Säulen:
 
 ![Interventionsbausteine](/assets/images/logos/Interventionsbausteine.png) 
 
-Sie beginnt in Klassen in denen Kinder mit Verhaltensauffälligkeiten identifiziert werden mit dem KlasseKinderSpiel, welches von der Kooperativen Verhaltensmodifikation abgelöst wird. Die PC-gestützte Förderung findet während des gesamten Förderzeitraums parallel statt. Bei Auftreten von Umschriebenen Entwicklungsstörungen schulischer Fähigkeiten (UESF) ohne Verhaltensauffälligkeiten findet ausschließlich die PC-gestützte Förderung zu Hause statt.
+Sie beginnt in Klassen in denen Kinder mit Verhaltensauffälligkeiten identifiziert werden mit dem KlasseKinderSpiel, welches nach einiger Zeit von der Kooperativen Verhaltensmodifikation begleitet wird. Die PC-gestützte Förderung findet während des gesamten Förderzeitraums parallel statt. Bei Auftreten von Umschriebenen Entwicklungsstörungen schulischer Fähigkeiten (UESF) ohne Verhaltensauffälligkeiten findet ausschließlich die PC-gestützte Förderung zu Hause statt.
 
 # **I. Das KlasseKinderSpiel**
 
