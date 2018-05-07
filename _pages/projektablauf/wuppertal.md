@@ -9,7 +9,7 @@ sidebar:
 
 # **Ablauf für die Region Wuppertal**
 
-![Grafik zum Projektablauf Wuppertal] (image:/assets/images/Ablauf Wupp.png)
+![Grafik zum Projektablauf Wuppertal](/assets/images/Ablauf Wupp.png)
 
 
 {% include machmit.html %}
