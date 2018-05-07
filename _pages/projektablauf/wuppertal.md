@@ -9,7 +9,7 @@ sidebar:
 
 # **Ablauf für die Region Wuppertal**
 
-![Grafik zum Projektablauf Wuppertal](/assets/images/backgrounds/Ablaufgrafik Wuppertal.png)
+![Grafik zum Projektablauf Wuppertal](image: /assets/images/Ablaufgrafik Wuppertal.png)
 
 
 
