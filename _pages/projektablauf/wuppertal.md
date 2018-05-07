@@ -9,8 +9,6 @@ sidebar:
 
 # **Ablauf für die Region Wuppertal**
 
-
-|-
 ![Grafik zum Projektablauf Wuppertal](/assets/images/AblaufWupp.JPG)
 
 
