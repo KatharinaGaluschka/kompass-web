@@ -11,7 +11,7 @@ sidebar:
 
 
 |-
-![Grafik zum Projektablauf Wuppertal](/assets/images/Ablauf Wupp.png)
+![Grafik zum Projektablauf Wuppertal](/assets/images/AblaufWupp.JPG)
 
 
 {% include machmit.html %}
