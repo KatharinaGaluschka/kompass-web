@@ -33,7 +33,12 @@ Michael von Aster:
 Moritz Börnert-Ringleb:
   name             : "Dr. Moritz Börnert-Ringleb"
   avatar           :  "/assets/images/authors/moritz_IMG_2734_2.jpg"
-  bio              : "bio bitte ergänzen"
+  bio              : |-
+    studierte Sonderpädagogik mit den Schwerpunkten Lernen/emotional-soziale Entwicklung an der Universität Oldenburg und arbeitet seit 2014 als wissenschaftlicher Mitarbeiter am Lehrstuhl für Inklusionspädagogik, Schwerpunkt Forschungsmethoden und Diagnostik an der Universität Potsdam.
+  
+    Er promovierte zum Thema: „Dynamisches Testen in der sonderpädagogischen Diagnostik“.
+  
+    Seine aktuellen Forschungsinteressen umfassen Fragen zur Verbindung von Diagnostik und Förderung unterschiedlicher Facetten von Lernprozessen.
   location         : "Potsdam"
   email            : ""
   uri              :
