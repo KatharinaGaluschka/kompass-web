@@ -31,8 +31,8 @@ Michael von Aster:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   
 Moritz Börnert-Ringleb:
-  name             : "Moritz Börnert-Ringleb"
-  avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Dr. Moritz Börnert-Ringleb"
+  avatar           :  "/assets/images/authors/moritz_IMG_2734_2.jpg"
   bio              : "bio bitte ergänzen"
   location         : "Potsdam"
   email            : ""
