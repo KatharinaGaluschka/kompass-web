@@ -39,7 +39,7 @@ Moritz Börnert-Ringleb:
     Er promovierte zum Thema: „Dynamisches Testen in der sonderpädagogischen Diagnostik“.
   
    Seine aktuellen Forschungsinteressen umfassen Fragen zur Verbindung von Diagnostik und Förderung unterschiedlicher Facetten von Lernprozessen.
-  location         : "Berlin/Potsdam"
+  location         : "Potsdam"
   email            : ""
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -290,7 +290,7 @@ Jürgen Wilbert:
   avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |- 
     ist Professor für Inklusionspädagogik mit dem Schwerpunkten Forschungsmethoden und Diagnostik an der Universität Potsdam.
-  location         : "Berlin/Potsdam"
+  location         : "Potsdam"
   email            : ""
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
