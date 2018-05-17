@@ -256,7 +256,9 @@ Gerd Schulte-Körne:
 Jürgen Wilbert:
   name             : "Prof. Dr. Jürgen Wilbert"
   avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "bio bitte ergänzen"
+  bio              : |- 
+    ist Professor für Inklusionspädagogik mit den Schwerpunkten Forschungsmethoden und Diagnostik an der Universität Potsdam. 
+
   location         : "Potsdam"
   email            : ""
   uri              :
