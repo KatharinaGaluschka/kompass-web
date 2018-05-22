@@ -21,10 +21,10 @@ in Kooperation mit der Bergischen Universität Wuppertal
 ein pädagogisch-therapeutisches Programm entwickelt, das sowohl die schulischen Leistungsschwächen als auch die möglichen emotionalen Probleme und Verhaltensauffälligkeiten anspricht. Dieses Förderkonzept soll nun in der Praxis evaluiert werden, um die Effektivität von Förderprogrammen zu steigern und darüber hinaus für jedes Kind die passenden Möglichkeiten und Lösungen zu finden.
 
 
-Das Bundesministerium für Bildung und Forschung fördert das Projekt!
+Das Bundesministerium für Bildung und Forschung fördert das Projekt.
 
 
-[BMBF Logo](/assets/images/logos/BmBF-Logo.jpg). 
+![BMBF Logo](/assets/images/logos/BmBF-Logo.jpg). 
 
 
 
