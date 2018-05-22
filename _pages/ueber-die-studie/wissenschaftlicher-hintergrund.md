@@ -25,7 +25,7 @@ Das Bundesministerium für Bildung und Forschung fördert das Projekt.
 
 
 
-![BMBF Logo](/assets/images/logos/BmBF-Logo.jpg). 
+![BMBF Logo](/assets/images/logos/BmBF-Logo_kleiner_50.jpg). 
 
 
 
