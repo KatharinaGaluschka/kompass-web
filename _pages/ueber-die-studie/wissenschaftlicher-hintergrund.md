@@ -24,7 +24,10 @@ ein pädagogisch-therapeutisches Programm entwickelt, das sowohl die schulischen
 Das Bundesministerium für Bildung und Forschung fördert das Projekt.
 
 
+
 ![BMBF Logo](/assets/images/logos/BmBF-Logo.jpg). 
+
+
 
 
 
