@@ -1,6 +1,6 @@
   Prof. Michael von Aster:
   name             : "Prof. Michael von Aster"
-  avatar           :
+  avatar           : "/assets/images/authors/vonAster.jpg"
   bio              : Diplompädagoge (1976), Dr. med. (1984), Dr. med. habil. (1998), Chefarzt der Kliniken für Kinder- und Jugendpsychiatrie, Psychotherapie und Psychosomatik an den DRK-Kliniken Berlin und am Ernst von Bergmann-Klinikum Potsdam. Seine Forschungsinteressen liegen im Bereich der schulischen Entwicklungsstörungen (Entwicklungs- Neurobiologie, Ursachen, Verlauf, Diagnostik, Präention, Förderung, Therapie), Therapieevaluation, Methoden der Reintegration und Inklusion.
   location         : "Berlin"
   email            : ""
@@ -181,7 +181,7 @@ Christian Huber:
   
 Linda Kuhr
   name             : "Linda Kuhr"
-  avatar           : "/assets/images/authors/Linda Kuhr.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/authors/Linda Kuhr.png"
   bio              : |-
     studierte Sonderpädagogik mit den Förderschwerpunkten emotional soziale Entwicklung und Lernen an der Universität Rostock.
     
