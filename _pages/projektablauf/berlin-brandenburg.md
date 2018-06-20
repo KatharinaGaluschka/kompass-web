@@ -1,6 +1,6 @@
 ---
 title: Projektablauf in Berlin/ Brandenburg
-permalink: /projektablauf/berlin/
+permalink: /projektablauf/berlin-brandenburg/
 header:
   image: /assets/images/backgrounds/calendar.jpg
 sidebar:
