@@ -1,5 +1,5 @@
 ---
-title: Projektablauf in Berlin
+title: Projektablauf in Berlin/ Brandenburg
 permalink: /projektablauf/berlin/
 header:
   image: /assets/images/backgrounds/calendar.jpg
