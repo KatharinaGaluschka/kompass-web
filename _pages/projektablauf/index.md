@@ -8,7 +8,7 @@ sidebar:
 ---
 Hier den Ablauf beschreiben
 
-* [Berlin](berlin/)
+* [Berlin/Brandenburg](berlin-brandenburg/)
 * [München](muenchen/)
 * [Wuppertal](wuppertal/)
 
