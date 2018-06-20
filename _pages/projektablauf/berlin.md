@@ -8,7 +8,7 @@ sidebar:
 ---
 **Ablauf für die Region Berlin/ Brandenburg**
 
-![Ablauf UP](/assets/images/logos/Ablauf Intervention UP.png) 
+![Ablauf UP](/assets/images/logos/AblaufUP.jpg) 
 
 
 {% include machmit.html %}
