@@ -6,7 +6,7 @@ header:
 sidebar:
   nav: "projektablauf"
 ---
-fontsize: 7 # **Ablauf für die Region Berlin/ Brandenburg**
+<fontsize:7>**Ablauf für die Region Berlin/ Brandenburg** </fontsize>
 
 
 
