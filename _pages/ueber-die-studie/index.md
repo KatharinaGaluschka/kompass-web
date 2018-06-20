@@ -2,7 +2,7 @@
 title: Über die Studie
 permalink: /ueber-die-studie/
 header:
-  <img src="assets/images/logokompass.png" width="200">
+  <img src="assets/images/logokompass.png">
 sidebar:
   nav: "ueber-die-studie"
 ---
