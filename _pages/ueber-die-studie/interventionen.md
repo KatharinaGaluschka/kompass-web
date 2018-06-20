@@ -2,7 +2,7 @@
 title: Die Interventionen
 permalink: /ueber-die-studie/interventionen/
 header:
-  image: /assets/images/backgrounds/tabletbooks.jpg
+  image: /assets/images/backgrounds/Interventionsablauf allgemein.png
 sidebar:
   nav: "ueber-die-studie"
 ---
