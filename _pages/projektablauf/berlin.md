@@ -6,5 +6,8 @@ header:
 sidebar:
   nav: "projektablauf"
 ---
+# **Ablauf für die Region Berlin/ Brandenburg**
+
+![Grafik zum Projektablauf Wuppertal](/assets/images/logos/Ablauf Intervention UP.PNG)
 
 {% include machmit.html %}
