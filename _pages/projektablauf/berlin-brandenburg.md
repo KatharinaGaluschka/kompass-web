@@ -8,7 +8,7 @@ sidebar:
 ---
 **Ablauf für die Region Berlin/ Brandenburg**
 
-![AblaufUP](/assets/images/AblaufUP.jpg) 
+![AblaufUP](/assets/images/AblaufUP.png) 
 
 Wenn Sie Interesse am Projekt haben und gern zur ersten Informationsveranstaltung eingeladen werden würden, kontaktieren Sie bitte [Linda Kuhr](team/)
 
