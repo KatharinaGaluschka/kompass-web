@@ -11,5 +11,4 @@ sidebar:
 ![Ablauf UP](/assets/images/logos/Ablauf Intervention UP.png) 
 
 
-
 {% include machmit.html %}
