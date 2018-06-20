@@ -178,9 +178,10 @@ Christian Huber:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  |
- name             : "Linda Kuhr"
-  avatar           : 
+  
+Linda Kuhr
+  name             : "Linda Kuhr"
+  avatar           : "/assets/images/authors/Linda Kuhr.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |-
     studierte Sonderpädagogik mit den Förderschwerpunkten emotional soziale Entwicklung und Lernen an der Universität Rostock.
     
