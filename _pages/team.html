@@ -11,11 +11,11 @@ header:
 
 <!--
   Sie wollen ein Teammitglied hinzufügen oder ändern?
-  Bitte die Datei _data/authors.yaml anpassen.
+  Bitte die Datei _data/authors.yml anpassen.
   Link: https://github.com/KatharinaGaluschka/kompass-web/blob/master/_data/authors.yml
 -->
 
-{% for author_hash in site.data.authors.yml %}
+{% for author_hash in site.data.authors %}
 {% assign author = author_hash[1] %}
 
 <div itemscope itemtype="http://schema.org/Person">
