@@ -2,7 +2,7 @@
 title: Die Interventionen
 permalink: /ueber-die-studie/interventionen/
 header:
-  image: /assets/images/logokompass.png
+  image: /assets/images/logos/Kompass Schriftzug.svg
 sidebar:
   nav: "ueber-die-studie"
 ---
