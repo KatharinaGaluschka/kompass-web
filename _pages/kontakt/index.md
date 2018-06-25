@@ -1,24 +1,15 @@
 ---
 title: Kontakt
 permalink: /kontakt/
-header:
-  image: /assets/images/backgrounds/feedback.jpg
 ---
 
-Bitte verwenden Sie das Kontaktformular für Fragen zur Studie, oder wenn Sie teilnehmen möchten.
+Bitte kontaktieren Sie für Rückfragen und bei Interesse an der Studienteilnahme direkt die Ansprechpartner in Ihrer Region via E-Mail. Nennen Sie uns dabei bitte Ihren Namen, Ihre Schule und (wenn gewünscht) Ihre Telefonnummer für Rückfragen.
 
-<form action="https://formspree.io/katharina.galuschka@med.uni-muenchen.de"
-      method="POST">
-  <input type="text" name="name" placeholder="Ihr Name">
-  <input type="email" name="_replyto" placeholder="Ihre E-Mail-Adresse">
-  <input type="tel" name="telefonnummer" placeholder="Ihre Telefonnummer">
-  <input type="text" name="wohnort" placeholder="Ihre Wohnort">
-  <textarea name="nachricht" placeholder="Bitte hier Nachricht eingeben…" required="" rows="12"></textarea>
+Ansprechpartnerin Region  Berlin-Brandenburg (Projektzeitraum: Schuljahr 2019/2020):
+Linda Kuhr, linda.kuhr@uni-potsdam.de
 
-  <input type="hidden" name="_subject" value="KOMPASS: Neuer E-Mail-Kontakt" />
-  <input type="hidden" name="_language" value="de" />
-  <input type="text" name="_gotcha" style="display:none" />
-  <input type="submit" value="Absenden">
+Ansprechpartnerin Region München (Projektzeitraum Schuljahr 2018/2019):
+Martina Durchholz, M.Sc., kjp.kompass@med.uni-muenchen.de
 
-  <input type="hidden" name="_next" value="{{ '/kontakt/success' | absolute_url }}" />
-</form>
+Ansprechpartnerin Region Wuppertal (Projektzeitraum Schuljahr 2019/2020):
+Sina Napiany, M.Sc., napiany@uni-wuppertal.de
