@@ -11,5 +11,5 @@ sidebar:
 
 ![Grafik zum Projektablauf Wuppertal](/assets/images/logos/AblaufWupp.JPG)
 
-
+Für nähere Informationen zum Projektablauf in Wuppertal besuchen Sie gern auch folgende Website:  [https://www.ifb.uni-wuppertal.de/arbeitsbereiche/es/ondifoe.html]
 {% include machmit.html %}
