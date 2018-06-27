@@ -3,7 +3,7 @@ title: Über die Studie
 permalink: /ueber-die-studie/
 header:
   image: /assets/images/backgrounds/Interventionsablauf allgemein.png
-  img_width: 100
+  img_width: 50
 sidebar:
   nav: "ueber-die-studie"
 ---
