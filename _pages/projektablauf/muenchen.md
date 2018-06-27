@@ -6,6 +6,6 @@ header:
 sidebar:
   nav: "projektablauf"
 ---
-Wenn Sie Interesse am Projekt haben und gern zur ersten Informationsveranstaltung eingeladen werden würden, kontaktieren Sie bitte [Martina Durchholz](http://www.kompass-forschung.de/team/#Martina+Durchholz%2C+M.+Sc.)
+Wenn Sie Interesse am Projekt haben und gern zur ersten Informationsveranstaltung eingeladen werden würden, kontaktieren Sie bitte [Martina Durchholz](kjp.kompass@med.uni-muenchen.de)
 
 {% include machmit.html %}
