@@ -10,6 +10,6 @@ sidebar:
 
 ![AblaufUP](/assets/images/AblaufUP.jpg) 
 
-Wenn Sie Interesse am Projekt haben und gern zur ersten Informationsveranstaltung eingeladen werden würden, kontaktieren Sie bitte [Linda Kuhr](team/)
+Wenn Sie Interesse am Projekt haben und gern zur ersten Informationsveranstaltung eingeladen werden würden, kontaktieren Sie bitte [Linda Kuhr](/team/#Linda+Kuhr)
 
 {% include machmit.html %}
