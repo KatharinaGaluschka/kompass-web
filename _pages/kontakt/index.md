@@ -8,12 +8,12 @@ Bitte kontaktieren Sie für Rückfragen und bei Interesse an der Studienteilnahm
 **Ansprechpartnerin Region  Berlin-Brandenburg (Projektzeitraum: Schuljahr 2019/2020):**
 
 
-Linda Kuhr(linda.kuhr@uni-potsdam.de)
+[Linda Kuhr](linda.kuhr@uni-potsdam.de)
 
 **Ansprechpartnerin Region München (Projektzeitraum Schuljahr 2018/2019):**
 
-Martina Durchholz, M.Sc.(kjp.kompass@med.uni-muenchen.de)
+[Martina Durchholz, M.Sc.](kjp.kompass@med.uni-muenchen.de)
 
 **Ansprechpartnerin Region Wuppertal (Projektzeitraum Schuljahr 2019/2020):** 
 
-Sina Napiany, M.Sc.(napiany@uni-wuppertal.de)
+[Sina Napiany, M.Sc.](napiany@uni-wuppertal.de)
