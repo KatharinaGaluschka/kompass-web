@@ -16,4 +16,4 @@ Bitte kontaktieren Sie für Rückfragen und bei Interesse an der Studienteilnahm
 
 **Ansprechpartnerin Region Wuppertal (Projektzeitraum Schuljahr 2019/2020):** 
 
-[Sina Napiany, M.Sc.](mailto: napiany@uni-wuppertal.de)
+[Sina Napiany, M.Sc.](mailto:napiany@uni-wuppertal.de)
