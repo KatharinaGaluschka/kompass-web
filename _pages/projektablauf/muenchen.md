@@ -6,6 +6,16 @@ header:
 sidebar:
   nav: "projektablauf"
 ---
-Wenn Sie Interesse am Projekt haben und gern zur ersten Informationsveranstaltung eingeladen werden würden, kontaktieren Sie bitte [Martina Durchholz](http://www.kompass-forschung.de/team/#Martina+Durchholz%2C+M.+Sc.)
+
+# **Ablauf für die Region München**
+
+![Grafik zum Projektablauf München](/assets/images/logos/Ablauf_MUC.JPG)
+
+Für nähere Informationen besuchen Sie gern auch die [Erklärungen zur Intervention](http://www.http://www.kompass-forschung.de/ueber-die-studie/interventionen.md)
+
+Wenn Sie Interesse am Projekt haben, kontaktieren Sie bitte [Martina Durchholz](http://www.kompass-forschung.de/team/#Martina+Durchholz%2C+M.+Sc.)
 
 {% include machmit.html %}
+
+
+
