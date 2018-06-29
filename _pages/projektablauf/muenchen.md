@@ -9,7 +9,7 @@ sidebar:
 
 # **Ablauf für die Region München**
 
-![Grafik zum Projektablauf München](/assets/images/logos/Ablauf_MUC.JPG)
+![Grafik zum Projektablauf München](/assets/images/Ablauf_MUC.JPG)
 
 Für nähere Informationen besuchen Sie gern auch die [Erklärungen zur Intervention](http://www.kompass-web/_pages/ueber-die-studie/interventionen.md) 
 
