@@ -21,7 +21,7 @@ in Kooperation mit der Bergischen Universität Wuppertal
 
 sowie der Universität Potsdam
 ![Universtiät Potsdam](/assets/images/logos/Potsdam.jpg) 
-{:height="500px" width="auto"}
+{height="500px" width="auto"}
 
 
 und den    ![DRK Kliniken Berlin](/assets/images/logos/DRK Kliniken Berlin Logo.png)  
