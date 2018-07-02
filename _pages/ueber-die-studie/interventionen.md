@@ -1,11 +1,10 @@
 ---
 title: Die Interventionen2
 permalink: /ueber-die-studie/interventionen/
-header:
-  image: /assets/images/logos/Kompass Schriftzug.svg
 sidebar:
   nav: "ueber-die-studie"
 ---
+![Interventionsablauf](/assets/images/logos/Kompass Schriftzug.svg)
 
 Das sogenannte Response-to-Intervention-Modell beschreibt ein Rahmenkonzept zur Prävention und Intervention von Lern- und Verhaltensschwierigkeiten im schulischen und außerschulischen Umfeld. Durch eine gestufte Förderung können die Lern- und Entwicklungsziele aller Kinder berücksichtigt werden.
 
