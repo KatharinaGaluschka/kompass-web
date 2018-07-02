@@ -1,6 +1,6 @@
 ---
 title: Die Interventionen2
-permalink: /ueber-die-studie/interventionen2/
+permalink: /ueber-die-studie/interventionen/
 header:
   image: /assets/images/logos/Kompass Schriftzug.svg
 sidebar:
