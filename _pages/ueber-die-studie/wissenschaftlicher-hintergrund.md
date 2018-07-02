@@ -6,7 +6,7 @@ header:
 sidebar:
   nav: "ueber-die-studie"
 ---
-
+1
 Aufbauend auf der Grundlage bisheriger Forschung hat die
 
 
@@ -20,7 +20,8 @@ in Kooperation mit der Bergischen Universität Wuppertal
 ![Bergischen Universität Wuppertal](/assets/images/logos/Uni Wuppertal Logo.png)   
 
 sowie der Universität Potsdam
-![Universtiät Potsdam](/assets/images/logos/Potsdam.jpg) <!-- .element height="50%" width="50%" -->
+![Universtiät Potsdam](/assets/images/logos/Potsdam.jpg) 
+<!-- .element height="50%" width="50%" -->
 
 
 und den    ![DRK Kliniken Berlin](/assets/images/logos/DRK Kliniken Berlin Logo.png)  
