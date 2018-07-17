@@ -6,9 +6,6 @@ permalink: /
 {% include excerpt.html %}
 ---
 
-
-{% include feature_row id="intro" type="center" %}
-feature_row: 
 ## Liebe Leserin, lieber Leser:
 Kennen Sie das? Einzelne Kinder, mit denen Sie schulisch oder außerschulisch in Kontakt stehen, haben Schwierigkeiten beim Lesen, oder Rechnen und unterscheiden sich zudem auffällig in ihrem Verhalten von anderen gleichaltrigen Kindern?
 
