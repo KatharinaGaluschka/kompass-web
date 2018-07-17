@@ -2,7 +2,7 @@
 title: Kooperative Verhaltensmodifikation und PC-basierte Förderung von Verhaltensauffälligkeiten und Schulschwierigkeiten
 permalink: /
 header:
-  image: /assets/images/backgrounds/stifte.jpg
+  overlay_color: "#9e0e33"
 toc: true
 toc_label: "Inhalt"
 toc_icon: "file-alt"
