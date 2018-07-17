@@ -22,21 +22,17 @@ Das Team mit der geringsten Punktezahl gewinnt am Ende der Spielzeit eine Gruppe
 Der Einsatz des KlasseKinderSpiels reduziert nachweislich störendes Verhalten im Unterricht und beeinflusst das Klassenklima positiv. Die Kinder lernen, sich bei der Beachtung von Regeln gegenseitig zu unterstützen, was das Sozial- und Lernklima verbessert und die Lernzeiten im Unterricht erhöht. Motivation und Erfolgserleben bei adäquatem Verhalten werden gesteigert. 
 Lehrkräfte werden durch eine Kurzfortbildung (ca. 90 Minuten) in das KlasseKinderSpiel und mögliche Problemstellungen eingeführt. Hierzu werden sämtliche Materialien zur Verfügung gestellt.
 
-
-
 # II. PC-gestützte Förderung der schulischen Leistungsschwächen
 
 Die zweite Komponente der geplanten Intervention bezieht sich auf die Förderung der zuvor identifizierten schulischen Leistungsschwächen der Kinder. Dazu haben sie die Aufgabe, zu Hause mehrmals wöchentlich ein Lernspiel am Computer zu spielen. Diese Lernspiele zur Rechtschreibförderung (Meister Cody Namagi) und Rechenförderung (Calcularis) wurden basierend auf aktuellen Forschungsergebnissen entwickelt und fördern das Kind individuell angepasst auf dessen Ausgangslage und Lernfortschritte. 
 
 Die Lernprogramme werden kostenlos zur Verfügung gestellt und am heimischen PC oder Tablet (mit Android Betriebssystem) ausgeführt. Bei Bedarf kann ein Gerät für die Dauer des Trainings entliehen werden. Die Kinder und Erziehungspersonen erhalten hierzu eine Einführung durch eine/n Mitarbeiter/in der Projektgruppe. 
 
-
-
 # III. Kooperative Verhaltensmodifikation
 
 Als dritte Säule zur Förderung der Zielkinder wird eine „Kooperative Verhaltensmodifikation" (KVM) durchgeführt. Ziel ist es, dass Lehrkraft, Schüler/in und das Elternhaus gemeinsam unter Begleitung eines Coaches der Projektgruppe das Verhalten des Kindes regelmäßig und positiv unterstützen.
 
-## Ablauf:
+## Ablauf
 
 Zunächst wird zwischen allen Kooperationspartner/innen gemeinsam erarbeitet, wo die Verhaltensprobleme der Kinder liegen.  
 
@@ -44,38 +40,29 @@ Zunächst wird zwischen allen Kooperationspartner/innen gemeinsam erarbeitet, wo
 
 Die Abbildung zeigt die sechs Bausteine, die Inhalt der anschließenden KVM sind.
 
-
-
-### Verhaltensvertrag: ![Verhaltensvertrag](/assets/images/logos/KVM_Verhaltensvertrag_40Px.png)    
+### ![Verhaltensvertrag](/assets/images/logos/KVM_Verhaltensvertrag_40Px.png) Verhaltensvertrag
 
 Lehrkraft und Schüler formulieren gemeinsam eine „Zielvereinbarung“, die gewünschtes positives Verhalten definiert und Belohnungen für dieses Verhalten festschreibt.
 
-   
-### Verhaltensverlaufsdiagnostik: ![Verhaltensverlaufsdiagnostik](/assets/images/logos/KVM_Verhaltensverlaufsdiagnostik_40Px.png)   
+### ![Verhaltensverlaufsdiagnostik](/assets/images/logos/KVM_Verhaltensverlaufsdiagnostik_40Px.png)   Verhaltensverlaufsdiagnostik 
 
 Die Lehrkraft beobachtet während der Schulzeit, ob das zuvor vereinbarte Zielverhalten gezeigt wird. Das Kind beobachtet sein eigenes Verhalten. 
 
-
-### Direktes Feedback & Feedbackplan: ![Direktes Feedback & Feedbackplan](/assets/images/logos/KVM_Feedback_Feedbackplan_40Px.png) 
+### ![Direktes Feedback & Feedbackplan](/assets/images/logos/KVM_Feedback_Feedbackplan_40Px.png) Direktes Feedback & Feedbackplan
 
 Die Lehrkraft meldet das beobachtete Verhalten unmittelbar nach der Schulstunde kurz an das Kind zurück. Das Kind schätzt sein eigenes Verhalten ein. Beide Beurteilungen werden in einen Feedbackplan eingetragen. 
 
-
-### Verlaufsfeedback & Verhaltensdiagramm: ![Verlaufsfeedback & Verhaltensdiagramme](/assets/images/logos/KVM_Verlaufsfeedback_Verhaltensdiagramm_40Px.png) 
+### ![Verlaufsfeedback & Verhaltensdiagramme](/assets/images/logos/KVM_Verlaufsfeedback_Verhaltensdiagramm_40Px.png) Verlaufsfeedback & Verhaltensdiagramm
 
 Verhaltensbeurteilungen der gesamten Woche werden von der Lehrkraft wertschätzend zurückgemeldet und mit dem Kind in ein Verlaufsdiagramm übertragen, auf dem Fortschritte sichtbar werden. 
 
-
-### Beziehungsarbeit durch Feedback & Belohnung: ![Beziehungsarbeit durch Feedback & Belohnung](/assets/images/logos/KVM_Beziehungsarbeit_40Px.png) 
+### ![Beziehungsarbeit durch Feedback & Belohnung](/assets/images/logos/KVM_Beziehungsarbeit_40Px.png) Beziehungsarbeit durch Feedback & Belohnung
 
 Die Eltern besprechen mit dem Kind am Ende der Woche die positiven Fortschritte aus der Schule und vergeben (wenn eine zuvor festgelegte Grenze erreicht ist) eine Belohnung. Wenn das Elternhaus an einer Kooperation kein Interesse hat, kann dieser Schritt in der Schule durchgeführt werden.
 
-
-### Kooperationsgespräche: ![Kooperationsgespräche](/assets/images/logos/KVM_Kooperationsgespräche_40Px.png)  
+### ![Kooperationsgespräche](/assets/images/logos/KVM_Kooperationsgespräche_40Px.png)   Kooperationsgespräche
 
 Zur Einführung in das Konzept und die damit verbundenen Aufgaben für alle Beteiligten findet ein Kooperationsgespräch unter Anleitung eines/r Projektmitarbeiters/in statt. Anschließende persönliche oder telefonische Coaching Gespräche dienen der Rückmeldung und der Lösung möglicher Problemstellungen.
-
-
 
 Alle wichtigen Informationen zur Durchführung der KVM werden den beteiligten Personen im Zuge der Kooperationsgespräche und im Verlauf des Projektes vermittelt – es findet Lernen im Prozess statt. Zusätzlich werden Online-Videos und Webinare zur Verfügung gestellt, die beispielhaft den Ablauf und die Teilschritte der KVM aufzeigen und vermitteln. 
 
