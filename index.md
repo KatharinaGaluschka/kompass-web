@@ -4,8 +4,8 @@ permalink: /
 
 ---
 {% include excerpt.html %}
-feature_row:
 
+feature_row:
 <img scr="../assets/images/unsplash-gallery-image-1-th.jpg"
     alt: "Liebe Leserin, lieber Leser:"
     title: "Kennen Sie das?"
