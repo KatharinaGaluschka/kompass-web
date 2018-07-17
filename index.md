@@ -1,10 +1,11 @@
 ---
 title: Kooperative Verhaltensmodifikation und PC-basierte Förderung von Verhaltensauffälligkeiten und Schulschwierigkeiten
 permalink: /
+header:
+  image: /assets/images/backgrounds/stifte.jpg
+---
 
----
 {% include excerpt.html %}
----
 
 ## Liebe Leserin, lieber Leser:
 Kennen Sie das? Einzelne Kinder, mit denen Sie schulisch oder außerschulisch in Kontakt stehen, haben Schwierigkeiten beim Lesen, oder Rechnen und unterscheiden sich zudem auffällig in ihrem Verhalten von anderen gleichaltrigen Kindern?
