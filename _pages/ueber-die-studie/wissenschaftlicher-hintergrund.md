@@ -6,9 +6,8 @@ header:
 sidebar:
   nav: "ueber-die-studie"
 ---
-3
-Aufbauend auf der Grundlage bisheriger Forschung hat die
 
+Aufbauend auf der Grundlage bisheriger Forschung hat die
 
 ![Ludwig-Maximilian-Universität München](/assets/images/logos/KUM-logo_gruen_inv_11PR.png) 
 
