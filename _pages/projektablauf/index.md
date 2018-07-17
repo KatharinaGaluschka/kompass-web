@@ -5,6 +5,9 @@ header:
   image: /assets/images/backgrounds/calendar.jpg
 sidebar:
   nav: "projektablauf"
+toc: true
+toc_label: Bausteine
+toc_icon: "puzzle-piece"
 ---
 
 
