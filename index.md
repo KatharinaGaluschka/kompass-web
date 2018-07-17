@@ -3,6 +3,9 @@ title: Kooperative Verhaltensmodifikation und PC-basierte Förderung von Verhalt
 permalink: /
 header:
   image: /assets/images/backgrounds/stifte.jpg
+toc: true
+toc_label: "Inhalt"
+toc_icon: "file-alt"
 ---
 
 {% include excerpt.html %}
