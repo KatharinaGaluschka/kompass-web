@@ -8,7 +8,11 @@ toc_label: "Inhalt"
 toc_icon: "file-alt"
 ---
 
-{% include excerpt.html %}
+<aside class="notice--primary">
+  <strong> Nehmen Sie an der Studie teil!</strong>
+  <br> KOMPASS ist eine Studie für Kinder mit Lernschwierigkeiten und psychischen Belastungen. Ziel ist es, diesen eine gezielte Förderung im Sinne einer kooperativen Verhaltensmodifikation und PC-/Online-basierten Förderung von Verhaltensauffälligkeiten und Schulschwierigkeiten zukommen zu lassen und dies wissenschaftlich zu begleiten.
+  <br> <a href="{{ '/ueber-die-studie/' | absolute_url }}">Erfahren Sie mehr über die Studie! </a>
+</aside>
 
 ## Liebe Leserin, lieber Leser
 Kennen Sie das? Einzelne Kinder, mit denen Sie schulisch oder außerschulisch in Kontakt stehen, haben Schwierigkeiten beim Lesen, oder Rechnen und unterscheiden sich zudem auffällig in ihrem Verhalten von anderen gleichaltrigen Kindern?
