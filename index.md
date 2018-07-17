@@ -3,13 +3,8 @@ title: Kooperative Verhaltensmodifikation und PC-basierte Förderung von Verhalt
 permalink: /
 
 ---
-excerpt:
-  KOMPASS: Eine Studie für Kinder mit Lernschwierigkeiten und psychischen Belastungen.
-intro:
-  - excerpt: 'Kooperative Verhaltensmodifikation und PC-basierte Förderung von Verhaltensauffälligkeiten und schulischen Leistungsschwächen.'
---- 
+{% include excerpt.html %}
 
-----xx90
 
 {% include feature_row id="intro" type="center" %}
 
