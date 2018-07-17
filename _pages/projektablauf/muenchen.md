@@ -7,7 +7,7 @@ sidebar:
   nav: "projektablauf"
 ---
 
-# **Ablauf für die Region München**
+Ablauf für die Region München
 
 ![Grafik zum Projektablauf München](/assets/images/Ablauf_MUC.JPG)
 

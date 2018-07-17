@@ -7,7 +7,7 @@ sidebar:
   nav: "projektablauf"
 ---
 
-# **Ablauf für die Region Wuppertal**
+Ablauf für die Region Wuppertal
 
 ![Grafik zum Projektablauf Wuppertal](/assets/images/logos/AblaufWupp.JPG)
 
