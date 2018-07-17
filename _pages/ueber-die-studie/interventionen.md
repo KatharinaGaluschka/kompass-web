@@ -1,6 +1,5 @@
 ---
-![Interventionsablauf](/assets/images/logos/Kompass_Schriftzug.png)
-title: Die Interventionen2
+title: ![Interventionsablauf](/assets/images/logos/Kompass_Schriftzug.png)Die Interventionen6
 permalink: /ueber-die-studie/interventionen/
 sidebar:
   nav: "ueber-die-studie"
