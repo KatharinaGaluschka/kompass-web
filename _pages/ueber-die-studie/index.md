@@ -2,7 +2,7 @@
 title: Über die Studie
 permalink: /ueber-die-studie/
 header:
-image: /assets/images/backgrounds/Interventionsablauf allgemein.png
+  image: /assets/images/backgrounds/Interventionsablauf allgemein.png
   img_width: 100px
 sidebar:
   nav: "ueber-die-studie"
