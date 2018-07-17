@@ -12,7 +12,7 @@ Aufbauend auf der Grundlage bisheriger Forschung hat die [Ludwig-Maximilian-Univ
 Dieses Förderkonzept soll nun in der Praxis evaluiert werden, um die Effektivität von Förderprogrammen zu steigern und darüber hinaus für jedes Kind die passenden Möglichkeiten und Lösungen zu finden.
 
 Das [Bundesministerium für Bildung und Forschung][bmbf] fördert das Projekt.
-![BMBF Logo](/assets/images/logos/BmBF-Logo_kleiner_50.jpg){: .align-center}
+![Bundesministerium für Bildung und Forschung](/assets/images/logos/BmBF-Logo_kleiner_50.jpg){: .align-center}
 
 {% include machmit.html %}
 
