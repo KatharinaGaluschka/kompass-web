@@ -4,7 +4,8 @@ permalink: /
 
 ---
 {% include excerpt.html %}
----
+
+{% include feature_row id="intro" type="center" %}
 feature_row:
 <img scr="../assets/images/unsplash-gallery-image-1-th.jpg"
     alt: "Liebe Leserin, lieber Leser:"
