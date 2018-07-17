@@ -9,13 +9,13 @@ permalink: /
 
 {% include feature_row id="intro" type="center" %}
 feature_row:
-<img scr="../assets/images/unsplash-gallery-image-1-th.jpg"
+![Image] (/assets/images/unsplash-gallery-image-1-th.jpg)
     alt: "Liebe Leserin, lieber Leser:"
     title: "Kennen Sie das?"
-    excerpt: "…einzelne Kinder haben Probleme beim Lesen, Rechtschreiben und/oder Rechnen?>
+    excerpt: "…einzelne Kinder haben Probleme beim Lesen, Rechtschreiben und/oder Rechnen?
 
 
-…fallen im Unterricht häufig zusätzlich durch Verursachung von Störungen auf?
+X…fallen im Unterricht häufig zusätzlich durch Verursachung von Störungen auf?
 
 
 …Sie machen sich Sorgen, um einzelne schüchtern oder verängstigt wirkende Kinder?
