@@ -45,3 +45,5 @@ Die Teilnahmemöglichkeiten für die Studie bestehen in [Berlin- Brandenburg](ht
 -	3 Jahres Schullizenz des Programms „Calcularis“ (Mathematikförderung)
 -	Wissenschaftliche engmaschige Begleitung des Projektes
 -	Erhalt von Fortbildungen zum KlasseKinderSpiel und der Kooperativen Verhaltensmodifikation 
+
+{% include machmit.html %}
