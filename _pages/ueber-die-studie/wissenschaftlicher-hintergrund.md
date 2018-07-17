@@ -7,11 +7,16 @@ sidebar:
   nav: "ueber-die-studie"
 ---
 
-Aufbauend auf der Grundlage bisheriger Forschung hat die _Ludwig-Maximilian-Universität München_ in Kooperation mit der _Bergischen Universität Wuppertal_ sowie der _Universität Potsdam_ und den _DRK Kliniken Berlin_ ein pädagogisch-therapeutisches Programm entwickelt, das sowohl die schulischen Leistungsschwächen als auch die möglichen emotionalen Probleme und Verhaltensauffälligkeiten anspricht. Dieses Förderkonzept soll nun in der Praxis evaluiert werden, um die Effektivität von Förderprogrammen zu steigern und darüber hinaus für jedes Kind die passenden Möglichkeiten und Lösungen zu finden.
+Aufbauend auf der Grundlage bisheriger Forschung hat die [Ludwig-Maximilian-Universität München][lmu] in Kooperation mit der [Bergischen Universität Wuppertal][buw] sowie der [Universität Potsdam][up] und den [DRK Kliniken Berlin][drk] ein pädagogisch-therapeutisches Programm entwickelt, das sowohl die schulischen Leistungsschwächen als auch die möglichen emotionalen Probleme und Verhaltensauffälligkeiten anspricht.
 
+Dieses Förderkonzept soll nun in der Praxis evaluiert werden, um die Effektivität von Förderprogrammen zu steigern und darüber hinaus für jedes Kind die passenden Möglichkeiten und Lösungen zu finden.
 
-Das Bundesministerium für Bildung und Forschung fördert das Projekt.
-
-
+Das [Bundesministerium für Bildung und Forschung][bmbf] fördert das Projekt.
 
 {% include machmit.html %}
+
+[lmu]: https://www.kjp.med.uni-muenchen.de/forschung.php "Forschung in der Klinik und Poliklinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie der LMU München"
+[buw]: https://www.ifb.uni-wuppertal.de "IFB Uni Wuppertal"
+[up]: https://www.uni-potsdam.de/de/inklusion/forschungsmethodenunddiagnostik/wilbert.html "Inklusionspädagogik Uni Potsdam"
+[drk]: http://www.drk-kliniken-berlin.de/ "DRK Kliniken Berlin"
+[bmbf]: https://www.bmbf.de "Bundesministerium für Bildung und Forschung"
