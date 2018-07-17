@@ -15,8 +15,11 @@ Kennen Sie das? Einzelne Kinder, mit denen Sie schulisch oder außerschulisch in
 
 Sie haben Bedenken, dass dieses Kind nicht genügend oder unangemessene Förderung durch das Elternhaus und Sie selbst erhält?
 
-
-[**Werden Sie Teil unseres Projektes**](/team/)
+<aside class="notice--info">
+  <strong>
+    <a href="{{ '/team/' | absolute_url }}">Werden Sie Teil unseres Projektes!</a>
+  </strong>
+</aside>
 
 Als multidisziplinäres Forschungsteam beschäftigen wir uns mit der Frage, wie wir Kinder mit Schwierigkeiten beim Lesen und Rechnen unterstützen können. Aus diesem Grund wurden online- und computergestützte Förderprogramme entwickelt, deren positive Wirkung bereits gut belegt werden konnten. 
 
