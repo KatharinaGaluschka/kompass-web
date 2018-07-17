@@ -10,7 +10,7 @@ toc_icon: "file-alt"
 
 {% include excerpt.html %}
 
-## Liebe Leserin, lieber Leser:
+## Liebe Leserin, lieber Leser
 Kennen Sie das? Einzelne Kinder, mit denen Sie schulisch oder außerschulisch in Kontakt stehen, haben Schwierigkeiten beim Lesen, oder Rechnen und unterscheiden sich zudem auffällig in ihrem Verhalten von anderen gleichaltrigen Kindern?
 
 Sie haben Bedenken, dass dieses Kind nicht genügend oder unangemessene Förderung durch das Elternhaus und Sie selbst erhält?
@@ -28,7 +28,7 @@ Diese leistungsbezogenen Schulschwierigkeiten können isoliert auftreten, d. h. 
 So unterschiedlich wie die Kinder selbst, zeigen sich oft auch ihre Schwierigkeiten. 
 Ziel ist es daher, jedes Kind passend zu unterstützen. Dabei wurden für die Studie Fördermaßnahmen ausgewählt, welche in ihrer Struktur so angelegt sind, dass sie eine Anpassung für jedes Kind ermöglichen. Gleichzeitig ermöglichen die gewählten Fördermaßnahmen jedoch auch eine Übertragbarkeit auf andere Kinder und damit eine wissenschatfliche Auswertung ihrer Effektivität sowohl in Bezug auf das Verhalten des Kindes, sein oder ihr Selbstkonzept als auch auf seine oder ihre schulischen Lesitungen.
     
-## Studiendurchführung:
+## Studiendurchführung
 Die Studie beginnt im ersten Halbjahr der 3. Schulstufe mit einer Feststellung der Lese- und Rechenleistung sowie der Zahlenverarbeitung. Zudem werden die Einschätzungen der Eltern und Pädagogen zum Verhalten von schulleistungsauffälligen Lernenden eingeholt.
 Im zweiten Halbjahr schließt sich im Falle der Feststellung eines kombinierten Förderbedarfs, und im Falle der Einverständnis der Eltern, eine auf diesen Ergebnissen basierende und das individuelle Leistungsprofil des Lernenden zugeschnittene Online-/ PC-Förderung an. Gegebenenfalls kann hierfür Technik der beteiligten Universitäten zur Verfügung gestellt werden.
 Die Teilnahmemöglichkeiten für die Studie bestehen in [Berlin- Brandenburg](http://www.kompass-forschung.de/projektablauf/berlin-brandenburg/), [München](http://www.kompass-forschung.de/projektablauf/muenchen) sowie [Wuppertal](http://www.kompass-forschung.de/projektablauf/wuppertal) . Der Zeitplan der Studiendurchführung richtet sich nach dem jeweiligen Standort und ist bereits mit deren Nennung verlinkt. Informieren Sie sich gern.
