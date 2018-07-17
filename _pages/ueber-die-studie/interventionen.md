@@ -1,5 +1,5 @@
 ---
-title: ![Interventionsablauf](/assets/images/logos/Kompass_Schriftzug.png)Die Interventionen6
+title: Die Interventionen
 permalink: /ueber-die-studie/interventionen/
 sidebar:
   nav: "ueber-die-studie"
@@ -7,7 +7,7 @@ sidebar:
 
 Die geplante Intervention besteht aus drei grundlegenden Säulen:
 
-![Interventionsbausteine](/assets/images/logos/Interventionsbausteine.png) 
+![Interventionsbausteine](/assets/images/logos/Interventionsbausteine.png)
 
 Sie beginnt in Klassen in denen Kinder mit Verhaltensauffälligkeiten identifiziert werden mit dem KlasseKinderSpiel, welches nach einiger Zeit von der Kooperativen Verhaltensmodifikation begleitet wird. Die PC-gestützte Förderung findet während des gesamten Förderzeitraums parallel statt. Bei Auftreten von Umschriebenen Entwicklungsstörungen schulischer Fähigkeiten (UESF) ohne Verhaltensauffälligkeiten findet ausschließlich die PC-gestützte Förderung zu Hause statt.
 
