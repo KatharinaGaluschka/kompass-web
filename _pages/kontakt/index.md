@@ -3,7 +3,7 @@ title: Kontakt
 permalink: /kontakt/
 toc: true
 toc_label: Regionen
-toc_icon: "cog"
+toc_icon: "home"
 ---
 
 Bitte kontaktieren Sie für Rückfragen und bei Interesse an der Studienteilnahme direkt die Ansprechpartner in Ihrer Region via E-Mail. Nennen Sie uns dabei bitte Ihren Namen, Ihre Schule und (wenn gewünscht) Ihre Telefonnummer für Rückfragen.
