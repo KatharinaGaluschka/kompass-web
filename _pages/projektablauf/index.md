@@ -6,9 +6,10 @@ header:
 sidebar:
   nav: "projektablauf"
 ---
-Hier den Ablauf beschreiben
 
-* [Berlin/ Brandenburg](berlin-brandenburg/)
+Die Abläufe werden auf den folgenden Seiten für die jeweiligen Standorte beschrieben:
+
+* [Berlin/Brandenburg](berlin-brandenburg/)
 * [München](muenchen/)
 * [Wuppertal](wuppertal/)
 
