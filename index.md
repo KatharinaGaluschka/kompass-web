@@ -4,6 +4,8 @@ permalink: /
 
 ---
 {% include excerpt.html %}
+---
+
 
 {% include feature_row id="intro" type="center" %}
 feature_row:
