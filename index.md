@@ -53,10 +53,9 @@ Die Teilnahmemöglichkeiten für die Studie bestehen in [Berlin-Brandenburg](htt
 
 ## Weitere Informationen
 ### zum Zentralprojekt LONDI (Lernstörungen OnliNeplattform für DIagnostik und Intervention
-[Projektseite LONDI] (https://www.dipf.de/de/forschung/aktuelle-projekte/OnDiFoe-einrichtung-einer-online-plattform-zur-diagnostik-und-foerderung-von-kindern-mit-lernstoerungen)
+[Projektseite LONDI](https://www.dipf.de/de/forschung/aktuelle-projekte/OnDiFoe-einrichtung-einer-online-plattform-zur-diagnostik-und-foerderung-von-kindern-mit-lernstoerungen)
 
-###zum kombinierten Auftreten von emotional-sozialen Schwierigkeiten und Rechen-/Leseschwierigkeiten
-
+### zum kombinierten Auftreten von emotional-sozialen Schwierigkeiten und Rechen-/Leseschwierigkeiten
 Bos, C.S. & Vaughn, S. (2006). Strategies for Teaching Students with Learning and Behavior Problems. Boston: Pearson.
 Linderkamp, F., & Grünke, M. (2007). Lern-und Verhaltensstörungen: Klassifikation, Prävalenz & Prognostik. Lern-und Verhaltensstörungen. Genese-Diagnostik-Intervention (S. 14-28). Weinheim und Basel: Beltz.
 Ricking, H. (2005). Der „Overlap“ von Lern- und Verhaltensstörungen. Sonderpädagogik, 35, 235-248.
