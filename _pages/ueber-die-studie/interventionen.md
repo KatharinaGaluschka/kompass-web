@@ -69,6 +69,7 @@ Alle wichtigen Informationen zur Durchführung der KVM werden den beteiligten Pe
 ## Weitere Informationen und Studien zu den Interventionsverfahren
 
 ### KlasseKinder Spiel
+NN (2006). Wer flüstert, der siegt. Hoffnung für Zappelphilipp: Ein Spiel hilft Grundschulkindern dabei, sich zu konzentrieren. In: [DIE ZEIT](https://www.zeit.de/2006/45/C-Stillarbeit). 02.11.2006.
 
 ### Calcularis
 
