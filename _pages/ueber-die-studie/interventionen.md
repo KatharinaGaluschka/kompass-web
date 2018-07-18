@@ -72,8 +72,10 @@ Alle wichtigen Informationen zur Durchführung der KVM werden den beteiligten Pe
 NN (2006). Wer flüstert, der siegt. Hoffnung für Zappelphilipp: Ein Spiel hilft Grundschulkindern dabei, sich zu konzentrieren. In: [DIE ZEIT](https://www.zeit.de/2006/45/C-Stillarbeit). 02.11.2006.
 
 ### Calcularis
+[Website des Mathematikförderprogramms "Dybuster - Calcularis"](https://dybuster.com/de/calcularis/)
 
 ### Meister Cody Namagi
+[Website des Leseförderprogramms "Meister Cody - Namagi"](https://www.meistercody.com/produkte/namagi-legasthenie/)
 
 ### Kooperative Verhaltensmodifikation
 
