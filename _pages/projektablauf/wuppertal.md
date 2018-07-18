@@ -13,5 +13,5 @@ Ablauf für die Region Wuppertal
 
 Für nähere Informationen zum Projektablauf in Wuppertal besuchen Sie gern auch die [Wuppertaler Website](https://www.ifb.uni-wuppertal.de/arbeitsbereiche/es/ondifoe.html).
 
-Wenn Sie Interesse am Projekt haben und gern zur ersten Informationsveranstaltung eingeladen werden würden, kontaktieren Sie bitte [Sina Napiany](http://www.kompass-forschung.de/team/#Sina+Napiany%2C+M.+Sc.).
+Wenn Sie Interesse am Projekt haben und gern zur ersten Informationsveranstaltung eingeladen werden würden, kontaktieren Sie bitte [Sina Napiany](http://www.kompass-forschung.de/team/#Sina+Napiany%2C+M.+Sc.) bis zum Oktober 2018.
 {% include machmit.html %}
