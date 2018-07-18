@@ -35,4 +35,8 @@ Die Lernprogramme werden kostenlos zur Verfügung gestellt und am heimischen PC 
 
 Als dritte Säule zur Förderung der Zielkinder wird eine „Kooperative Verhaltensmodifikation" (KVM) durchgeführt. Ziel ist es, dass Lehrkraft, Schüler/in und das Elternhaus gemeinsam unter Begleitung eines Coaches der Projektgruppe das Verhalten des Kindes regelmäßig und positiv unterstützen.
 
+
+## Weitere Informationen und Studien zu den Interventionsverfahren
+
+
 {% include machmit.html %}
