@@ -44,6 +44,6 @@ Als dritte Säule zur Förderung der Zielkinder wird eine „Kooperative Verhalt
 
 ### Meister Cody Namagi
 
-### Kooperative VErhaltensmodifikation
+### Kooperative Verhaltensmodifikation
 
 {% include machmit.html %}
