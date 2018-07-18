@@ -41,7 +41,7 @@ Schulische Schwierigkeiten treten jedoch häufig auch in Kombination mit Schwier
 ## Ziel
 Wir möchten den Blick auf das ganze Kind richten. Dafür ist die individuelle Berücksichtigung emotionaler Belastungen und Verhaltensschwierigkeiten wichtig. 
 Unser Ziel ist es, Möglichkeiten zu finden, wie die Kinder, ihre Lehrkräfte und Eltern im Umgang mit der Doppelbelastung an einem Strang ziehen können. 
-Dadurch sollen die Lese- und Rechenleistungen der Kinder verbessert, die emotionalen Probleme und Verhaltensschwierigkeiten reduziert, sowie das gesamte Lernklima in der Klasse verbessert werden.
+Dadurch sollen die Lese- und Rechenleistungen der Kinder verbessert, die emotionalen Probleme und Verhaltensschwierigkeiten reduziert sowie das gesamte Lernklima in der Klasse verbessert werden.
 Zusätzlich möchten wir das Projekt wissenschaftlich begleiten, um eine Übertragbarkeit der Erkenntnisse aus diesem Projekt zu gewährleisten. 
 
 ## Studiendurchführung
