@@ -34,20 +34,20 @@ Sie suchen wie wir nach Möglichkeiten, wie diesen Kindern geholfen, die Unterri
 - 3-jährige Schullizenzen für Lernsoftware (Meister Cody & Dybuster Calcularis)
 
 ## Hintergrund
-Als multidisziplinäres Forschungsteam untersuchen wir, wie Kinder mit Schwierigkeiten im Lesen und Rechnen wirksam gefördert werden können. Wir entwickelten Förderprogramme, die das Lesen und Rechnen von Kindern mit Lernschwierigkeiten stark verbessern konnten. 
+Als multidisziplinäres Forschungsteam untersuchen wir, wie Kinder mit Schwierigkeiten im Lesen und Rechnen wirksam gefördert werden können. Wir entwickelten bereits Förderprogramme, die das Lesen und Rechnen von Kindern mit Lernschwierigkeiten stark verbessern konnten. 
 
 Schulische Schwierigkeiten treten jedoch häufig auch in Kombination mit Schwierigkeiten im Verhalten oder emotionalen Belastungen auf. Bisher fehlen allerdings wissenschaftliche Erkenntnisse, wie man Kinder mit dieser Doppelbelastung effektiv fördern kann.
 
 ## Ziel
 Wir möchten den Blick auf das ganze Kind richten. Dafür ist die individuelle Berücksichtigung emotionaler Belastungen und Verhaltensschwierigkeiten wichtig. 
-Unser Ziel ist es, Möglichkeiten zu finden, wie die Kinder ihre Lehrkräfte und Eltern im Umgang mit der Doppelbelastung an einem Strang ziehen können. 
+Unser Ziel ist es, Möglichkeiten zu finden, wie die Kinder, ihre Lehrkräfte und Eltern im Umgang mit der Doppelbelastung an einem Strang ziehen können. 
 Dadurch sollen die Lese- und Rechenleistungen der Kinder verbessert, die emotionalen Probleme und Verhaltensschwierigkeiten reduziert, sowie das gesamte Lernklima in der Klasse verbessert werden.
 Zusätzlich möchten wir das Projekt wissenschaftlich begleiten, um eine Übertragbarkeit der Erkenntnisse aus diesem Projekt zu gewährleisten. 
 
 ## Studiendurchführung
 Die Studie startet zu Beginn der 3. Schulstufe mit einer Feststellung der Lese-Rechtschreib- und Rechenleistung der gesamten teilnehmenden Klassen.
 Zeigen einzelne Kinder im Lesen und Rechnen Schwierigkeiten, werden wir ihre Lehrkräfte und Eltern um eine kurze Verhaltensbeurteilung bitten.
-Kinder mit Schwierigkeiten im Lesen oder Rechnen die zusätzlich noch emotionale Probleme oder Verhaltensschwierigkeiten zeigen, schließen wir in unsere Studie ein. 
+Kinder mit Schwierigkeiten im Lesen oder Rechnen, die zusätzlich noch emotionale Probleme oder Verhaltensschwierigkeiten zeigen, schließen wir in unsere Studie ein. 
 Sie erhalten im zweiten Halbjahr eine PC-Förderung, die das individuelle Leistungsprofil des Lernenden berücksichtigt. Zudem erhalten die Kinder eine kooperative Förderung ihres Verhaltens in Schule und Elternhaus.
 Die Teilnahmemöglichkeiten für die Studie bestehen in [Berlin-Brandenburg](http://www.kompass-forschung.de/projektablauf/berlin-brandenburg/), [München](http://www.kompass-forschung.de/projektablauf/muenchen) sowie [Wuppertal](http://www.kompass-forschung.de/projektablauf/wuppertal) . Der Zeitplan der Studiendurchführung richtet sich nach dem jeweiligen Standort und ist bereits mit deren Nennung verlinkt. Informieren Sie sich gern.
 
