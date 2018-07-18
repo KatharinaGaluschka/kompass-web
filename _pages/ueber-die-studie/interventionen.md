@@ -52,7 +52,7 @@ Die Lehrkraft beobachtet während der Schulzeit, ob das zuvor vereinbarte Zielve
 
 Die Lehrkraft meldet das beobachtete Verhalten unmittelbar nach der Schulstunde kurz an das Kind zurück. Das Kind schätzt sein eigenes Verhalten ein. Beide Beurteilungen werden in einen Feedbackplan eingetragen. 
 
-## ![Verlaufsfeedback & Verhaltensdiagramme](/assets/images/logos/KVM_Verlaufsfeedback_Verhaltensdiagramm_40Px.png) Verlaufsfeedback & Verhaltensdiagramm
+### ![Verlaufsfeedback & Verhaltensdiagramme](/assets/images/logos/KVM_Verlaufsfeedback_Verhaltensdiagramm_40Px.png) Verlaufsfeedback & Verhaltensdiagramm
 
 Verhaltensbeurteilungen der gesamten Woche werden von der Lehrkraft wertschätzend zurückgemeldet und mit dem Kind in ein Verlaufsdiagramm übertragen, auf dem Fortschritte sichtbar werden. 
 
