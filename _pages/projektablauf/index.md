@@ -10,13 +10,13 @@ toc_label: Bausteine
 toc_icon: "puzzle-piece"
 ---
 Das Projekt teilt sich in folgende Schritte:
-### erstes Schulhalbjahr: 
+### erstes Schulhalbjahr der 3. Klasse:
 1. Lernstandserhebung 
 2. Verhaltenserhebung bei Kindern, die auffällig im Lesen oder Rechnen sind
 3. Auswahl geeigneter Klassen und Zuordnung zur Kontroll-/ Interventionsgruppe
 4. Fortbildung der Lehrpersonen in Bezug auf die anzuwendenden Interventionen
 
-### zweites Schulhalbjahr
+### zweites Schulhalbjahr der 3. Klasse:
 1. Erhebung der Leistung und des Verhaltens zu Interventionsbeginn ("Prätest")
 2. Kontrollgruppe: Durchführung der Computer-/PC-gestützten Förderung
    Interventionsgruppe: Durchführung der Computer-/PC-gestützten Förderung, des KlasseKinderSpiels und der Kooperativen Verhaltensmodifikation, Coaching zur Kooperativen Verhaltensmodifikation durch Mitarbeitende der betreuuenden Universität
