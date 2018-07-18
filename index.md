@@ -11,7 +11,7 @@ toc_icon: "file-alt"
 <aside class="notice--primary">
   <strong> Nehmen Sie an der Studie teil!</strong>
   <br> KOMPASS ist eine Studie für Kinder mit Lernschwierigkeiten und psychischen Belastungen. Wir möchten die betroffenen Kinder, deren Eltern und Lehrkräfte in ihrem alltäglichen Umgang mit der Doppelbelastung unterstützen.
-  Dazu kombinieren wir eine schulische Verhaltensintervention mit einer PC-basierten Lernförderung und begleiten das Projekt wissenschaftlich.
+  Dazu kombinieren wir eine [schulische Verhaltensintervention](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen) mit einer [PC-/Online-basierten Lernförderung](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen) und begleiten das Projekt [wissenschaftlich](http://www.kompass-forschung.de/ueber-die-studie/wissenschaftlicher-hintergrund/).
   <br> <a href="{{ '/ueber-die-studie/' | absolute_url }}">Erfahren Sie mehr über die Studie! </a>
 </aside>
 
@@ -28,8 +28,8 @@ Sie suchen wie wir nach Möglichkeiten, wie diesen Kindern geholfen, die Unterri
 ## Nutzen für teilnehmenden Lehrkräfte
 -	Lernstandsdiagnostik der ganzen Schulklasse zu Beginn der 3. Klasse
 - Berufliche Selbstentwicklung und Weiterbildung
-- Schulungen zu Methoden des [Classroom-Management](http://www.kompass-forschung.de/ueber-die-studie/interventionen/) (KlasseKinderSpiel) und der [kooperativen Verhaltensmodifikation](http://www.kompass-forschung.de/ueber-die-studie/interventionen/)
-- Praxisnahe Erfahrung in der Durchführung des [Classroom-Management](http://www.kompass-forschung.de/ueber-die-studie/interventionen/) und der [kooperativen Verhaltensmodifikation](http://www.kompass-forschung.de/ueber-die-studie/interventionen/)
+- Schulungen zu Methoden des [Classroom-Management](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen) (KlasseKinderSpiel) und der [kooperativen Verhaltensmodifikation](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen)
+- Praxisnahe Erfahrung in der Durchführung des [Classroom-Management](http://www.kompass-forschung.de/ueber-die-studie/interventionen/) und der [kooperativen Verhaltensmodifikation](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen)
 - Professionelle Begleitung und Beratung während des Förderprozesses
 - 3-jährige Schullizenzen für Lernsoftware (Meister Cody & Dybuster Calcularis)
 
@@ -48,7 +48,7 @@ Zusätzlich möchten wir das Projekt wissenschaftlich begleiten, um eine Übertr
 Die Studie startet zu Beginn der 3. Schulstufe mit einer Feststellung der Lese-Rechtschreib- und Rechenleistung der gesamten teilnehmenden Klassen.
 Zeigen einzelne Kinder im Lesen und Rechnen Schwierigkeiten, werden wir ihre Lehrkräfte und Eltern um eine kurze Verhaltensbeurteilung bitten.
 Kinder mit Schwierigkeiten im Lesen oder Rechnen, die zusätzlich noch emotionale Probleme oder Verhaltensschwierigkeiten zeigen, schließen wir in unsere Studie ein. 
-Sie erhalten im zweiten Halbjahr eine [PC-/Online-Förderung](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen), die das individuelle Leistungsprofil des Lernenden berücksichtigt. Zudem erhalten die Kinder eine [kooperative Förderung ihres Verhaltens](http://www.kompass-forschung.de/ueber-die-studie/interventionen/) in Schule und Elternhaus.
+Sie erhalten im zweiten Halbjahr eine [PC-/Online-Förderung](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen), die das individuelle Leistungsprofil des Lernenden berücksichtigt. Zudem erhalten die Kinder eine [kooperative Förderung ihres Verhaltens](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen) in Schule und Elternhaus.
 Die Teilnahmemöglichkeiten für die Studie bestehen in [Berlin-Brandenburg](http://www.kompass-forschung.de/projektablauf/berlin-brandenburg/), [München](http://www.kompass-forschung.de/projektablauf/muenchen) sowie [Wuppertal](http://www.kompass-forschung.de/projektablauf/wuppertal). Die Links zu den einzelnen Standorten beinhalten jeweils auch den Zeitplan, da sich der Projektbeginn zwischen den Standorten unterscheidet. Informieren Sie sich gern.
 
 ## Weitere Informationen
