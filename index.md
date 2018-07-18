@@ -51,4 +51,13 @@ Kinder mit Schwierigkeiten im Lesen oder Rechnen, die zusätzlich noch emotional
 Sie erhalten im zweiten Halbjahr eine PC-Förderung, die das individuelle Leistungsprofil des Lernenden berücksichtigt. Zudem erhalten die Kinder eine kooperative Förderung ihres Verhaltens in Schule und Elternhaus.
 Die Teilnahmemöglichkeiten für die Studie bestehen in [Berlin-Brandenburg](http://www.kompass-forschung.de/projektablauf/berlin-brandenburg/), [München](http://www.kompass-forschung.de/projektablauf/muenchen) sowie [Wuppertal](http://www.kompass-forschung.de/projektablauf/wuppertal) . Der Zeitplan der Studiendurchführung richtet sich nach dem jeweiligen Standort und ist bereits mit deren Nennung verlinkt. Informieren Sie sich gern.
 
+## Weitere Informationen
+### zum Zentralprojekt LONDI (Lernstörungen OnliNeplattform für DIagnostik und Intervention
+[Projektseite LONDI] (https://www.dipf.de/de/forschung/aktuelle-projekte/OnDiFoe-einrichtung-einer-online-plattform-zur-diagnostik-und-foerderung-von-kindern-mit-lernstoerungen)
+
+###zum kombinierten Auftreten von emotional-sozialen Schwierigkeiten und Rechen-/Leseschwierigkeiten
+Bos, C.S. & Vaughn, S. (2006). Strategies for Teaching Students with Learning and Behavior Problems. Boston: Pearson.
+Linderkamp, F., & Grünke, M. (2007). Lern-und Verhaltensstörungen: Klassifikation, Prävalenz & Prognostik. Lern-und Verhaltensstörungen. Genese-Diagnostik-Intervention (S. 14-28). Weinheim und Basel: Beltz.
+Ricking, H. (2005). Der „Overlap“ von Lern- und Verhaltensstörungen. Sonderpädagogik, 35, 235-248.
+
 {% include machmit.html %}
