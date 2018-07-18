@@ -13,7 +13,7 @@ Ablauf für die Region München
 
 Für nähere Informationen besuchen Sie gern auch die [Erklärungen zur Intervention](http://www.kompass-forschung.de/ueber-die-studie/interventionen/) 
 
-Wenn Sie Interesse am Projekt haben, kontaktieren Sie bitte [Martina Durchholz](http://www.kompass-forschung.de/team/#Martina+Durchholz%2C+M.+Sc.)
+Wenn Sie Interesse am Projekt haben, kontaktieren Sie bitte [Martina Durchholz](http://www.kompass-forschung.de/team/#Martina+Durchholz%2C+M.+Sc.) bis Oktober 2018.
 
 {% include machmit.html %}
 
