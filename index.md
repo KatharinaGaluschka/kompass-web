@@ -28,7 +28,7 @@ Sie suchen wie wir nach Möglichkeiten, wie diesen Kindern geholfen, die Unterri
 ## Nutzen für teilnehmenden Lehrkräfte
 -	Lernstandsdiagnostik der ganzen Schulklasse zu Beginn der 3. Klasse
 - Berufliche Selbstentwicklung und Weiterbildung
-- Schulungen zu Methoden des [Classroom-Management](http://www.kompass-web/_pages/ueber-die-studie/interventionen/) (KlasseKinderSpiel) und der kooperativen Verhaltensmodifikation
+- Schulungen zu Methoden des [Classroom-Management](http://www.kompass-web/ueber-die-studie/interventionen/) (KlasseKinderSpiel) und der kooperativen Verhaltensmodifikation
 - Praxisnahe Erfahrung in der Durchführung des Classroom-Management und der kooperativen Verhaltensmodifikation
 - Professionelle Begleitung und Beratung während des Förderprozesses
 - 3-jährige Schullizenzen für Lernsoftware (Meister Cody & Dybuster Calcularis)
