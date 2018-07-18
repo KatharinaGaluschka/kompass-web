@@ -48,7 +48,7 @@ Zusätzlich möchten wir das Projekt wissenschaftlich begleiten, um eine Übertr
 Die Studie startet zu Beginn der 3. Schulstufe mit einer Feststellung der Lese-Rechtschreib- und Rechenleistung der gesamten teilnehmenden Klassen.
 Zeigen einzelne Kinder im Lesen und Rechnen Schwierigkeiten, werden wir ihre Lehrkräfte und Eltern um eine kurze Verhaltensbeurteilung bitten.
 Kinder mit Schwierigkeiten im Lesen oder Rechnen, die zusätzlich noch emotionale Probleme oder Verhaltensschwierigkeiten zeigen, schließen wir in unsere Studie ein. 
-Sie erhalten im zweiten Halbjahr eine [PC-Förderung](http://www.kompass-forschung.de/ueber-die-studie/interventionen/), die das individuelle Leistungsprofil des Lernenden berücksichtigt. Zudem erhalten die Kinder eine kooperative Förderung ihres Verhaltens in Schule und Elternhaus.
+Sie erhalten im zweiten Halbjahr eine [PC-/Online-Förderung](http://www.kompass-forschung.de/ueber-die-studie/interventionen/), die das individuelle Leistungsprofil des Lernenden berücksichtigt. Zudem erhalten die Kinder eine [kooperative Förderung ihres Verhaltens](http://www.kompass-forschung.de/ueber-die-studie/interventionen/) in Schule und Elternhaus.
 Die Teilnahmemöglichkeiten für die Studie bestehen in [Berlin-Brandenburg](http://www.kompass-forschung.de/projektablauf/berlin-brandenburg/), [München](http://www.kompass-forschung.de/projektablauf/muenchen) sowie [Wuppertal](http://www.kompass-forschung.de/projektablauf/wuppertal). Die Links zu den einzelnen Standorten beinhalten jeweils auch den Zeitplan, da sich der Projektbeginn zwischen den Standorten unterscheidet. Informieren Sie sich gern.
 
 ## Weitere Informationen
