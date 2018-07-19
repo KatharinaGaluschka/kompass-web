@@ -29,7 +29,7 @@ Sie suchen wie wir nach Möglichkeiten, wie diesen Kindern geholfen, die Unterri
 -	Lernstandsdiagnostik der ganzen Schulklasse zu Beginn der 3. Klasse
 - Berufliche Selbstentwicklung und Weiterbildung
 - Schulungen zu Methoden des [Classroom-Management](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen) (KlasseKinderSpiel) und der [kooperativen Verhaltensmodifikation](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen)
-- Praxisnahe Erfahrung in der Durchführung des [Classroom-Management](http://www.kompass-forschung.de/ueber-die-studie/interventionen/) und der [kooperativen Verhaltensmodifikation](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen)
+- Praxisnahe Erfahrung in der Durchführung des [Classroom-Management](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen) und der [kooperativen Verhaltensmodifikation](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen)
 - Professionelle Begleitung und Beratung während des Förderprozesses
 - 3-jährige Schullizenzen für Lernsoftware (Meister Cody & Dybuster Calcularis)
 
