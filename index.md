@@ -11,7 +11,7 @@ toc_icon: "file-alt"
 <aside class="notice--primary">
   <strong> Nehmen Sie an der Studie teil!</strong>
   <br> KOMPASS ist eine Studie für Kinder mit Lernschwierigkeiten und psychischen Belastungen. Wir möchten die betroffenen Kinder, deren Eltern und Lehrkräfte in ihrem alltäglichen Umgang mit der Doppelbelastung unterstützen.
-  Dazu kombinieren wir eine [schulische Verhaltensintervention](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen) mit einer [PC-/Online-basierten Lernförderung](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen) und begleiten das Projekt [wissenschaftlich](http://www.kompass-forschung.de/ueber-die-studie/wissenschaftlicher-hintergrund/).
+  Dazu kombinieren wir eine schulische Verhaltensintervention mit einer PC-/Online-basierten Lernförderung und begleiten das Projekt wissenschaftlich.
   <br> <a href="{{ '/ueber-die-studie/' | absolute_url }}">Erfahren Sie mehr über die Studie! </a>
 </aside>
 
