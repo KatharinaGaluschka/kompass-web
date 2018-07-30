@@ -74,9 +74,14 @@ NN (2006). Wer flüstert, der siegt. Hoffnung für Zappelphilipp: Ein Spiel hilf
 ### Calcularis
 [Website des Mathematikförderprogramms "Dybuster - Calcularis"](https://dybuster.com/de/calcularis/)
 
+Kohn, J., Rauscher, L., Käser, T., Kucian, K., McCaskey, U., Wyschkon, A., Moraske, S., Esser, G., von Aster, M. (2017). Effekte des Calcularis-Trainings Teil 1: Domänen-spezifische Veränderungen. In: Lernen und Lernstörungen, 6, 75 – 86. 
+
+Rauscher, L., Kohn, J., Käser, T., Kucian, K., McCaskey, U., Wyschkon, A., Moraske, S., Esser, G., von Aster, M. (2017). Effekte des Calcularis-Trainings Teil 2: Veränderungen psychosozialer Merkmale. In: Lernen und Lernstörungen, 6, 75 – 86. 
+
+
 ### Meister Cody Namagi
 [Website des Leseförderprogramms "Meister Cody - Namagi"](https://www.meistercody.com/produkte/namagi-legasthenie/)
-
+A
 ### Kooperative Verhaltensmodifikation
 In Aufbau befindliche [Campusschule Kooperative Verhaltensmodifikation](https://www.uni-potsdam.de/de/campusschulen/netzwerke-in-planung/kooperative-verhaltensmodifikation.html) der Universität Potsdam 
 
