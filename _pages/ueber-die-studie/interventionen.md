@@ -78,5 +78,5 @@ NN (2006). Wer flüstert, der siegt. Hoffnung für Zappelphilipp: Ein Spiel hilf
 [Website des Leseförderprogramms "Meister Cody - Namagi"](https://www.meistercody.com/produkte/namagi-legasthenie/)
 
 ### Kooperative Verhaltensmodifikation
-
+In Aufbau befindliche [Campusschule Kooperative Verhaltensmodifikation](https://www.uni-potsdam.de/de/campusschulen/netzwerke-in-planung/kooperative-verhaltensmodifikation.html) der Universität Potsdam 
 {% include machmit.html %}
