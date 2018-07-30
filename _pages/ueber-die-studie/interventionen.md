@@ -46,7 +46,7 @@ Lehrkraft und Schüler formulieren gemeinsam eine „Zielvereinbarung“, die ge
 
 ### ![Verhaltensverlaufsdiagnostik](/assets/images/logos/KVM_Verhaltensverlaufsdiagnostik_40Px.png)   Verhaltensverlaufsdiagnostik 
 
-Die Lehrkraft beobachtet während der Schulzeit, ob das zuvor vereinbarte Zielverhalten gezeigt wird. Das Kind beobachtet sein eigenes Verhalten. 
+Die Lehrkraft beobachtet während der Schulzeit, ob das zuvor vereinbarte Zielverhalten gezeigt wird. Das Kind beobachtet sein eigenes Verhalten. Dies wird in der Fachliteratur auch "direct behavior rating (DBR)" genannt.
 
 ### ![Direktes Feedback & Feedbackplan](/assets/images/logos/KVM_Feedback_Feedbackplan_40Px.png) Direktes Feedback & Feedbackplan
 
@@ -79,4 +79,8 @@ NN (2006). Wer flüstert, der siegt. Hoffnung für Zappelphilipp: Ein Spiel hilf
 
 ### Kooperative Verhaltensmodifikation
 In Aufbau befindliche [Campusschule Kooperative Verhaltensmodifikation](https://www.uni-potsdam.de/de/campusschulen/netzwerke-in-planung/kooperative-verhaltensmodifikation.html) der Universität Potsdam 
+
+Hartke, B., Vrban, R. (2013). 18 Verhaltensverträge schließen. In: Schwierige Schüler - 49 Handlungsmöglichkeiten bei Verhaltensauffälligkeiten.  Hamburg: Persen Verlag in der AAP Lehrerfachverlage GmbH. S.44.
+
+Huber, C., Rietz, C. (2011). Direct Behavior Rating (DBR) als Methode zur Verhaltensverlaufsdiagnostik in der Schule: Ein systematisches Review von Methodenstudien. In: Empirische Sonderpädagogik, 2015, Nr. 2, S. 75-98.
 {% include machmit.html %}
