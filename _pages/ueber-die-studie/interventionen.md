@@ -25,7 +25,7 @@ Das Team mit der geringsten Punktezahl gewinnt am Ende der Spielzeit eine Gruppe
 Der Einsatz des KlasseKinderSpiels reduziert nachweislich störendes Verhalten im Unterricht und beeinflusst das Klassenklima positiv. Die Kinder lernen, sich bei der Beachtung von Regeln gegenseitig zu unterstützen, was das Sozial- und Lernklima verbessert und die Lernzeiten im Unterricht erhöht. Motivation und Erfolgserleben bei adäquatem Verhalten werden gesteigert. 
 Lehrkräfte werden durch eine Kurzfortbildung (ca. 90 Minuten) in das KlasseKinderSpiel und mögliche Problemstellungen eingeführt. Hierzu werden sämtliche Materialien zur Verfügung gestellt.
 
-## II. PC-gestützte Förderung der schulischen Leistungsschwächen
+## II. PC-/ Online-gestützte Förderung der schulischen Leistungsschwierigkeiten
 
 Die zweite Komponente der geplanten Intervention bezieht sich auf die Förderung der zuvor identifizierten schulischen Leistungsschwächen der Kinder. Dazu haben sie die Aufgabe, zu Hause mehrmals wöchentlich ein Lernspiel am Computer zu spielen. Diese Lernspiele zur Rechtschreibförderung (Meister Cody Namagi) und Rechenförderung (Calcularis) wurden basierend auf aktuellen Forschungsergebnissen entwickelt und fördern das Kind individuell angepasst auf dessen Ausgangslage und Lernfortschritte. 
 
