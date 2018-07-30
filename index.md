@@ -63,7 +63,7 @@ Entwicklungsstörungen: Gibt es Unterschiede zwischen Lese-Rechtschreib- und Rec
 
 Linderkamp, F., & Grünke, M. (2007). Lern-und Verhaltensstörungen: Klassifikation, Prävalenz & Prognostik. Lern-und Verhaltensstörungen. Genese-Diagnostik-Intervention (S. 14-28). Weinheim und Basel: Beltz.
 
-Ricking, H. (2005). Der „Overlap“ von Lern- und Verhaltensstörungen. Sonderpädagogik, 35, 235-248.
+Ricking, H. (2005). Der „Overlap“ von Lern- und Verhaltensstörungen.In: Sonderpädagogik, 35, 235-248.
 
 ### zum Zentralprojekt LONDI (Lernstörungen OnliNeplattform für DIagnostik und Intervention
 [Projektseite LONDI](https://www.dipf.de/de/forschung/aktuelle-projekte/OnDiFoe-einrichtung-einer-online-plattform-zur-diagnostik-und-foerderung-von-kindern-mit-lernstoerungen)
