@@ -66,7 +66,7 @@ Linderkamp, F., & Grünke, M. (2007). Lern-und Verhaltensstörungen: Klassifikat
 
 Ricking, H. (2005). Der „Overlap“ von Lern- und Verhaltensstörungen.In: Sonderpädagogik, 35, 235-248.
 
-### zum Zentralprojekt LONDI (Lernstörungen OnliNeplattform für DIagnostik und Intervention
+### zum Zentralprojekt LONDI (Lernstörungen OnliNeplattform für DIagnostik und Intervention)
 [Projektseite LONDI](https://www.dipf.de/de/forschung/aktuelle-projekte/OnDiFoe-einrichtung-einer-online-plattform-zur-diagnostik-und-foerderung-von-kindern-mit-lernstoerungen)
 
 {% include machmit.html %}
