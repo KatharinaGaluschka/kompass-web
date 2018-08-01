@@ -1,8 +1,6 @@
 ---
 title: Wissenschaftlicher Hintergrund
 permalink: /ueber-die-studie/wissenschaftlicher-hintergrund/
-header:
-  image: /assets/images/logos/wissenschaftliche Akteure.png
 sidebar:
   nav: "ueber-die-studie"
 ---
