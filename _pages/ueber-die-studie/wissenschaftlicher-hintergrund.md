@@ -17,7 +17,7 @@ Das [Bundesministerium für Bildung und Forschung][bmbf] fördert das Projekt.
 ## Zentralprojekt LONDI
 Das Projekt KOMPASS ist ein Teilprojekt des Projektes [LONDI](https://www.dipf.de/de/forschung/aktuelle-projekte/OnDiFoe-einrichtung-einer-online-plattform-zur-diagnostik-und-foerderung-von-kindern-mit-lernstoerungen) (Lernstörungen - Onlineplattform für Diagnostik & Intervention), dessen Ziel es ist eine Online-Plattform mit evidenzbasierten Informationen und Hilfestellungen zur individuellen Diagnostik (einschließlich Verlaufsdiagnostik) und Förderung bereitzustellen, die von Lehrkräften, Therapeutinnen undTherapeuten, Beratungslehrkräften, Schulpsychologinnen und Schulpsychologen, Eltern sowie Mitarbeiterinnen und Mitarbeitern der Jugendhilfe genutzt werden kann. Im Rahmen des Verbundvorhabens sollen auch neue Diagnostik- und Fördertools entwickelt und evaluiert werden.
 
-{% include machmit.html %}
+## Beteiligte Akteure
 
 [lmu]: https://www.kjp.med.uni-muenchen.de/forschung.php "Forschung in der Klinik und Poliklinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie der LMU München"
 [buw]: https://www.ifb.uni-wuppertal.de "IFB Uni Wuppertal"
@@ -32,3 +32,4 @@ Das Projekt KOMPASS ist ein Teilprojekt des Projektes [LONDI](https://www.dipf.d
 ![Universtiät Potsdam](/assets/images/logos/Potsdam.jpg){: .align-center}
 
 ![DRK Kliniken Berlin](/assets/images/logos/DRK Kliniken Berlin Logo.png){: .align-center}
+{% include machmit.html %}
