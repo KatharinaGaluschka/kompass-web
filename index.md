@@ -21,7 +21,7 @@ Sie suchen wie wir nach Möglichkeiten, wie diesen Kindern geholfen und ihnen da
 
 <aside class="notice--info">
   <strong>
-  <br>  <a href="{{ '/team/' | absolute_url }}">Werden Sie Teil unseres Projektes!</a>
+  <a href="{{ '/kontakt/' | absolute_url }}">Werden Sie Teil unseres Projektes!</a>
   </strong>
 </aside>
 
