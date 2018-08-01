@@ -25,14 +25,6 @@ Sie suchen wie wir nach Möglichkeiten, wie diesen Kindern geholfen und ihnen da
   </strong>
 </aside>
 
-## Nutzen für teilnehmenden Lehrkräfte
--	Lernstandserhebung der ganzen Schulklasse zu Beginn der 3. Klasse
-- Berufliche Selbstentwicklung und Weiterbildung
-- Schulungen zu Methoden des [Classroom-Managements](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen) (KlasseKinderSpiel) und der [kooperativen Verhaltensmodifikation](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen)
-- Praxisnahe Erfahrung in der Durchführung des [Classroom-Managements](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen) und der [kooperativen Verhaltensmodifikation](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen)
-- Professionelle Begleitung und Beratung während des Förderprozesses
-- 3-jährige Schullizenzen für Lernsoftware (Meister Cody & Dybuster Calcularis)
-
 ## Hintergrund
 Als [multidisziplinäres Forschungsteam](http://www.kompass-forschung.de/team/) untersuchen wir, wie Kinder mit Schwierigkeiten im Lesen und Rechnen wirksam gefördert werden können. Wir entwickelten bereits Förderprogramme, die das Lesen und Rechnen von Kindern mit Lernschwierigkeiten stark verbessern konnten. 
 
@@ -43,6 +35,14 @@ Wir möchten den Blick auf das ganze Kind richten. Dafür ist die individuelle B
 Unser Ziel ist es, Möglichkeiten zu finden, wie die Kinder, ihre Lehrkräfte und Eltern im Umgang mit der Doppelbelastung an einem Strang ziehen können. 
 Dadurch sollen die Lese- und Rechenleistungen der Kinder verbessert, die emotionalen Probleme und Verhaltensschwierigkeiten reduziert sowie das gesamte Lernklima in der Klasse verbessert werden.
 Zusätzlich möchten wir das Projekt wissenschaftlich begleiten, um eine Übertragbarkeit der Erkenntnisse aus diesem Projekt zu gewährleisten. 
+
+## Nutzen für teilnehmenden Lehrkräfte
+-	Lernstandserhebung der ganzen Schulklasse zu Beginn der 3. Klasse
+- Berufliche Selbstentwicklung und Weiterbildung
+- Schulungen zu Methoden des [Classroom-Managements](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen) (KlasseKinderSpiel) und der [kooperativen Verhaltensmodifikation](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen)
+- Praxisnahe Erfahrung in der Durchführung des [Classroom-Managements](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen) und der [kooperativen Verhaltensmodifikation](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen)
+- Professionelle Begleitung und Beratung während des Förderprozesses
+- 3-jährige Schullizenzen für Lernsoftware (Meister Cody & Dybuster Calcularis)
 
 ## Studiendurchführung
 Die Studie startet zu Beginn der 3. Schulstufe mit der Feststellung des Lernstandes in Bezug auf die Lese-Rechtschreib- und Rechenleistung aller Kinder der teilnehmenden Klassen.
