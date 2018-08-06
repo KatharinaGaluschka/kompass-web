@@ -10,7 +10,7 @@ toc_icon: "dice"
 
 Die geplante Intervention besteht aus drei grundlegenden Säulen:
 
-![Interventionsbausteine](kompass-web/assets/images/Interventionsübersicht.png)
+![Interventionsbausteine](/assets/images/Interventionsübersicht.png)
 
 Sie beginnt in Klassen in denen Kinder mit Schwierigkeit im Verhalten identifiziert werden mit dem KlasseKinderSpiel und der kooperativen Verhaltensmodifikation begleitet wird. Die PC-gestützte Förderung findet während des gesamten Förderzeitraums parallel statt. 
 
