@@ -11,8 +11,8 @@ toc_icon: "puzzle-piece"
 ---
 Das Projekt teilt sich in folgende Schritte:
 ### Erstes Schulhalbjahr der 3. Klasse:
-1. Lernstandserhebung 
-2. Verhaltenserhebung bei Kindern, die Schwierigkeiten beim Lesen oder Rechnen haben
+1. Lernstandserhebung  ("Screening" Teil 1)
+2. Verhaltenserhebung bei Kindern, die Schwierigkeiten beim Lesen oder Rechnen haben ("Screening" Teil 2)
 3. Auswahl geeigneter Klassen und Zuordnung zur Kontroll-/ Interventionsgruppe
 4. Fortbildung der Lehrpersonen in Bezug auf die anzuwendenden Interventionen
 
