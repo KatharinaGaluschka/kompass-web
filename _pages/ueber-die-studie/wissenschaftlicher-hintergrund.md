@@ -5,7 +5,7 @@ sidebar:
   nav: "ueber-die-studie"
 ---
 
-Aufbauend auf der Grundlage bisheriger Forschung hat die [Ludwig-Maximilian-Universität München][lmu] in Kooperation mit der [Bergischen Universität Wuppertal][buw] sowie der [Universität Potsdam][up] und den [DRK Kliniken Berlin][drk] ein pädagogisch-therapeutisches Programm entwickelt, das sowohl die schulischen Schwierigkeiten als auch die möglichen emotionalen Probleme und Verhaltensauffälligkeiten anspricht.
+Aufbauend auf der Grundlage bisheriger Forschung hat die [Ludwig-Maximilian-Universität München][lmu] in Kooperation mit der [Bergischen Universität Wuppertal][buw] sowie der [Universität Potsdam][up] und den [DRK Kliniken Berlin][drk] ein pädagogisch-therapeutisches Programm entwickelt, das sowohl die schulischen Schwierigkeiten als auch die möglichen emotionalen Belastungen und Schwierigkeiten im Verhalten anspricht.
 
 Dieses Förderkonzept soll nun in der Praxis evaluiert werden, um die Effektivität von Förderprogrammen zu steigern und darüber hinaus für jedes Kind die passenden Möglichkeiten und Lösungen zu finden.
 
