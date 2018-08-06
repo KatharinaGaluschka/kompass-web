@@ -11,7 +11,7 @@ Ablauf für die Region Wuppertal
 
 ![Grafik zum Projektablauf Wuppertal](/assets/images/logos/AblaufWupp.JPG)
 
-Für nähere Informationen zum Projektablauf in Wuppertal besuchen Sie gern auch die [Wuppertaler Website](https://www.ifb.uni-wuppertal.de/arbeitsbereiche/es/ondifoe.html).
+Für nähere Informationen zum Projektablauf in Wuppertal besuchen Sie gern auch die [Wuppertaler Website](https://www.ifb.uni-wuppertal.de/arbeitsbereiche/es/ondifoe.html) oder werfen Sie einen Blick in den [Flyer](https://boxup.uni-potsdam.de/index.php/s/tZh0gfW3NAoYGHM) mit dem Passwort KOMPASS.
 
 Wenn Sie Interesse am Projekt haben und gern zur ersten Informationsveranstaltung eingeladen werden würden, kontaktieren Sie bitte [Sina Napiany](http://www.kompass-forschung.de/team/#Sina+Napiany%2C+M.+Sc.) bis zum Oktober 2018.
 {% include machmit.html %}
