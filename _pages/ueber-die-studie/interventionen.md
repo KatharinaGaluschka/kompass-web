@@ -81,7 +81,7 @@ Rauscher, L., Kohn, J., Käser, T., Kucian, K., McCaskey, U., Wyschkon, A., Mora
 
 ### Meister Cody Namagi
 [Website des Leseförderprogramms "Meister Cody - Namagi"](https://www.meistercody.com/produkte/namagi-legasthenie/)
-A
+
 ### Kooperative Verhaltensmodifikation
 In Aufbau befindliche [Campusschule Kooperative Verhaltensmodifikation](https://www.uni-potsdam.de/de/campusschulen/netzwerke-in-planung/kooperative-verhaltensmodifikation.html) der Universität Potsdam 
 
