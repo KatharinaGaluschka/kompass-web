@@ -12,7 +12,7 @@ Die geplante Intervention besteht aus drei grundlegenden Säulen:
 
 ![Interventionsbausteine](/assets/images/logos/Interventionsbausteine.png)
 
-Sie beginnt in Klassen in denen Kinder mit Verhaltensauffälligkeiten identifiziert werden mit dem KlasseKinderSpiel und der kooperativen Verhaltensmodifikation begleitet wird. Die PC-gestützte Förderung findet während des gesamten Förderzeitraums parallel statt. 
+Sie beginnt in Klassen in denen Kinder mit Schwierigkeit im Verhalten identifiziert werden mit dem KlasseKinderSpiel und der kooperativen Verhaltensmodifikation begleitet wird. Die PC-gestützte Förderung findet während des gesamten Förderzeitraums parallel statt. 
 
 ## I. Das KlasseKinderSpiel
 
@@ -25,9 +25,9 @@ Das Team mit der geringsten Punktezahl gewinnt am Ende der Spielzeit eine Gruppe
 Der Einsatz des KlasseKinderSpiels reduziert nachweislich störendes Verhalten im Unterricht und beeinflusst das Klassenklima positiv. Die Kinder lernen, sich bei der Beachtung von Regeln gegenseitig zu unterstützen, was das Sozial- und Lernklima verbessert und die Lernzeiten im Unterricht erhöht. Motivation und Erfolgserleben bei adäquatem Verhalten werden gesteigert. 
 Lehrkräfte werden durch eine Kurzfortbildung in das KlasseKinderSpiel und mögliche Problemstellungen eingeführt. Hierzu werden sämtliche Materialien zur Verfügung gestellt.
 
-## II. PC-/ Online-gestützte Förderung der schulischen Leistungsschwierigkeiten
+## II. PC-/ Online-gestützte Förderung der schulischen Schwierigkeiten
 
-Die zweite Komponente der geplanten Intervention bezieht sich auf die Förderung der zuvor identifizierten schulischen Schulschwierigkeiten der Kinder. Dazu haben sie die Aufgabe, zu Hause mehrmals wöchentlich ein Lernspiel am Computer zu spielen. Diese Lernspiele zur Leseförderung ([Meister Cody Namagi](https://www.meistercody.com/produkte/namagi-legasthenie/)) und Rechenförderung ([Calcularis](https://dybuster.com/de/calcularis/)) wurden basierend auf aktuellen Forschungsergebnissen entwickelt und fördern das Kind individuell angepasst auf dessen Ausgangslage und Lernfortschritte. 
+Die zweite Komponente der geplanten Intervention bezieht sich auf die Förderung der zuvor identifizierten schulischen Schwierigkeiten der Kinder. Dazu haben sie die Aufgabe, zu Hause mehrmals wöchentlich ein Lernspiel am Computer zu spielen. Diese Lernspiele zur Leseförderung ([Meister Cody Namagi](https://www.meistercody.com/produkte/namagi-legasthenie/)) und Rechenförderung ([Calcularis](https://dybuster.com/de/calcularis/)) wurden basierend auf aktuellen Forschungsergebnissen entwickelt und fördern das Kind individuell angepasst auf dessen Ausgangslage und Lernfortschritte. 
 
 Die Lernprogramme werden kostenlos zur Verfügung gestellt und am heimischen PC oder Tablet (mit Android Betriebssystem) ausgeführt. Bei Bedarf kann ein Gerät für die Dauer der Studie entliehen werden. Die Kinder und Erziehungspersonen erhalten hierzu eine Einführung durch eine/n Mitarbeiter/in der Forschungsgruppe. 
 
@@ -35,7 +35,7 @@ Die Lernprogramme werden kostenlos zur Verfügung gestellt und am heimischen PC 
 
 Als dritte Säule zur Förderung der Zielkinder wird eine „Kooperative Verhaltensmodifikation" (KVM) durchgeführt. Ziel ist es, dass Lehrkraft, Schüler/in und das Elternhaus gemeinsam unter Begleitung eines Coaches der Forschungsgruppe das Verhalten des Kindes regelmäßig und positiv unterstützen.
 
-Zunächst wird zwischen allen Kooperationspartner/innen gemeinsam erarbeitet, wo die Verhaltensprobleme der Kinder liegen.  
+Zunächst wird zwischen allen Kooperationspartner/innen gemeinsam erarbeitet, wo die Schwierigkeiten im Verhalten der Kinder liegen.  
 ![KVM Kooperative Verhaltensmodifikation - Gesamtbild](/assets/images/logos/KVM_komplett.png)
 
 Die Abbildung zeigt die sechs Bausteine, die Inhalt der anschließenden KVM sind.
