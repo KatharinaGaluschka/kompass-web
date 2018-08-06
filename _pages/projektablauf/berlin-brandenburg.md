@@ -7,13 +7,14 @@ sidebar:
   nav: "projektablauf"
 ---
 
-Ablauf für die Region Berlin/Brandenburg
+## Ablauf für die Region Berlin/Brandenburg
+
+Der Ablauf des Projektes gliedert sich in mehrere Schritte, wobei für jeden Schritt die Einverständnis der Eltern erforderlich ist.
+Zunächst wird im Herbst 2019 in der dritten Klasse ein sogenanntes "Screening" durchgeführt. Dies umfasst zum Einen eine Lernstandserhebung aller Kinder, die diese Klasse besuchen, zum Anderen eine zusätzliche Erhebung der Einschätzung des Verhaltens bei all jenen Kindern, die in der Lernstandserhebung einen gewissen Grenzwert im Lesen oder Rechnen nicht erreichen. Der im Folgenden dargestellte Verlauf ist in der beigefügten Grafik noch einmal abgebildet.
 
 ![AblaufUP](/assets/images/AblaufUP.jpg) 
-Der Ablauf des Projektes gliedert sich in mehrere Schritte, wobei für jeden Schritt die Einverständnis der Eltern erforderlich ist.
-Zunächst wird im Herbst 2019 in der dritten Klasse ein sogenanntes "Screening" durchgeführt. Dies umfasst zum Einen eine Lernstandserhebung aller Kinder, die diese Klasse besuchen, zum Anderen eine zusätzliche Erhebung der Einschätzung des Verhaltens bei all jenen Kindern, die in der Lernstandserhebung einen gewissen Grenzwert im Lesen oder Rechnen nicht erreichen. 
 
-Als zweiter Schritt erfolgt eine Zuteilung der geeigneten Klassen auf die Interventions- und Kontrollgruppe, es wird also zufällig entschieden, welche Kinder ausschließlich die [PC-/Online Förderung](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc--online-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-schwierigkeiten) erhalten und in welchen Klassen zusätzlich das [KlasseKinderSpiel](http://www.kompass-forschung.de/ueber-die-studie/interventionen/) gespielt und einzelfallbezogen die [Kooperative Verhaltensmodifikation](http://www.kompass-forschung.de/ueber-die-studie/interventionen/) durchgeführt wird.
+Als zweiter Schritt erfolgt eine Zuteilung der geeigneten Klassen auf die Interventions- und Kontrollgruppe, es wird also zufällig entschieden, welche Kinder ausschließlich die [PC-/Online Förderung](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc--online-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-schwierigkeiten) erhalten und in welchen Klassen zusätzlich das [KlasseKinderSpiel](http://www.kompass-forschung.de/ueber-die-studie/interventionen/) gespielt und einzelfallbezogen drei bis vier mal wöchentlich die [Kooperative Verhaltensmodifikation (KVM)](http://www.kompass-forschung.de/ueber-die-studie/interventionen/) durchgeführt wird.
 
 Im Anschluss erfolgt die Schulung der Lehrkräfte ab November 2019. An diese Phase schließt eine Erhebung der Ausgangslage sowohl in Bezug auf die schulischen Schwierigkeiten als auch in Bezug auf die Ausprägung des Verhaltens statt, an welche unmittelbar die Intervention anschließt. Dies wird "Prätest" (Vortestung) genannt.
 
