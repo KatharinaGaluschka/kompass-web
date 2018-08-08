@@ -2,13 +2,13 @@
 title: Über die Studie
 permalink: /ueber-die-studie/
 header:
-  image: /assets/images/backgrounds/interventionsablauf_header.png
-  img_width: 100px
+  image: /assets/images/backgrounds/interventionsablauf_headeR.png
+  img_width: 80px
 sidebar:
   nav: "ueber-die-studie"
 ---
 
-Kinder und Jugendliche mit Schwierigkeiten im Lesen oder Rechnen leiden häufig ebenfalls unter psychischen Belastungen (beispielsweise Ängste, Depressionen, Aufmerksamkeitsstörungen).
+Kinder und Jugendliche mit Schwierigkeiten im Lesen oder Rechnen leiden häufig ebenfalls unter psychischen Belastungen (z.B. Ängste, Depressionen, Aufmerksamkeitsstörungen).
 Demnach sollte ein Ansatzpunkt in der Förderung von Lernschwierigkeiten ebenfalls diese psychosozialen Merkmale adressieren.
 Doch wie kann eine Intervention optimal sowohl auf den Bereich der Leistung, als auch auf den Bereich des Verhaltens wirken?
 Die Beantwortung dieser Frage ist das Ziel des geplanten Forschungsprojekts.
