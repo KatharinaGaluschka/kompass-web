@@ -12,7 +12,7 @@ Bitte kontaktieren Sie für Rückfragen und bei Interesse an der Studienteilnahm
 ![Universtiät Potsdam](/assets/images/logos/Potsdam.jpg){: .align-right}
 Projektzeitraum: Schuljahr 2019/2020
 
-[Linda Kuhr](mailto:linda.kuhr@uni-potsdam.de)
+[Linda Kuhr, Sonderpädagogin](mailto:linda.kuhr@uni-potsdam.de)
 
 Email | <linda.kuhr@uni-potsdam.de>
 Telefon | +49 331 977-6375
