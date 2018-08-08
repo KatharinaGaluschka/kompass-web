@@ -1,5 +1,5 @@
 Prof. Michael von Aster:
-  name             : "Prof. Michael von Aster"
+  name             : "Prof. Dr. Michael von Aster"
   avatar           : "/assets/images/authors/vonAster.jpg"
   bio              : Diplompädagoge (1976), Dr. med. (1984), Dr. med. habil. (1998), Chefarzt der Kliniken für Kinder- und Jugendpsychiatrie, Psychotherapie und Psychosomatik an den DRK-Kliniken Berlin und am Ernst von Bergmann-Klinikum Potsdam. Seine Forschungsinteressen liegen im Bereich der schulischen Entwicklungsstörungen (Entwicklungs- Neurobiologie, Ursachen, Verlauf, Diagnostik, Präention, Förderung, Therapie), Therapieevaluation, Methoden der Reintegration und Inklusion.
   location         : "Berlin"
@@ -143,7 +143,7 @@ Katharina Galuschka:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 Christian Huber:
-  name             : "Prof. Christian Huber"
+  name             : "Prof. Dr. Christian Huber"
   avatar           : "/assets/images/authors/Huber.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |-
     ist Professor für Sonderpädagogik mit dem Förderschwerpunkt Emotional-soziale Entwicklung an der Universität Wuppertal. 
@@ -253,7 +253,7 @@ Sina Napiany:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 Gerd Schulte-Körne:
-  name             : "Prof. Gerd Schulte-Körne"
+  name             : "Prof. Dr. med. Gerd Schulte-Körne"
   avatar           : "/assets/images/authors/Schulte-Körne.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |- 
     ist Direktor der Klinik und Poliklinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie am Klinikum der Universität München und Inhaber des Lehrstuhls für Kinder- und Jugendpsychiatrie der Ludwig-Maximilian-Universität München. 
