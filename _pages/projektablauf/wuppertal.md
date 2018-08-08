@@ -13,7 +13,7 @@ sidebar:
 Der Ablauf des Projektes gliedert sich in mehrere Schritte, wobei für jeden Schritt die Einverständnis der Eltern erforderlich ist.
 Zunächst wird im Herbst 2019 in der dritten Klasse ein sogenanntes "Screening" durchgeführt. Dies umfasst zum Einen eine Lernstandserhebung aller Kinder, die diese Klasse besuchen, zum Anderen eine zusätzliche Erhebung der Einschätzung des Verhaltens bei all jenen Kindern, die in der Lernstandserhebung einen gewissen Grenzwert im Lesen oder Rechnen nicht erreichen. Der im Folgenden dargestellte Verlauf ist in der beigefügten Grafik noch einmal abgebildet.
 
-![Grafik zum Projektablauf Wuppertal](/assets/images/logos/AblaufWupp.JPG)
+![Grafik zum Projektablauf Wuppertal](assets/images/Ablauf_Wuppertal.png)
 
 Als zweiter Schritt erfolgt eine Zuteilung der geeigneten Klassen auf die Interventions- und Kontrollgruppe, es wird also zufällig entschieden, welche Kinder ausschließlich die [PC-/Online Förderung](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc--online-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-schwierigkeiten) erhalten und in welchen Klassen zusätzlich das [KlasseKinderSpiel (KKS)](http://www.kompass-forschung.de/ueber-die-studie/interventionen/) gespielt und einzelfallbezogen drei bis vier mal wöchentlich die [Kooperative Verhaltensmodifikation (KVM)](http://www.kompass-forschung.de/ueber-die-studie/interventionen/) durchgeführt wird.
 
