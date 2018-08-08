@@ -3,6 +3,7 @@ title: Projektablauf
 permalink: /projektablauf/
 header:
   image: /assets/images/backgrounds/calendar.jpg
+  img_width: 100px
 sidebar:
   nav: "projektablauf"
 toc: true
