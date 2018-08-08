@@ -7,7 +7,7 @@ header:
 sidebar:
   nav: "projektablauf"
 toc: true
-toc_label: Bausteine
+toc_label: Teilbereiche des Projekts
 toc_icon: "puzzle-piece"
 ---
 Das Projekt teilt sich in folgende Schritte:
