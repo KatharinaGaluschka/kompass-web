@@ -2,7 +2,7 @@
 title: Projektablauf
 permalink: /projektablauf/
 header:
-  image: /assets/images/backgrounds/calendar.jpg
+  image: /assets/images/backgrounds/grobablauf_header.jpg
   img_width: 80px
 sidebar:
   nav: "projektablauf"
