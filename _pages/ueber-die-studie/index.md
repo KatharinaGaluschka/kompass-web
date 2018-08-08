@@ -2,8 +2,7 @@
 title: Über die Studie
 permalink: /ueber-die-studie/
 header:
-  image: /assets/images/Interventionsüberblick.png
-  img_width: 80px
+  image: /assets/images/GrobInterventionen.png
 sidebar:
   nav: "ueber-die-studie"
 ---
