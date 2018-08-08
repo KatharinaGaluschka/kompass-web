@@ -1,6 +1,9 @@
 ---
 title: Projektablauf in Berlin/Brandenburg
 permalink: /projektablauf/berlin-brandenburg/
+header:
+  image: /assets/images/backgrounds/Grobablauf_header.png
+  img_width: 80px
 sidebar:
   nav: "projektablauf"
 ---
