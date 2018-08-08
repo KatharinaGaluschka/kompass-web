@@ -13,7 +13,7 @@ sidebar:
 Der **Start des Projektes in dieser Region ist bereits das Schuljahr 2018/2019**. 
 Das Projekt gliedert sich dabei in mehrere Schritte, wobei für jeden Schritt die Einverständnis der Eltern erforderlich ist. Zunächst wird im Herbst 2018 in interessierten dritten Klassen ein sogenanntes "Screening" durchgeführt. **Wenn Sie Interesse an der Teilnahme an diesem Screening haben, können Sie sich noch bis Ende September 2018 bei [Martina Durchholz](http://www.kompass-forschung.de/team/#Martina+Durchholz%2C+M.+Sc.) dafür anmelden.** Der weitere, im Folgenden dargestellte, Verlauf ist in der beigefügten Grafik noch einmal abgebildet.
 
-![Grafik zum Projektablauf München](/assets/images/Ablauf_MUC.JPG)
+![Grafik zum Projektablauf München](/assets/images/Ablauf_BY.JPG)
 
 ## Schritt 1: Screening
 Das Screening umfasst zum Einen eine Lernstandserhebung aller Kinder, die diese Klasse besuchen, zum Anderen eine zusätzliche Erhebung der Einschätzung des Verhaltens bei all jenen Kindern, die in der Lernstandserhebung einen gewissen Grenzwert im Lesen oder Rechnen nicht erreichen.
