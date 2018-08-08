@@ -16,6 +16,7 @@ Projektzeitraum: Schuljahr 2019/2020
 
 Email | <linda.kuhr@uni-potsdam.de>
 Telefon | +49 331 977-6375
+Anschrift | Karl-Liebknecht-Str. 24/25, 14476 Potsdam OT Golm, Campus Golm, Haus 31 - Raum 2.07
 
 ## Region München
 ![Ludwig-Maximilian-Universität München](/assets/images/logos/KUM-logo_gruen_inv_11PR.png){: .align-right}
@@ -25,6 +26,7 @@ Projektzeitraum Schuljahr 2018/2019
 
 Email | <kjp.kompass@med.uni-muenchen.de>
 Telefon | +49 89 4400 56943
+Anschrift | Waltherstraße 23, 80337 München
 
 
 ## Region Wuppertal
