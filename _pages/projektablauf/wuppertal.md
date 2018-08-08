@@ -2,7 +2,8 @@
 title: Projektablauf in Wuppertal
 permalink: /projektablauf/wuppertal/
 header:
-  image: /assets/images/backgrounds/calendar.jpg
+  image: /assets/images/backgrounds/Grobablauf_header.png
+  img_width: 80px
 sidebar:
   nav: "projektablauf"
 ---
