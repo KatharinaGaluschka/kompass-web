@@ -1,6 +1,8 @@
 ---
 title: Projektablauf in München
 permalink: /projektablauf/muenchen/
+  image: /assets/images/backgrounds/Grobablauf_header.png
+  img_width: 80px
 sidebar:
   nav: "projektablauf"
 ---
