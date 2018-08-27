@@ -7,7 +7,7 @@ sidebar:
   nav: "ueber-die-studie"
 ---
 
-Bei Kindern und Jugendlichen mit Schwierigkeiten im Lesen oder Rechnen treten häufig ebenfalls psychischen Belastungen (z.B. Ängste, Depressionen, Aufmerksamkeitsstörungen) auf, wie sich durch aktuelle Studienergebnisse belegen lässt.
+Bei Kindern und Jugendlichen mit Schwierigkeiten im Lesen oder Rechnen treten häufig ebenfalls psychische Belastungen (z. B. Ängste, Depressionen, Aufmerksamkeitsstörungen) auf, wie sich durch aktuelle Studienergebnisse belegen lässt.
 Demnach sollte ein Ansatzpunkt in der Förderung von Lernschwierigkeiten ebenfalls diese psychosozialen Merkmale adressieren.
 Doch wie kann eine Intervention optimal sowohl auf den Bereich der Leistung, als auch auf den Bereich des Verhaltens wirken?
 Die Beantwortung dieser Frage ist das Ziel des geplanten Forschungsprojekts.
