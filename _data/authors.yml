@@ -4,7 +4,7 @@ Prof. Michael von Aster:
   bio              : Diplompädagoge (1976), Dr. med. (1984), Dr. med. habil. (1998), Chefarzt der Kliniken für Kinder- und Jugendpsychiatrie, Psychotherapie und Psychosomatik an den DRK-Kliniken Berlin und am Ernst von Bergmann-Klinikum Potsdam. Seine Forschungsinteressen liegen im Bereich der schulischen Entwicklungsstörungen (Entwicklungs- Neurobiologie, Ursachen, Verlauf, Diagnostik, Präention, Förderung, Therapie), Therapieevaluation, Methoden der Reintegration und Inklusion.
   location         : "Berlin"
   email            : "m.aster@drk-kliniken-berlin.de"
-  uri              :
+  uri              : "https://www.uni-potsdam.de/de/clinical-psychology/lehrstuhlteam/ehemalige-mitarbeiter/michael-von-aster.html"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -41,7 +41,7 @@ Moritz Börnert-Ringleb:
     Seine aktuellen Forschungsinteressen umfassen Fragen zur Verbindung von Diagnostik und Förderung unterschiedlicher Facetten von Lernprozessen.
   location         : "Potsdam"
   email            : "boernert@uni-potsdam.de"
-  uri              :
+  uri              : "https://www.uni-potsdam.de/de/inklusion/forschungsmethodenunddiagnostik/boernert.html"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -153,7 +153,7 @@ Christian Huber:
     Seine Forschungsschwerpunkte liegen im Bereich Messung und Förderung sozialer Integrationsprozesse in Schule und Unterricht, der Verhaltensverlaufsdiagnostik sowie der Prävention und Intervention von internalisierenden und externalisierenden Verhaltensproblemen im RTI-Modell.  
   location         : "Wuppertal"
   email            : "chuber@uni-wuppertal.de"
-  uri              :
+  uri              : "https://www.ifb.uni-wuppertal.de/de/arbeitsbereiche/es/huber.html"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -259,7 +259,7 @@ Ante Pavic:
     studentischer Mitarbeiter und Studierender der Psychologie (M. Sc.) der Universität Potsdam. 
   location         : "Potsdam"
   email            : "pavic@uni-potsdam.de"
-  uri              : "https://www.ifb.uni-wuppertal.de/arbeitsbereiche/es/snapiany.html"
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -296,7 +296,7 @@ Gerd Schulte-Körne:
     Ausgewählte Forschungsschwerpunkte umfassen derzeit schulische Entwicklungsstörungen und Depression in Kindheit und Jugend. Dabei stehen Neuroimaging und Neurophysiologie, sowohl genetische als auch Interventionsstudien, Therapieentwicklung und -evaluation sowie Präventionsforschung im Fokus.
   location         : "München"
   email            : "gerd.schulte-koerne@med.uni-muenchen.de"
-  uri              :
+  uri              : "http://www.klinikum.uni-muenchen.de/de/das_klinikum/zentrale-bereiche/weitere-informationen-presse/expertenservice/kinder-und-jugendmedizin/experten/schulte-koerne/index.html"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -330,7 +330,7 @@ Jürgen Wilbert:
 
   location         : "Potsdam"
   email            : "juergen.wilbert@uni-potsdam.de"
-  uri              :
+  uri              : "https://www.uni-potsdam.de/de/inklusion/forschungsmethodenunddiagnostik/wilbert.html"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
