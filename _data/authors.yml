@@ -252,6 +252,39 @@ Sina Napiany:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
+Ante Pavic:
+  name             : "Ante Pavic, B. Sc."
+  avatar           : "/assets/images/authors/Ante Pavic.jpg.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : |-
+    studentischer Mitarbeiter und Studierender der Psychologie (M. Sc.) der Universität Potsdam. 
+  location         : "Potsdam"
+  email            : "pavic@uni-potsdam.de"
+  uri              : "https://www.ifb.uni-wuppertal.de/arbeitsbereiche/es/snapiany.html"
+  home             : # null (default), "absolute or relative url to link to author home"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           :
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
 Gerd Schulte-Körne:
   name             : "Prof. Dr. med. Gerd Schulte-Körne"
   avatar           : "/assets/images/authors/Schulte-Körne.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
