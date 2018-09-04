@@ -17,5 +17,5 @@ Erfahren Sie mehr über die [Interventionen](interventionen/) und den [Wissensch
 
 {% include machmit.html %}
 
-![Kompass-Team2018](/assets/images/180904 Gruppenfoto.jpg)
+![Kompass-Team2018](/assets/images/180904 Gruppenfoto Kopie.jpg)
     
