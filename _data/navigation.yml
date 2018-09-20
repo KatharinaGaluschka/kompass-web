@@ -11,8 +11,10 @@ main:
 ueber-die-studie:
   - title: "Die Interventionen"
     url: /ueber-die-studie/interventionen/
-  - title: "Wissenschaftlicher Hintergrund"
-    url: /ueber-die-studie/wissenschaftlicher-hintergrund/
+  - title: "Verhaltensinterventionen"
+    url: /ueber-die-studie/verhaltensinterventionen/
+  - title: "Online-Förderung Lesen und Rechnen"
+    url: /ueber-die-studie/online-foerderung/
 
 projektablauf:
   - title: "Berlin/Brandenburg"
