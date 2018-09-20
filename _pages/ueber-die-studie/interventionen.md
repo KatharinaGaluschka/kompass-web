@@ -26,7 +26,7 @@ Näheres Erfahren Sie unter [Verhaltensinterventionen](Verhaltensinterventionen/
 Die zweite Komponente der geplanten Intervention bezieht sich auf die Förderung der zuvor identifizierten schulischen Schwierigkeiten der Kinder. Dazu haben sie die Aufgabe, zu Hause mehrmals wöchentlich ein Lernspiel am Computer zu spielen. Diese Lernspiele zur Leseförderung ([Meister Cody Namagi](https://www.meistercody.com/produkte/namagi-legasthenie/)) und Rechenförderung ([Calcularis](https://dybuster.com/de/calcularis/)) wurden basierend auf aktuellen Forschungsergebnissen entwickelt und fördern das Kind individuell angepasst auf dessen Ausgangslage und Lernfortschritte. 
 
 Die Lernprogramme werden **kostenlos** zur Verfügung gestellt und am heimischen PC oder Tablet ausgeführt. Bei Bedarf kann ein Gerät für die Dauer der Studie entliehen werden. Die Kinder und Erziehungspersonen erhalten hierzu eine Einführung durch eine/n Mitarbeiter/in der Forschungsgruppe. 
-Näheres Erfahren Sie unter [Online-Förderung](Online-Förderung/).
+Näheres Erfahren Sie unter [Online-Förderung](Online-Foerderung/).
 
 ## III. Kooperative Verhaltensmodifikation
 
