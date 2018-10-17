@@ -32,8 +32,8 @@ Da schulische Schwierigkeiten jedoch häufig auch in Kombination mit Schwierigke
 Bisher fehlen allerdings wissenschaftliche Erkenntnisse, wie man Kinder mit dieser Doppelbelastung effektiv fördern kann.
 
 ## Ziel
-Wir möchten den Blick auf das ganze Kind richten. Dafür ist die individuelle Berücksichtigung emotionaler Belastungen und Verhaltensschwierigkeiten wichtig. 
-Unser Ziel ist es, Möglichkeiten zu finden, wie die Kinder, ihre Lehrkräfte und Eltern, im Umgang mit der Doppelbelastung gemeinsam gesteckte Ziele erreichen können. 
+Wir richten den Blick auf das ganze Kind. Dafür ist die individuelle Berücksichtigung emotionaler Belastungen und Verhaltensschwierigkeiten wichtig. 
+Wir möchten Möglichkeiten finden, wie die Kinder, ihre Lehrkräfte und Eltern, im Umgang mit der Doppelbelastung geschult und unterstützt werden können.
 Dadurch sollen die Lese- und Rechenleistungen der Kinder verbessert, die emotionalen Probleme und Verhaltensschwierigkeiten reduziert sowie das gesamte Lernklima in der Klasse verbessert werden.
 Das Projekt wird wissenschaftlich begleitet, um eine Übertragbarkeit der Erkenntnisse aus diesem Projekt zu gewährleisten.
 
