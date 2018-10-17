@@ -1,5 +1,5 @@
 ---
-title: Kooperative Verhaltensmodifikation und PC-basierte Förderung von Verhaltensauffälligkeiten und Schulschwierigkeiten
+title: Kooperative Verhaltensmodifikation und PC-basierte Förderung bei Verhaltensauffälligkeiten und Schulschwierigkeiten
 permalink: /
 header:
   overlay_color: "#9e0e33"
