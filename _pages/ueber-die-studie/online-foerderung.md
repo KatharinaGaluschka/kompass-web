@@ -33,21 +33,19 @@ Erste Ergebnisse deuten insbesondere auf eine deutliche (signifikante) Verbesser
 
 ![MeisterCodyABC](/assets/images/Meister Cody Kopf und ABC.jpg)
 
-## ![Dybuster](/assets/images/Calcularis.png) Dybuster Calcularis
-Das Programm Dybuster Calcularis ist für die Förderung der Rechenfähigkeiten, die in der Grundschule erworben werden sollen.
-
-![Dybuster Beispiel](/assets/images/CalcularisZooAfricaLandscape.png)
-
-## Weitere Informationen und Studien zu den Interventionsverfahren
-
-### Meister Cody Namagi
+### Weitere Informationen zu Meister Cody Namagi
 Huemer, S., Moll, K. & Schulte-Körne, G. (in print). Onlinebasierte Lernförderung für Grundschüler: Das Konzept Meister Cody – Namagi.
 
 [Website des Leseförderprogramms "Meister Cody - Namagi"](https://www.meistercody.com/produkte/namagi-legasthenie/)
 
 [Videoeinblick zum Leseförderprogramm "Meister Cody - Namagi"](https://www.youtube.com/watch?v=evtTF3kk1mo)
 
-### Calcularis
+## ![Dybuster](/assets/images/Calcularis.png) Dybuster Calcularis
+Das Programm Dybuster Calcularis ist für die Förderung der Rechenfähigkeiten, die in der Grundschule erworben werden sollen.
+
+![Dybuster Beispiel](/assets/images/CalcularisZooAfricaLandscape.png)
+
+### Weitere Informationen zu Dybuster Calcularis 
 
 Kohn, J., Rauscher, L., Käser, T., Kucian, K., McCaskey, U., Wyschkon, A., Moraske, S., Esser, G. & von Aster, M. (2017). Effekte des Calcularis-Trainings Teil 1: Domänen-spezifische Veränderungen. Erschienen in: Lernen und Lernstörungen, 6, 51 - 63. 
 
