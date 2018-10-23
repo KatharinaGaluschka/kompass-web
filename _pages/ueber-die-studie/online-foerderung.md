@@ -33,8 +33,9 @@ Erste Ergebnisse deuten insbesondere auf eine deutliche (signifikante) Verbesser
 
 ![MeisterCodyABC](/assets/images/Meister Cody Kopf und ABC.jpg)
 
-## Dybuster Calcularis
+## ![Dybuster](/assets/images/Calcularis.png) Dybuster Calcularis
 Das Programm Dybuster Calcularis ist für die Förderung der Rechenfähigkeiten, die in der Grundschule erworben werden sollen.
+![Dybuster Beispiel](/assets/images/CalcularisZooAfricaLandscape.png)
 
 ## Weitere Informationen und Studien zu den Interventionsverfahren
 
