@@ -12,8 +12,8 @@ Die Online-Förderung erfolgt über die wissenschaftlich erarbeiteten Förderpro
 - Meister Cody Namagi (erarbeitet durch Mitarbeitende der LMU München)
 - Dybuster Calcularis (erarbeitet durch Mitarbeitende der DRK Klinken Berlin und der ETH Zürich).
 
-## ![MeisterCody](/assets/images/Meister Cody Namagi.jpg) Leseförderung durch Meister Cody Namagi
-Meister Cody-Namagi ist ein onlinebasiertes Trainingsprogramm für Kinder mit Lese- und Rechtschreibschwierigkeiten. 
+## ![MeisterCody](/assets/images/Meister Cody Namagi.jpg) Meister Cody Namagi
+Meister Cody-Namagi ist ein onlinebasiertes **Lesetrainingsprogramm** für Kinder mit Lese- und Rechtschreibschwierigkeiten. 
 Es unterstützt insbesondere Grundschulkinder in der Entwicklung ihrer schriftsprachlichen Fähigkeiten. 
 "Onlinebasiert" bedeutet, dass das Programm über ein Tablett oder Smartphone aufgerufen wird und dort in einer spielerischen Umgegbung geübt wird.
 Zur Förderung der Motivation werden die Trainingsinhalte spielerisch vermittelt, eingebettet in eine spannende Rahmengeschichte um den Zauberer Meister Cody und ein kindgerechtes Belohnungssystem. 
@@ -30,6 +30,7 @@ Hierdurch sollen die Kinder stets an ihrer optimalen Leistungsgrenze trainieren 
 
 Das aktuell bestehende Programm wurde bereits in einer ersten Studie evaluiert. Die Daten aus der kürzlich abgeschlossenen Studie werden derzeit analysiert und für die Veröffentlichung vorbereitet. 
 Erste Ergebnisse deuten insbesondere auf eine deutliche (signifikante) Verbesserung der Leseleistung im Hinblick auf mit Meister Cody-Namagi trainiertes Wortmaterial hin. 
+![MeisterCodyABC](/assets/images/Meister Cody Kopf und ABC.jpg)
 
 ## Rechenförderung durch Dybuster Calcularis
 
