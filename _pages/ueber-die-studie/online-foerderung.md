@@ -31,7 +31,7 @@ Hierdurch sollen die Kinder stets an ihrer optimalen Leistungsgrenze trainieren 
 Das aktuell bestehende Programm wurde bereits in einer ersten Studie evaluiert. Die Daten aus der kürzlich abgeschlossenen Studie werden derzeit analysiert und für die Veröffentlichung vorbereitet. 
 Erste Ergebnisse deuten insbesondere auf eine deutliche (signifikante) Verbesserung der Leseleistung im Hinblick auf mit Meister Cody-Namagi trainiertes Wortmaterial hin. 
 
-![MeisterCodyABC](/assets/images/Meister Cody Kopf und ABC.jpg)
+![NamagiBeispiel](/assets/images/Namagi 3.jpg)
 
 ### Weitere Informationen zu Meister Cody Namagi
 Huemer, S., Moll, K. & Schulte-Körne, G. (in print). Onlinebasierte Lernförderung für Grundschüler: Das Konzept Meister Cody – Namagi.
