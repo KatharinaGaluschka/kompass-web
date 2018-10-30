@@ -181,7 +181,7 @@ Christian Huber:
 
 Jan Karoff:
   name             : "Dr. Jan Karoff"
-  avatar           : 
+  avatar           : "/assets/images/authors/jan karoff.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |-
     studierte Erziehungswissenschaft an der Ruhr Universität Bochum.
     
