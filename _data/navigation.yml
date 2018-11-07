@@ -8,7 +8,7 @@ main:
   - title: "Kontakt"
     url: /kontakt/
   - title: "Für Teilnehmende"
-    url: /teilnehmende/
+    url: /projektablauf/teilnehmende_index/
 
 ueber-die-studie:
   - title: "Die Interventionen"
@@ -30,6 +30,6 @@ projektablauf:
     
 teilnehmende:
   - title: "Kinder"
-    url: /teilnehmende/kinder/
+    url: /projektablauf/kinder/
   - title: "Eltern"
-    url: /teilnehmende/eltern
+    url: /projektablauf/eltern
