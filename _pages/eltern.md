@@ -1,5 +1,5 @@
 ---
-title: Onlineförderung
+title: Elterninformationen
 permalink: /teilnehmende_index/eltern/
 
 ---
