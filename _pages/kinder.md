@@ -2,7 +2,6 @@
 ---
 title: Onlineförderung
 permalink: /teilnehmende_index/kinder/
-
 ---
 
 Liebe Kinder,
