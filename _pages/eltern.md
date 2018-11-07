@@ -1,3 +1,9 @@
+---
+title: Onlineförderung
+permalink: /teilnehmende_index/eltern/
+
+---
+
 Liebe Eltern,
 
 herzlichen Dank, dass Sie mit Ihrem Einverständnis unsere Forschung unterstützen. Wir danken Ihnen für Ihr Vertrauen und hoffen, dass wir Ihr Kind bestmöglich in unserem Projekt beim Lernen unterstützen können.
