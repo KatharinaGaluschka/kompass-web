@@ -42,6 +42,9 @@ Huemer, S., Moll, K. & Schulte-Körne, G. (in print). Onlinebasierte Lernförder
 
 ## ![Dybuster](/assets/images/Calcularis.png) Dybuster Calcularis
 Das Programm Dybuster Calcularis ist für die Förderung der Rechenfähigkeiten, die in der Grundschule erworben werden sollen.
+Calcularis fördert die Zahlverarbeitung des Kindes. Das Programm ist in 17 Lernspiele mit vielfältigen Unterkategorien gegliedert. Insgesamt umfasst Calcularis 47 unterschiedliche Spielformen. Das Kind übt daher nicht stetig im selben Aufgabenformat, sondern erhält unterschiedliche Spielvarianten, sodass auch bei mehrmaliger falscher Lösung einer Aufgabe die Motivation erhalten bleibt. Die Aufgabenstellungen werden dabei durch das Programm vorgelesen. Calcularis passt die zur Verfügung gestellten Übungen dynamisch an die Fähigkeiten des Kindes an. Es werden also die Inhaltsbereiche am häufigsten geübt, in denen das Kind am meisten Probleme aufweist. Das Kind übt zudem in dem ihm vertrauten Zahlenraum.
+Für erreichte Fähigkeiten erhält das Kind in Calcularis ein Abzeichen. Zudem kann es als Belohnung für richtig gelöste Aufgaben Sterne und Diamanten erhalten, mit denen es eine virtuelle Zoolandschaft gestalten kann. Es erfolgt zudem eine verbale Belohnung im Programm.
+Die durchführenden Mitarbeitenden des Projekts haben über das Programm Zugriff auf die Häufigkeit und Länge der Übungssequenzen des Kindes, sowie auf dessen Lernfortschritte.
 
 ![Dybuster Beispiel](/assets/images/CalcularisZooAfricaLandscape.png)
 
