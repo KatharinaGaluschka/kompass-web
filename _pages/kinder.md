@@ -1,6 +1,6 @@
 
 ---
-title: Onlineförderung
+title: Informationen für Kinder
 
 permalink: /teilnehmende_index/kinder/
 
