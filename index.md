@@ -15,9 +15,11 @@ toc_icon: "file-alt"
   <br> <a href="{{ '/ueber-die-studie/' | absolute_url }}">Erfahren Sie mehr über die Studie! </a>
 </aside>
 
-## Liebe Leserin, lieber Leser
 Kennen Sie das? Einzelne Kinder, mit denen Sie alltäglich in Kontakt stehen, haben Schwierigkeiten beim Lesen oder Rechnen, sind häufig unaufmerksam, traurig, ängstlich, unruhig oder stören den Unterricht?
 Sie suchen wie wir nach Möglichkeiten, wie diesen Kindern geholfen und ihnen das Lernen erleichtert werden kann?  
+
+## Liebe Leserin, lieber Leser
+Wir begrüßen sie herzlich im Jahr 2019! Wir freuen uns auf einen vielversprechenden Projektstart im September 2019 an den Standorten Wuppertal und Berlin/ Brandenburg. Unser Standort München hat bereits im Herbst 2018 erfolgreich mit den ersten Lernstandserhebungen an den dortigen teilnehmenden Schulen begonnen. Wenn sie auch Interesse an einer Teilnahme haben, nehmen sie gerne Kontakt mit uns auf und informieren Sie sich hier auf unserer Website näher. 
 
 <aside class="notice--info">
   <strong>
