@@ -8,7 +8,7 @@ sidebar:
   nav: "projektablauf"
 ---
 ## Derzeitiger Stand der Region München (Januar 2019)
-Wir freuen uns über die rege Teilnahme der Schulen der Stadt und des Landkreises München an der Lernstandserhebung. Diese konnten wir im Dezember 2018 erfolgreich abschließen. Derzeit sind wir mit der Erhebung von Verhaltens- und Lernparametern ausgewählter Kinder beschäftigt, die ab März 2019 dann eine ausgewählte Förderung erhalten.
+Wir freuen uns über die rege Teilnahme der Schulen der Stadt und des Landkreises München an der Lernstandserhebung. Diese konnten wir im Dezember 2018 erfolgreich abschließen. Derzeit sind wir mit der Erhebung von Verhaltens- und Lernparametern ausgewählter Kinder beschäftigt, deren Lehrkräfte ab Februar fortgebildet werden und die ab März 2019 eine ausgewählte Förderung erhalten.
 
 ## Ablauf für die Region München
 
