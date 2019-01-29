@@ -34,5 +34,5 @@ Zum Schuljahres Ende endet auch die Durchführungsphase des Projektes und der Au
 ## Weitere Informationen/ Teilnehmen
 Für nähere Informationen zum Projektablauf in Wuppertal besuchen Sie gern auch die [Wuppertaler Website](https://www.ifb.uni-wuppertal.de/arbeitsbereiche/es/ondifoe.html) oder werfen Sie einen Blick in den [Flyer](https://boxup.uni-potsdam.de/index.php/s/tZh0gfW3NAoYGHM) mit dem Passwort KOMPASS.
 
-Wenn Sie Interesse am Projekt haben und gern zur ersten Informationsveranstaltung eingeladen werden würden, kontaktieren Sie bitte [Sina Napiany](http://www.kompass-forschung.de/team/#Sina+Napiany%2C+M.+Sc.) bis zu den Sommerferien 2019.
+Wenn Sie Interesse am Projekt haben und gern zur ersten Informationsveranstaltung eingeladen werden würden, kontaktieren Sie bitte [Sina Napiany](http://www.kompass-forschung.de/team/#Sina+Napiany%2C+M.+Sc.) oder [Jan Karoff](http://www.kompass-forschung.de/team/#Dr.+Jan+Karoff) bis zu den Sommerferien 2019.
 {% include machmit.html %}
