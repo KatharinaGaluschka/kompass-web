@@ -7,3 +7,6 @@ Liebe Kinder,
 wir freuen uns, dass ihr euch bereit erklärt habt, uns bei unserer Forschungsarbeit zu unterstützen. In Kürze werdet ihr hier weitere Informationen zu euren Aufgaben im Projekt finden.
 Bis bald! 
 Eure Forschenden der Universitäten München, Potsdam und Wuppertal
+
+kompass-web/assets/images/7 Spiel kinder.jpeg
+      
