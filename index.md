@@ -38,7 +38,7 @@ Wir möchten Möglichkeiten finden, wie die Kinder, ihre Lehrkräfte und Eltern,
 Dadurch sollen die Lese- und Rechenleistungen der Kinder verbessert, die emotionalen Probleme und Verhaltensschwierigkeiten reduziert sowie das gesamte Lernklima in der Klasse verbessert werden.
 Das Projekt wird wissenschaftlich begleitet, um eine Übertragbarkeit der Erkenntnisse aus diesem Projekt zu gewährleisten.
 
-## Nutzen für teilnehmenden Lehrkräfte und Schulen
+## Nutzen für teilnehmende Lehrkräfte und Schulen
 -	Lernstandserhebung der ganzen Schulklasse zu Beginn der 3. Klasse
 - Schulungen zu Methoden des [Classroom-Managements](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen) (KlasseKinderSpiel) und der [kooperativen Verhaltensmodifikation](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen)
 - Praxisnahe Erfahrung in der Durchführung des [Classroom-Managements](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen) und der [kooperativen Verhaltensmodifikation](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen)
@@ -54,6 +54,8 @@ Sie erhalten im zweiten Halbjahr eine [PC-/Online-Förderung](http://www.kompass
 Die Teilnahmemöglichkeiten für die Studie bestehen in [Berlin-Brandenburg](http://www.kompass-forschung.de/projektablauf/berlin-brandenburg/), [München](http://www.kompass-forschung.de/projektablauf/muenchen) sowie [Wuppertal](http://www.kompass-forschung.de/projektablauf/wuppertal). Die Links zu den einzelnen Standorten beinhalten jeweils auch den Zeitplan, da sich der Projektbeginn zwischen den Standorten unterscheidet. Informieren Sie sich gern.
 
 ## Weitere Informationen
+[Mathematikförderung Dybuster Calcularis](https://dybuster.com/de/calcularis/)
+[Leseförderung Meister Cody Namagi](https://www.meistercody.com/produkte/namagi-legasthenie/)
 
 ### Zum kombinierten Auftreten von emotional-sozialen Schwierigkeiten und Rechen-/Leseschwierigkeiten
 Bos, C. S. & Vaughn, S. (2006). Strategies for Teaching Students with Learning and Behavior Problems. Boston: Pearson.
