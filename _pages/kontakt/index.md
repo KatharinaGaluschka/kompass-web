@@ -38,3 +38,9 @@ Projektzeitraum Schuljahr 2019/2020
 Email | <napiany@uni-wuppertal.de>
 Telefon: | +49 202 439-1240
 Anschrift | Gaußstr. 20, 42119 Wuppertal, FMM 2.27 Campus Freudenberg
+
+[Dr. Jan Karoff](mailto:karoff@uni-wuppertal.de)
+
+Email | <karoff@uni-wuppertal.de>
+Telefon: | +49 202 439-1231
+Anschrift | Gaußstr. 20, 42119 Wuppertal, FMM 2.27 Campus Freudenberg
