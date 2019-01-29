@@ -8,5 +8,5 @@ wir freuen uns, dass ihr euch bereit erklärt habt, uns bei unserer Forschungsar
 Bis bald! 
 Eure Forschenden der Universitäten München, Potsdam und Wuppertal
 
-kompass-web/assets/images/7 Spiel kinder.jpeg
+image: /assets/images/7 Spiel kinder.jpeg
       
