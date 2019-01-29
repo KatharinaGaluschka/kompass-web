@@ -2,7 +2,7 @@
 title: Informationen für Teilnehmende
 permalink: /teilnehmende_index/
 toc: true
-toc_label: Informationen für teilnehmende
+toc_label: Informationen für 
 toc_icon: "puzzle-piece"
 ---
 
