@@ -1,5 +1,5 @@
 main:
-  - title: "Über die Studie"
+  - title: "Studie"
     url: /ueber-die-studie/
   - title: "Projektablauf"
     url: /projektablauf/
@@ -7,11 +7,11 @@ main:
     url: /team/
   - title: "Kontakt"
     url: /kontakt/
-  - title: "Für Teilnehmende"
+  - title: "Teilnehmende"
     url: /teilnehmende_index/
   - title: "Projekt des BMBF"
     url: www.bmbf.de/de/foerderung-in-der-forschung-642.html
-  - title: "Gesamtprojekt LONDI"
+  - title: "Gesamtprojekt"
     url: www.londi.de
     
 ueber-die-studie:
