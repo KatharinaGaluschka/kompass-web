@@ -9,7 +9,11 @@ main:
     url: /kontakt/
   - title: "Für Teilnehmende"
     url: /teilnehmende_index/
-
+  - title: "Projekt des BMBF"
+    url: www.bmbf.de/de/foerderung-in-der-forschung-642.html
+  - title: "Gesamtprojekt LONDI"
+    url: www.londi.de
+    
 ueber-die-studie:
   - title: "Die Interventionen"
     url: /ueber-die-studie/interventionen/
@@ -33,9 +37,3 @@ teilnehmende_index:
     url: /kinder/
   - title: "Eltern"
     url: /eltern/
-
-Projekt des BMBF:
-  - url: www.bmbf.de/de/foerderung-in-der-forschung-642.html
-
-Gesamtprojekt LONDI:
-  - url: www.londi.de
