@@ -10,9 +10,9 @@ main:
   - title: "Teilnehmende"
     url: /teilnehmende_index/
   - title: "Projekt des BMBF"
-    url: www.bmbf.de/de/foerderung-in-der-forschung-642.html
+    url: http://www.bmbf.de/de/foerderung-in-der-forschung-642.html
   - title: "Gesamtprojekt"
-    url: www.londi.de
+    url: http://www.londi.de
     
 ueber-die-studie:
   - title: "Die Interventionen"
