@@ -17,13 +17,13 @@ Der im Folgenden dargestellte Verlauf ist in der beigefügten Grafik noch einmal
 
 ![AblaufUP](/assets/images/AblaufUP.jpg) 
 ## Schritt 1: Screening
-Zunächst wird im Herbst 2019 in der dritten Klasse ein sogenanntes "Screening" durchgeführt. Dies umfasst zum Einen eine Lernstandserhebung aller Kinder, die diese Klasse besuchen, zum Anderen eine zusätzliche Erhebung der Einschätzung des Verhaltens bei all jenen Kindern, die in der Lernstandserhebung einen gewissen Grenzwert im Lesen oder Rechnen nicht erreichen.
+Zunächst wird im Herbst 2019 in der dritten Klasse ein sogenanntes "Screening" durchgeführt. Dies umfasst zum einen eine Lernstandserhebung aller Kinder, die diese Klasse besuchen, zum anderen eine zusätzliche Erhebung der Einschätzung des Verhaltens bei all jenen Kindern, die in der Lernstandserhebung einen gewissen Grenzwert im Lesen oder Rechnen nicht erreichen.
 
 ## Schritt 2: Auswahl der teilnehmenden Kinder
 Als zweiter Schritt erfolgt eine Zuteilung der geeigneten Klassen auf die Interventions- und Kontrollgruppe, es wird also zufällig entschieden, welche Kinder ausschließlich die [PC-/Online Förderung](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc--online-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-schwierigkeiten) erhalten und in welchen Klassen zusätzlich das [KlasseKinderSpiel (KKS)](http://www.kompass-forschung.de/ueber-die-studie/interventionen/) gespielt und einzelfallbezogen drei bis vier mal wöchentlich die [Kooperative Verhaltensmodifikation (KVM)](http://www.kompass-forschung.de/ueber-die-studie/interventionen/) durchgeführt wird.
 
 ## Schritt 3: Fortbildung der Lehrkräfte und Erhebung der Ausgangslage
-Im Anschluss erfolgt die Fortbildung (FB) der Lehrkräfte ab November 2019 insbesonder in Bezug auf das KlasseKinderSpiel (KKS). An diese Phase schließt eine Erhebung der Ausgangslage sowohl in Bezug auf die schulischen Schwierigkeiten als auch in Bezug auf die Ausprägung des Verhaltens statt, an welche unmittelbar die Intervention anschließt. Dies wird "Prätest" (Vortestung) genannt.
+Im Anschluss erfolgt die Fortbildung (FB) der Lehrkräfte ab November 2019 insbesonder in Bezug auf das KlasseKinderSpiel (KKS). An diese Phase schließt eine Erhebung der Ausgangslage sowohl in Bezug auf die schulischen Schwierigkeiten als auch in Bezug auf die Ausprägung des Verhaltens an. Dies wird "Prätest" (Vortestung) genannt.
 
 ## Schritt 4: Förderung und Erhebung des abschließenden Lernstands
 Nachdem all diese Schritte durchlaufen sind, startet die engmaschig begleitete Interventionsphase über die gesamte Dauer des 2. Schulhalbjahres des Schuljahres 2019/2020, demnach von Februar bis Juli 2020. 
