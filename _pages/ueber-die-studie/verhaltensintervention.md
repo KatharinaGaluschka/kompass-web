@@ -64,10 +64,13 @@ Alle wichtigen Informationen zur Durchführung der KVM werden den beteiligten Pe
 ### KlasseKinderSpiel
 NN (2006). Wer flüstert, der siegt. Hoffnung für Zappelphilipp: Ein Spiel hilft Grundschulkindern dabei, sich zu konzentrieren. Erschienen in: [DIE ZEIT](https://www.zeit.de/2006/45/C-Stillarbeit). 02.11.2006.
 
+[Grüne Liste der Präventionsmaßnahmen](https://www.gruene-liste-praevention.de/nano.cms/datenbank/programm/34)
+
 ### Kooperative Verhaltensmodifikation
 An der Universität Potsdam befindet sich eine [Campusschule Kooperative Verhaltensmodifikation](https://www.uni-potsdam.de/de/campusschulen/netzwerke-in-planung/kooperative-verhaltensmodifikation.html) in Aufbau. 
 
 Hartke, B. & Vrban, R. (2013). 18 Verhaltensverträge schließen. In: Schwierige Schüler - 49 Handlungsmöglichkeiten bei Verhaltensauffälligkeiten. Hamburg: Persen Verlag in der AAP Lehrerfachverlage GmbH. S.44.
 
-Huber, C. & Rietz, C. (2011). Direct Behavior Rating (DBR) als Methode zur Verhaltensverlaufsdiagnostik in der Schule: Ein systematisches Review von Methodenstudien. Erschienen in: Empirische Sonderpädagogik, 2015, Nr. 2, S. 75-98.
+Huber, C. & Rietz, C. (2015). Direct Behavior Rating (DBR) als Methode zur Verhaltensverlaufsdiagnostik in der Schule: Ein systematisches Review von Methodenstudien. Erschienen in: Empirische Sonderpädagogik, 2015, Nr. 2, S. 75-98. [Zum Artikel](https://www.pedocs.de/volltexte/2015/10819/pdf/ESP_2015_2_Huber_Rietz_Direct_Behavior_Rating.pdf)
+
 {% include machmit.html %}
