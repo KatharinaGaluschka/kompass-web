@@ -8,5 +8,6 @@ wir freuen uns, dass ihr euch bereit erklärt habt, uns bei unserer Forschungsar
 Bis bald! 
 Eure Forschenden der Universitäten München, Potsdam und Wuppertal
 
+![Spiele2](/assets/images/Seite 2.png)
 ![Spiele](/assets/images/Seite 1.png)
       
