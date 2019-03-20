@@ -18,4 +18,4 @@ alle teilnehmenden Schulen:
 
 ausgewählte Teams aus Kind-Lehrkraft-Eltern: 
 - praktische Erprobung der Methode "Kooperative Verhaltensmodifikation" und Weiterentwicklung der Methode in Bezug auf die praktische Anwendbarkeit
-- als Dankeschön für diesen Mehraufwand: Erhalt eines TimeTimers für die teilnehmende Klasse
+- Arbeit mit einem TimeTimer in der teilnehmenden Klasse
