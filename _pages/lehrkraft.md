@@ -14,7 +14,7 @@ die Mitarbeitenden der Universitäten München, Potsdam und Wuppertal
 
 ## vor Phase 1 (derzeit Potsdam und Wuppertal) Materialien für den Elternabend
 Als erster Schritt nach der Zustimmung der Schule ist die Einverständnis der Eltern einzuholen. Wir möchten Sie daher bitten, die Eltern im Rhamen eines Elternabends über das Projekt zu informieren.
-Alle Unterlagen, die wir Ihnen für den **Standort Potsdam** dafür  zusammengestellt haben, können Sie mit dem Passwort "ElternabendPotsdam" hier einsehen: https://boxup.uni-potsdam.de/index.php/s/1HYu1DmvasEDx5F 
+Alle Unterlagen, die wir Ihnen für den **Standort Potsdam** dafür  zusammengestellt haben, können Sie mit dem Passwort "ElternabendPotsdam" hier einsehen: [Elternabendinformationen Potsdam](https://boxup.uni-potsdam.de/index.php/s/1HYu1DmvasEDx5F) 
 
 ## für Phase 2 (derzeit München) Lehrkräftefortbildung
 1. Link zur Registrierung für die Fortbildung: [Moodle Account anlegen](https://www.uni-potsdam.de/db/zeik-portal/intern/moodle/anmeldung01.php)
