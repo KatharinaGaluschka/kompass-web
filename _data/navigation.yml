@@ -35,7 +35,9 @@ projektablauf:
     url: /projektablauf/wuppertal/
     
 teilnehmende_index:
-  - title: "Kinder"
-    url: /kinder/
   - title: "Eltern"
     url: /eltern/
+  - title: "Kinder"
+    url: /kinder/
+  - title: "Lehrkräfte"
+    url: /lehrkraft/
