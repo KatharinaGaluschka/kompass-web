@@ -4,7 +4,7 @@ permalink: /teilnehmende_index/kinder/
 
 ---
 Liebe Kinder,
-wir freuen uns, dass ihr euch bereit erklärt habt, uns bei unserer Forschungsarbeit zu unterstützen. In Kürze werdet ihr hier weitere Informationen zu euren Aufgaben im Projekt finden.
+wir freuen uns, dass ihr euch bereit erklärt habt, uns bei unserer Forschungsarbeit zu unterstützen. Auf eurer Seite findet ihr Informationen zu euren Aufgaben im Projekt.
 Bis bald! 
 Eure Forschenden der Universitäten München, Potsdam und Wuppertal
 
