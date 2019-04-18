@@ -9,7 +9,7 @@ sidebar:
 ---
 ## Derzeitiger Stand der Region Berlin/Brandenburg (April 2019)
 Derzeit stehen wir im Kontakt mit allen Berliner und ausgewählten Brandenburger Schulen und freuen uns über jede Schule, die zusätzlich Kontakt zu uns aufnimmt. Derzeit haben wir 8 teilnehmende Berliner und 2 teilnehmende Brandenburger Schulen. 
-**Am Standort Potsdam werden studentische Mitarbeitende gesucht. Die Ausschreibung finden Sie [hier](assets/images/shk_KOMPASSPd.pdf)** Die Bewerbungsfrist ist der 15.05.2019.
+**Am Standort Potsdam werden studentische Mitarbeitende gesucht. Die Ausschreibung finden Sie [hier](/assets/images/shk_KOMPASSPd.pdf)** Die Bewerbungsfrist ist der 15.05.2019.
 
 ## Ablauf des Projektes in der Region Berlin/Brandenburg
 Der Ablauf des Projektes gliedert sich in mehrere Schritte, wobei für jeden Schritt die Einverständnis der Eltern erforderlich ist.
