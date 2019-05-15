@@ -9,7 +9,6 @@ sidebar:
 ---
 ## Derzeitiger Stand der Region Wuppertal (Mai 2019)
 Wir freuen uns die ersten Teilnehmer unseres Kompass-Projekts begrüßen zu können. Für den Standort Wuppertal haben sich schon 30 Schulen als Kooperationspartner gemeldet. Falls sie auch Interesse an einer Teilnahme haben sollten, sind noch freie Plätze verfügbar. Bei Interesse oder Rückfragen nehmen sie gerne Kontakt mit uns auf.
-**Zudem suchen wir studentische Mitarbeitende. Nähere Informationen finden Sie [hier](/assets/images/shk_KOMPASS.pdf) .** Bewerbungsschluss ist der 10.05.2019.
 
 ## Ablauf für die Region Wuppertal
 
