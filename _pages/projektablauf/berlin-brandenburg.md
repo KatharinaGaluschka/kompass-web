@@ -7,8 +7,8 @@ header:
 sidebar:
   nav: "projektablauf"
 ---
-## Derzeitiger Stand der Region Berlin/Brandenburg (Mai 2019)
-Derzeit stehen wir im Kontakt mit allen Berliner und ausgewählten Brandenburger Schulen und freuen uns über jede Schule, die zusätzlich Kontakt zu uns aufnimmt. Derzeit haben sich 25 
+## Derzeitiger Stand der Region Berlin/Brandenburg (Juni 2019)
+Derzeit stehen wir im Kontakt mit allen Berliner und ausgewählten Brandenburger Schulen und freuen uns über jede Schule, die zusätzlich Kontakt zu uns aufnimmt. Derzeit haben sich 25 Schulen zur Projektteilnahme gemeldet. Dies freut uns sehr. Sollte auch Ihre Schule noch teilnehmen wollen, freuen wir uns über die Kontaktaufnahme bis 05.08.2019.
 
 ## Ablauf des Projektes in der Region Berlin/Brandenburg
 Der Ablauf des Projektes gliedert sich in mehrere Schritte, wobei für jeden Schritt die Einverständnis der Eltern erforderlich ist.
