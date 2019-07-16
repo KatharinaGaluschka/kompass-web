@@ -18,7 +18,9 @@ Sie suchen wie wir nach Möglichkeiten, wie diesen Kindern geholfen und ihnen da
 
 
 ## Liebe Leserin, lieber Leser
-Wir begrüßen sie herzlich im Jahr 2019! Wir freuen uns auf einen vielversprechenden Projektstart im September 2019 an den Standorten Wuppertal und Berlin/ Brandenburg. Unser Standort München hat bereits im Herbst 2018 erfolgreich mit den ersten Lernstandserhebungen an den dortigen teilnehmenden Schulen begonnen. Wenn sie auch Interesse an einer Teilnahme haben, nehmen sie gerne Kontakt mit uns auf und informieren Sie sich hier auf unserer Website näher. 
+Wir freuen uns auf einen vielversprechenden Projektstart im September 2019 an den Standorten Wuppertal und Berlin/ Brandenburg. 
+Unser Standort München ist bereits in der Endphase des Projektes und hat die Lernstandserhebungen sowie die Prätestung und die Förderung an den dortigen teilnehmenden Schulen großteilig abgeschlossen. Wir danken allen teilnehmenden Schulen für ihr Engagement!
+Wenn sie auch Interesse an einer Teilnahme haben, nehmen sie gerne Kontakt mit den Standorten Wuppertal und Potsdam auf und informieren Sie sich hier auf unserer Website näher. 
 
 <aside class="notice--info">
   <strong>
