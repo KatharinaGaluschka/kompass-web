@@ -7,7 +7,7 @@ header:
 sidebar:
   nav: "projektablauf"
 ---
-## Derzeitiger Stand der Region Wuppertal (Mai 2019)
+## Derzeitiger Stand der Region Wuppertal (August 2019)
 Zurzeit befinden wir uns mitten in den Vorbereitungen für die ersten Schulbesuche im September.
 Vor Kurzem nahm unser Team aus acht Personen an einer Testleiterschulung teil, in der alle den Ablauf an den Schulen kennenlernten.
 Darüber hinaus haben wir 2000 Hefte in Druckauftrag gegeben, die wir den Schülern im September und Oktober vorlegen werden.
