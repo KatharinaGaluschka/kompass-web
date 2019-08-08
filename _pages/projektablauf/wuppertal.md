@@ -12,7 +12,7 @@ Zurzeit befinden wir uns mitten in den Vorbereitungen für die ersten Schulbesuc
 Vor Kurzem nahm unser Team aus acht Personen an einer Testleiterschulung teil, in der alle den Ablauf an den Schulen kennenlernten.
 Darüber hinaus haben wir 2000 Hefte in Druckauftrag gegeben, die wir den Schülern im September und Oktober vorlegen werden.
 Der Terminplan wurde bereits mit den teilnehmenden Schulen abgestimmt, so dass wir uns nun auf den Startschuss des Projekts freuen.
-![Testleiterschulung Wuppertal](assets/images/HP2.jpg)
+![Testleiterschulung Wuppertal](/assets/images/HP2.jpg)
 
 ## Ablauf für die Region Wuppertal
 Der Ablauf des Projektes gliedert sich in mehrere Schritte, wobei für jeden Schritt die Einverständnis der Eltern erforderlich ist.
