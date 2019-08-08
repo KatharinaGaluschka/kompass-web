@@ -7,8 +7,8 @@ header:
 sidebar:
   nav: "projektablauf"
 ---
-## Derzeitiger Stand der Region Berlin/Brandenburg (Juni 2019)
-Derzeit stehen wir im Kontakt mit allen Berliner und ausgewählten Brandenburger Schulen und freuen uns über jede Schule, die zusätzlich Kontakt zu uns aufnimmt. Derzeit haben sich 25 Schulen zur Projektteilnahme gemeldet. Dies freut uns sehr. Sollte auch Ihre Schule noch teilnehmen wollen, freuen wir uns über die Kontaktaufnahme bis 05.08.2019.
+## Derzeitiger Stand der Region Berlin/Brandenburg (August 2019)
+In Potsdam laufen die Vorbereitungen der Lernstandserehebungen für 24 Schulen mit 69 Klassen. Dies freut uns sehr. 2000 Testhefte sind bereits in Druck gegeben und in Kürze wird eine Schulung für Testleitende stattfinden.
 
 ## Ablauf des Projektes in der Region Berlin/Brandenburg
 Der Ablauf des Projektes gliedert sich in mehrere Schritte, wobei für jeden Schritt die Einverständnis der Eltern erforderlich ist.
@@ -32,6 +32,6 @@ Zum Schuljahres Ende endet auch die Durchführungsphase des Projektes und der Au
 ## Weitere Informationen/ Teilnehmen
 Weitere Informationen zum Projektablauf in Berlin finden Sie zudem im [Flyer](https://boxup.uni-potsdam.de/index.php/s/rzxzw2LPgvPoG6x) mit dem Passwort KOMPASS.
 
-Wenn Sie Interesse am Projekt haben und gern zur ersten Informationsveranstaltung eingeladen werden würden, kontaktieren Sie bitte [Linda Kuhr](http://www.kompass-forschung.de/team/#Linda+Kuhr) bis zu den Sommerferien 2019. 
+Wir freuen uns auf die Zusammenarbeit.
 
 {% include machmit.html %}
