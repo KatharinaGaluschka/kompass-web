@@ -8,7 +8,10 @@ sidebar:
   nav: "projektablauf"
 ---
 ## Derzeitiger Stand der Region Wuppertal (Mai 2019)
-Wir freuen uns die ersten Teilnehmer unseres Kompass-Projekts begrüßen zu können. Für den Standort Wuppertal haben sich schon 30 Schulen als Kooperationspartner gemeldet. Falls sie auch Interesse an einer Teilnahme haben sollten, sind noch freie Plätze verfügbar. Bei Interesse oder Rückfragen nehmen sie gerne Kontakt mit uns auf.
+Zurzeit befinden wir uns mitten in den Vorbereitungen für die ersten Schulbesuche im September.
+Vor Kurzem nahm unser Team aus acht Personen an einer Testleiterschulung teil, in der alle den Ablauf an den Schulen kennenlernten.
+Darüber hinaus haben wir 2000 Hefte in Druckauftrag gegeben, die wir den Schülern im September und Oktober vorlegen werden.
+Der Terminplan wurde bereits mit den teilnehmenden Schulen abgestimmt, so dass wir uns nun auf den Startschuss des Projekts freuen.
 
 ## Ablauf für die Region Wuppertal
 
