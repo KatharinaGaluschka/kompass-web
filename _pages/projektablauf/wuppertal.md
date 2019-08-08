@@ -12,9 +12,9 @@ Zurzeit befinden wir uns mitten in den Vorbereitungen für die ersten Schulbesuc
 Vor Kurzem nahm unser Team aus acht Personen an einer Testleiterschulung teil, in der alle den Ablauf an den Schulen kennenlernten.
 Darüber hinaus haben wir 2000 Hefte in Druckauftrag gegeben, die wir den Schülern im September und Oktober vorlegen werden.
 Der Terminplan wurde bereits mit den teilnehmenden Schulen abgestimmt, so dass wir uns nun auf den Startschuss des Projekts freuen.
+![Testleiterschulung Wuppertal](assets/images/HP2.jpg)
 
 ## Ablauf für die Region Wuppertal
-
 Der Ablauf des Projektes gliedert sich in mehrere Schritte, wobei für jeden Schritt die Einverständnis der Eltern erforderlich ist.
  Der im Folgenden dargestellte Verlauf ist in der beigefügten Grafik noch einmal abgebildet.
 
@@ -37,5 +37,4 @@ Zum Schuljahres Ende endet auch die Durchführungsphase des Projektes und der Au
 ## Weitere Informationen/ Teilnehmen
 Für nähere Informationen zum Projektablauf in Wuppertal besuchen Sie gern auch die [Wuppertaler Website](https://www.ifb.uni-wuppertal.de/arbeitsbereiche/es/ondifoe.html) oder werfen Sie einen Blick in den [Flyer](https://boxup.uni-potsdam.de/index.php/s/tZh0gfW3NAoYGHM) mit dem Passwort KOMPASS.
 
-Wenn Sie Interesse am Projekt haben und gern zur ersten Informationsveranstaltung eingeladen werden würden, kontaktieren Sie bitte [Sina Napiany](http://www.kompass-forschung.de/team/#Sina+Napiany%2C+M.+Sc.) oder [Jan Karoff](http://www.kompass-forschung.de/team/#Dr.+Jan+Karoff) bis zu den Sommerferien 2019.
 {% include machmit.html %}
