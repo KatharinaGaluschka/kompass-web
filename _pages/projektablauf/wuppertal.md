@@ -7,11 +7,9 @@ header:
 sidebar:
   nav: "projektablauf"
 ---
-## Derzeitiger Stand der Region Wuppertal (August 2019)
-Zurzeit befinden wir uns mitten in den Vorbereitungen für die ersten Schulbesuche im September.
-Vor Kurzem nahm unser Team aus acht Personen an einer Testleiterschulung teil, in der alle den Ablauf an den Schulen kennenlernten.
-Darüber hinaus haben wir 2000 Hefte in Druckauftrag gegeben, die wir den Schülern im September und Oktober vorlegen werden.
-Der Terminplan wurde bereits mit den teilnehmenden Schulen abgestimmt, so dass wir uns nun auf den Startschuss des Projekts freuen.
+## Derzeitiger Stand der Region Wuppertal (Ende September 2019)
+Der  mit den teilnehmenden Schulen abgestimmte Terminplan wurde in den letzten Wochen erfolgreich umgesetzt, sodass die gedruckten 2000 Testhefte umfangreich zum Einsatz kommen. 
+Im August nahm unser Team aus acht Personen an einer Testleiterschulung teil, in der alle den Ablauf an den Schulen kennenlernten, sodass nun wöchentlich zwischen 150 und 200 Kinder an der ersten Erhebung des Projekts teilnehmen.
 ![Testleiterschulung Wuppertal](/assets/images/HP2.jpg)
 
 ## Ablauf für die Region Wuppertal
