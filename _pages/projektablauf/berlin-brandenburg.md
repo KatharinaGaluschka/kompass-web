@@ -7,7 +7,7 @@ header:
 sidebar:
   nav: "projektablauf"
 ---
-## Derzeitiger Stand der Region Berlin/Brandenburg (Miite September 2019)
+## Derzeitiger Stand der Region Berlin/Brandenburg (Ende September 2019)
 In Potsdam laufen die Vorbereitungen der Lernstandserehebungen für 21 Schulen mit 52 Klassen. Dies freut uns sehr. Die Schulung der acht engagierten Testleitenden am 15.08.2019 verlief erfolgreich, sodass wir seit 19.08.2019 die teilnehmenden Schulen in Berlin und Brandenburg besuchen. Von den bisher 48 besuchten Klassen an 20 Schulen erfuhren wir große Unterstützung bei der Umsetzung des Projektes und danken allen beteiligten Pädagoginnen und Pädagogen, Mitarbeitenden der Sekretariate und Kindern für ihre große Unterstützung. Wir freuen uns darauf gemeinsam mit Ihnen und euch das Projekt fortzusetzen und haben bereit 810 teilnehmende Kinder zu verzeichnen.
 
 ## Ablauf des Projektes in der Region Berlin/Brandenburg
