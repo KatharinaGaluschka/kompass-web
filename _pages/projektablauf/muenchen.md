@@ -7,8 +7,7 @@ header:
 sidebar:
   nav: "projektablauf"
 ---
-## Derzeitiger Stand der Region München (Mai 2019)
-Wir freuen uns über die rege Teilnahme der Schulen der Stadt und des Landkreises München an der Lernstandserhebung. Diese konnten wir im Dezember 2018 erfolgreich abschließen und in Anschluss daran mit Erhebung von Verhaltens- und Lernparametern ausgewählter Kinder fortfahren. Diese Kinder erhalten nun bis Juli 2019 eine ausgewählte Förderung.
+Die Durchführung des Projektes im Raum München ist abgeschlossen. Wir danken allen Kindern, Eltern und PädagogInnen für die Teilnahme und hoffen, dass Sie von der Teilnahme profitiert haben.
 
 ## Ablauf für die Region München
 
