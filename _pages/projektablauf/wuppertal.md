@@ -10,7 +10,7 @@ sidebar:
 ## Derzeitiger Stand der Region Wuppertal (Ende September 2019)
 Der  mit den teilnehmenden Schulen abgestimmte Terminplan wurde in den letzten Wochen erfolgreich umgesetzt, sodass die gedruckten 2000 Testhefte umfangreich zum Einsatz kommen. 
 Im August nahm unser Team aus acht Personen an einer Testleiterschulung teil, in der alle den Ablauf an den Schulen kennenlernten, sodass nun wöchentlich zwischen 150 und 200 Kinder an der ersten Erhebung des Projekts teilnehmen.
-![Testleiterschulung Wuppertal](/assets/images/HP2.jpg)
+![Testleiterschulung Wuppertal](/assets/images/HP_TeamWupp.jpg)
 
 ## Ablauf für die Region Wuppertal
 Der Ablauf des Projektes gliedert sich in mehrere Schritte, wobei für jeden Schritt die Einverständnis der Eltern erforderlich ist.
