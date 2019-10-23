@@ -8,7 +8,10 @@ sidebar:
   nav: "projektablauf"
 ---
 ## Derzeitiger Stand der Region Berlin/Brandenburg (Ende Oktober 2019)
-In Potsdam laufen die Vorbereitungen der Lernstandserehebungen für 21 Schulen mit 52 Klassen. Dies freut uns sehr. Die Schulung der acht engagierten Testleitenden am 15.08.2019 verlief erfolgreich, sodass wir vom 19.08.2019 bis 24.10.2019 die teilnehmenden Schulen in Berlin und Brandenburg besucht haben. Wir bedanken uns herzlich bei den 54 besuchten Klassen an 23 Schulen. Wir erfuhren von allen Seiten große Unterstützung bei der Umsetzung des Projektes und danken allen beteiligten Pädagoginnen und Pädagogen, Mitarbeitenden der Sekretariate und Kindern sowie Eltern für ihre große Unterstützung. Wir werten nun die erhobenen Lernstände und Meinungen der 890 teilnehmende Kinder aus und freuen uns darauf gemeinsam mit Ihnen und euch das Projekt fortzusetzen.
+Wir werten nun die erhobenen Lernstände und Meinungen der 890 teilnehmenden Kinder aus und freuen uns darauf gemeinsam mit Ihnen und euch das Projekt fortzusetzen. Innerhalb der nächsten 2 Wochen erhalten verschicken wir nun an ausgewählte Familien Fragebögen zu Ihren Kindern und befragen auch die Lehrpersonen zum Verhalten verschiedener Kinder.
+
+## Ergebnis der Lernstands- und Meinungserhung ("Screening")
+In Potsdam wurdenv am 15.08.2019 acht engagierten Testleitenden erfolgreich geschult, sodass vom 19.08.2019 bis 24.10.2019 die teilnehmenden Schulen in Berlin und Brandenburg besucht werden konnten. Wir bedanken uns herzlich bei den 54 besuchten Klassen an 22 Schulen. Wir erfuhren von allen Seiten große Unterstützung bei der Umsetzung des Projektes und danken allen beteiligten Pädagoginnen und Pädagogen, Mitarbeitenden der Sekretariate und Kindern sowie Eltern für ihre große Engagementc und freuen uns darauf gemeinsam mit Ihnen und euch das Projekt fortzusetzen.
 
 ## Ablauf des Projektes in der Region Berlin/Brandenburg
 Der Ablauf des Projektes gliedert sich in mehrere Schritte, wobei für jeden Schritt die Einverständnis der Eltern erforderlich ist.
