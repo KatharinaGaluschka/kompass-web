@@ -33,7 +33,7 @@ Diese schließt mit der abschließenden Erhebung des Lernstandes und der Verhalt
 Zum Schuljahres Ende endet auch die Durchführungsphase des Projektes und der Auswertungszeitraum, in dem die Ergebnisse analysiert und veröffentlicht werden, schließt sich an. Dieser kann mehrere Jahre umfassen. Gern informieren wir Sie in dieser Zeit regelmäßig über neue Publikationen des Projektteams.
 
 ## Weitere Informationen/ Teilnehmen
-Für nähere Informationen zum Projektablauf in Wuppertal besuchen Sie gern auch die [Wuppertaler Website](https://www.ifb.uni-wuppertal.de/arbeitsbereiche/es/ondifoe.html) oder werfen Sie einen Blick in den [Flyer](https://boxup.uni-potsdam.de/index.php/s/tZh0gfW3NAoYGHM) mit dem Passwort KOMPASS.
+Für nähere Informationen zum Projektablauf werfen Sie einen Blick in den [Flyer](https://boxup.uni-potsdam.de/index.php/s/tZh0gfW3NAoYGHM) mit dem Passwort KOMPASS.
 
 Wir freuen uns auf Ihre Teilnahme,
 Ihr KOMPASS-Team Wuppertal
