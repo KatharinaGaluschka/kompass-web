@@ -46,7 +46,6 @@ Zum Schuljahres Ende endet auch die Durchführungsphase des Projektes und der Au
 ## Weitere Informationen/ Teilnehmen
 Für nähere Informationen zum Projektablauf werfen Sie einen Blick in den [Flyer](https://boxup.uni-potsdam.de/index.php/s/tZh0gfW3NAoYGHM) mit dem Passwort KOMPASS.
 
-Wir freuen uns auf Ihre Teilnahme,
+Wir Danken Ihnen für Ihre Teilnahme,
 Ihr KOMPASS-Team Wuppertal
 ![KOMPASS-Team Wuppertal](/assets/images/HP_TeamWupp.jpg)
-{% include machmit.html %}
