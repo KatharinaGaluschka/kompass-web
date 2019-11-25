@@ -28,5 +28,3 @@ Die Abläufe werden auf den folgenden Seiten für die jeweiligen Standorte konkr
 * [Berlin/Brandenburg](berlin-brandenburg/)
 * [München](muenchen/)
 * [Wuppertal](wuppertal/)
-
-{% include machmit.html %}
