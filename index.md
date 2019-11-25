@@ -7,26 +7,15 @@ toc: true
 toc_label: "Inhalt"
 toc_icon: "file-alt"
 ---
-Kennen Sie das? Einzelne Kinder, mit denen Sie alltäglich in Kontakt stehen, haben Schwierigkeiten beim Lesen oder Rechnen, sind häufig unaufmerksam, traurig, ängstlich, unruhig oder stören den Unterricht?
+Kennen Sie das? Einzelne Kinder, mit denen Sie alltäglich in Kontakt stehen, haben Schwierigkeiten beim Lesen oder Rechnen, sind häufig unaufmerksam, traurig, ängstlich, unruhig oder fallen anderweitig im Unterricht auf?
 Sie suchen wie wir nach Möglichkeiten, wie diesen Kindern geholfen und ihnen das Lernen erleichtert werden kann?  
 <aside class="notice--primary">
   <br> KOMPASS ist eine Studie für Kinder mit Lernschwierigkeiten und psychischen Belastungen. Wir möchten die betroffenen Kinder, deren Eltern und Lehrkräfte in ihrem alltäglichen Umgang mit der Doppelbelastung unterstützen.
-  Dazu kombinieren wir eine schulische Verhaltensintervention mit einer PC-/Online-basierten Lernförderung und begleiten das Projekt wissenschaftlich.
+  Dazu kombinieren wir eine schulische Verhaltensintervention mit einer PC-/Online-basierten Lernförderung und begleiten das Projekt wissenschaftlich.  
+  Das Projekt wurde im Schuljahr 2018/2019 in München durchgeführt und wird im Schuljahr 2019/2020 an den Standorten [Raum Wuppertal](http://www.kompass-forschung.de/projektablauf/wuppertal/) und [Berlin Brandenburg](http://www.kompass-forschung.de/projektablauf/berlinbrandenburg/) durchgeführt. Nähere Informationen zum aktuellen Stand erhalten Sie durch Anwahl des Standortes. Informationen für Teilnehmende finden sich [hier](http://www.kompass-forschung.de/teilnehmende_index/).
   <br> <a href="{{ '/ueber-die-studie/' | absolute_url }}">Erfahren Sie mehr über die Studie! </a>
 </aside>
 
-
-
-## Liebe Leserin, lieber Leser
-Wir freuen uns auf einen vielversprechenden Projektstart im September 2019 an den Standorten Wuppertal und Berlin/ Brandenburg. 
-Unser Standort München ist bereits in der Endphase des Projektes und hat die Lernstandserhebungen sowie die Prätestung und die Förderung an den dortigen teilnehmenden Schulen großteilig abgeschlossen. Wir danken allen teilnehmenden Schulen für ihr Engagement!
-Wenn sie auch Interesse an einer Teilnahme haben, nehmen sie gerne Kontakt mit den Standorten Wuppertal und Potsdam auf und informieren Sie sich hier auf unserer Website näher. 
-
-<aside class="notice--info">
-  <strong>
-  <a href="{{ '/kontakt/' | absolute_url }}">Werden Sie Teil unseres Projektes!</a>
-  </strong>
-</aside>
 
 ## Hintergrund
 Als [multidisziplinäres Forschungsteam](http://www.kompass-forschung.de/team/) untersuchen wir, wie Kinder mit Schwierigkeiten im Lesen und Rechnen wirksam gefördert werden können. Wir nutzen dabei an unseren Standorten entwickelte Förderprogramme, die das Lesen und Rechnen von Kindern mit Lernschwierigkeiten in anderen Studien stark verbessern konnten. 
@@ -73,5 +62,3 @@ Ricking, H. (2005). Der „Overlap“ von Lern- und Verhaltensstörungen. Erschi
 
 ### Zum Zentralprojekt LONDI (**L**ernstörungen **ON**lineplattform für **D**iagnostik und **I**ntervention)
 [Projektseite LONDI](https://www.londi.de)
-
-{% include machmit.html %}
