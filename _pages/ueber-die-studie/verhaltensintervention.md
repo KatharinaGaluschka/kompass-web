@@ -72,5 +72,3 @@ An der Universität Potsdam befindet sich eine [Campusschule Kooperative Verhalt
 Hartke, B. & Vrban, R. (2013). 18 Verhaltensverträge schließen. In: Schwierige Schüler - 49 Handlungsmöglichkeiten bei Verhaltensauffälligkeiten. Hamburg: Persen Verlag in der AAP Lehrerfachverlage GmbH. S.44.
 
 Huber, C. & Rietz, C. (2015). Direct Behavior Rating (DBR) als Methode zur Verhaltensverlaufsdiagnostik in der Schule: Ein systematisches Review von Methodenstudien. Erschienen in: Empirische Sonderpädagogik, 2015, Nr. 2, S. 75-98. [Zum Artikel](https://www.pedocs.de/volltexte/2015/10819/pdf/ESP_2015_2_Huber_Rietz_Direct_Behavior_Rating.pdf)
-
-{% include machmit.html %}
