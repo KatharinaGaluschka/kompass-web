@@ -7,19 +7,22 @@ header:
 sidebar:
   nav: "projektablauf"
 ---
-## Derzeitiger Stand der Region Berlin/Brandenburg (Ende Oktober 2019)
-Wir werten nun die erhobenen Lernstände und Meinungen der 890 teilnehmenden Kinder aus und freuen uns darauf gemeinsam mit Ihnen und euch das Projekt fortzusetzen. Innerhalb der nächsten 2 Wochen erhalten verschicken wir nun an ausgewählte Familien Fragebögen zu Ihren Kindern und befragen auch die Lehrpersonen zum Verhalten verschiedener Kinder.
+## Derzeitiger Stand der Region Berlin/Brandenburg (Ende November 2019)
+**Update 2: Ende November 2019**
+Die Ergebnisse der 890 teilnehmenden Kinder, die an der Lernstandserhebung teilgenommen haben, wurden am 13.11.2019 an die Schulen verschickt. Nähere Informationen zur besseren Verständlichkeit Ihrer erreichten Werte finden Sie [hier](http://www.kompass-forschung.de/projektablauf/screening/).
 
-## Ergebnis der Lernstands- und Meinungserhung ("Screening")
-In Potsdam wurden am 15.08.2019 acht engagierten Testleitenden erfolgreich geschult, sodass vom 19.08.2019 bis 24.10.2019 die teilnehmenden Schulen in Berlin und Brandenburg besucht werden konnten. Wir bedanken uns herzlich bei den 54 besuchten Klassen an 22 Schulen. Wir erfuhren von allen Seiten große Unterstützung bei der Umsetzung des Projektes und danken allen beteiligten Pädagoginnen und Pädagogen, Mitarbeitenden der Sekretariate und Kindern sowie Eltern für ihre große Engagementc und freuen uns darauf gemeinsam mit Ihnen und euch das Projekt fortzusetzen.
-Die Ergebnisse der Lernstandserhebung wurden am 13.11.2019 an die Schulen verschickt. Nähere Informationen zur besseren Verständlichkeit Ihrer erreichten Werte finden Sie [hier](_pages/projektablauf/screening).
+Zwischen dem 5.11. und dem 13.11. verschickten wir zudem an ausgewählte Familien Fragebögen zu Ihren Kindern und befragen auch die Lehrpersonen zum Verhalten dieser Kinder. Bisher haben wir schon 81 Fragebögen der Eltern und 155 Fragebögen der Eltern zurück erhalten. Wir freuen uns über weitere Post und danken allen für Ihr aktives Mitwirken!
+
+
+**Update 1: Mitte November 2019 Ergebnis der Lernstands- und Meinungserhung ("Screening")**
+In Potsdam wurden am 15.08.2019 acht engagierten Testleitenden erfolgreich geschult, sodass vom 19.08.2019 bis 24.10.2019 die teilnehmenden Schulen in Berlin und Brandenburg besucht werden konnten. Wir bedanken uns herzlich bei den 54 besuchten Klassen an 22 Schulen. Wir erfuhren von allen Seiten große Unterstützung bei der Umsetzung des Projektes und danken allen beteiligten Pädagoginnen und Pädagogen, Mitarbeitenden der Sekretariate und Kindern sowie Eltern für ihre große Engagement und freuen uns darauf gemeinsam mit Ihnen und euch das Projekt fortzusetzen. 
 
 ## Ablauf des Projektes in der Region Berlin/Brandenburg
 Der Ablauf des Projektes gliedert sich in mehrere Schritte, wobei für jeden Schritt die Einverständnis der Eltern erforderlich ist.
 Der im Folgenden dargestellte Verlauf ist in der beigefügten Grafik noch einmal abgebildet.
 
 ![AblaufUP](/assets/images/AblaufUP.jpg) 
-## Schritt 1: Screening
+## Schritt 1: Screening (abgeschlossen)
 Zunächst wird im Herbst 2019 in der dritten Klasse ein sogenanntes "Screening" durchgeführt. Dies umfasst zum einen eine Lernstandserhebung aller Kinder, die diese Klasse besuchen, zum anderen eine zusätzliche Erhebung der Einschätzung des Verhaltens bei all jenen Kindern, die in der Lernstandserhebung einen gewissen Grenzwert im Lesen oder Rechnen nicht erreichen.
 
 ## Schritt 2: Auswahl der teilnehmenden Kinder
