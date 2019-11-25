@@ -39,5 +39,3 @@ Zum Schuljahres Ende endet auch die Durchführungsphase des Projektes und der Au
 Weitere Informationen zum Projektablauf in Berlin finden Sie zudem im [Flyer](https://boxup.uni-potsdam.de/index.php/s/rzxzw2LPgvPoG6x) mit dem Passwort KOMPASS.
 
 Wir freuen uns auf die Zusammenarbeit.
-
-{% include machmit.html %}
