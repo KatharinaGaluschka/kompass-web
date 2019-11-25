@@ -35,6 +35,23 @@ Auch hier wurden die Kinder dazu aufgefordert so schnell und so genau wie mögli
 Die Fragebögen zum Verhalten und Erleben des Kindes in der Schule haben wir durchgeführt, um Nebenfragestellungen im Projekt beantworten zu können. Eine Eingabe und Auswertung dieser Daten liegt zum aktuellen Zeitpunkt noch nicht vor.
 
 **Vertrauensintervall**
+Das Vertrauensintervall gibt die Genauigkeit der Messung an. Das bedeutet, es wird angegeben in wie weit der gemessene Wert dem "wahren" Wert des Kindes entspricht. Dafür wird die erreichte Punktzahl des Kindes (z.B. 22 Punkte bei der Addition) in einen "T-Wert" umgerechnet. Der T-Wert unterliegt der Annahme, dass das Merkmal (in diesem Fall die Additionsfähigkeit) normalverteilt ist. Das bedeutet, dass sie eine Glockenform mit einem höchsten Punkt (µ = Erwartungswert; T-Wert = 50) hat. 
+
+Bei der Verwendung des T-Wertes wird davon ausgegangen, dass 68% der erreichten Ergebnisse  sich im Bereich vom Erwartungswert µ plus/minus einer Standardabweichung befinden. Eine Standardabweichung entspricht 10 T-Wertpunkten. 16% der Ergebnisse befinden sich weiter vom Erwartungswert µ weg, als eine Standardabweichung (auch hier plus bzw. minus).
+
+*Beispiel*
+
+Anhand eines Beispiels erklärt bedeutet das im Bereich Addition (Vertrauensintervall: 8,2 T-Wertpunkte):
+
+- µ = 50 T-Wertpunkte
+
+- Standardabweichung = 10 T-Wertpunkte
+
+- Erreichte Punktzahl des Kindes = 23 Punkte --> umgerechnet in T-Wertpunkten laut der Normtabelle sind dies **51 T-Wertpunkte**.
+
+Durch das Vertrauensintervall von 8,2 T-Wertpunkten liegt der **"wahre Wert"** des Kindes zwischen 51 - 8,2 = **42,8 T-Wertpunkten** und 51 + 8,2 = **59,2 T-Wertpunkten**. 
+
+Da der Bereich zwischen 40 T-Wertpunkten (µ - 1 Standardabweichung) und 60 T-Wertpunkten (µ + 1 Standardabweichung liegt) und der Vertrauensbereich des Kindes vollständig innerhalb dieses Bereiches liegt, zeigt das Kind eine Leistung, die dem Erwartungswert ("Durchschnitt") entspricht.
 
 
 ## Ablauf der Erhebung
