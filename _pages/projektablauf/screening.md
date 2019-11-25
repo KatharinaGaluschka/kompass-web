@@ -6,6 +6,9 @@ header:
   img_width: 80px
 sidebar:
   nav: "Zusatzinformationen Screening"
+toc: true
+toc_label: Screening"
+toc_icon: "puzzle-piece"
 ---
 ## Eingesetzte Kurztests zum Lernstand
 Das **Salzburger Lese-Screening für die Schulstufen 2 – 9 [SLS]** (Mayringer & Wimmer, 2014) dient der Identifikation von Leseschwächen, die sich in diesem Altersbereich zunächst häufig durch eine verlangsamte Lesegeschwindigkeit äußern. Die Aufgabe der Kinder war es, innerhalb von drei Minuten Sätze zu lesen und diese bezüglich ihrer Sinnhaftigkeit zu überprüfen. 
