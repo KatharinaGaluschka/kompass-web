@@ -34,10 +34,13 @@ Beispielaufgaben aus dem HRT – Untertest Addition sind:
 Auch hier wurden die Kinder dazu aufgefordert so schnell und so genau wie möglich zu arbeiten. Die Aufgaben sind pro Untertest nach Schwierigkeit aufsteigend angeordnet. Der HRT erfasst also die Rechengeschwindigkeit.
 Die Fragebögen zum Verhalten und Erleben des Kindes in der Schule haben wir durchgeführt, um Nebenfragestellungen im Projekt beantworten zu können. Eine Eingabe und Auswertung dieser Daten liegt zum aktuellen Zeitpunkt noch nicht vor.
 
+
 **Vertrauensintervall**
+
 Das Vertrauensintervall gibt die Genauigkeit der Messung an. Das bedeutet, es wird angegeben in wie weit der gemessene Wert dem "wahren" Wert des Kindes entspricht. Dafür wird die erreichte Punktzahl des Kindes (z.B. 22 Punkte bei der Addition) in einen "T-Wert" umgerechnet. Der T-Wert unterliegt der Annahme, dass das Merkmal (in diesem Fall die Additionsfähigkeit) normalverteilt ist. Das bedeutet, dass sie eine Glockenform mit einem höchsten Punkt (µ = Erwartungswert; T-Wert = 50) hat. 
 
 Bei der Verwendung des T-Wertes wird davon ausgegangen, dass 68% der erreichten Ergebnisse  sich im Bereich vom Erwartungswert µ plus/minus einer Standardabweichung befinden. Eine Standardabweichung entspricht 10 T-Wertpunkten. 16% der Ergebnisse befinden sich weiter vom Erwartungswert µ weg, als eine Standardabweichung (auch hier plus bzw. minus).
+
 
 *Beispiel*
 
