@@ -10,7 +10,7 @@ sidebar:
 ## Derzeitiger Stand der Region Wuppertal (Ende November 2019)
 Der erste Schritt, das Screening, ist erfolgreich beendet! 
 Rund 1000 Schülerinnen und Schüler aus 34 Schulen und 71 Klassen haben am KOMPASS Screening teilgenommen. Gemeinsam mit zwei geschulten Testleitern und Testleiterinnen haben die Kinder für zwei Schulstunden im Klassenverband Fragebögen zu schulischen Einstellungen bearbeitet sowie Kurztests zum Lernstand im Lesen und Rechnen durchgeführt. 
-Genauere Informationen zur Interpretation der übermittelten Ergebnisse der Lernstandserhebung finden Sie [hier](_pages/projektablauf/screening).
+Genauere Informationen zur Interpretation der übermittelten Ergebnisse der Lernstandserhebung finden Sie [hier](_pages/projektablauf/screening.md).
 Wir möchten uns an dieser Stelle bei allen Schülerinnen und Schülern, Lehrkräfte sowie Eltern herzlich für Ihre Teilnahme bedanken! Ohne Ihre Organisation und Unterstützung vor Ort hätte das Screening nicht so erfolgreich abgeschlossen werden können. 
 ![Testleiterschulung Wuppertal](/assets/images/HP_TeamWupp.jpg)
 
