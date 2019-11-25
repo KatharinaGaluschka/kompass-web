@@ -30,4 +30,3 @@ Das Projekt KOMPASS ist ein Teilprojekt des Projektes [LONDI](https://www.londi.
 ![Universtiät Potsdam](/assets/images/logos/Potsdam.jpg){: .align-center}
 
 ![DRK Kliniken Berlin](/assets/images/logos/DRK Kliniken Berlin Logo.png){: .align-center}
-{% include machmit.html %}
