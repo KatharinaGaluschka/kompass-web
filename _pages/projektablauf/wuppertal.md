@@ -8,17 +8,17 @@ sidebar:
   nav: "projektablauf"
 ---
 ## Derzeitiger Stand der Region Wuppertal (Ende November 2019)
-**Update 2 (Ende November 2019)**  
+**Update 2 (Ende November 2019): Eltern- und Lehrkraftfragebogen**  
 Nach der Erhebung im Klassenverband wurden ausgewählten Eltern und Lehrkräften Fragebögen für einzelne Kinder zugeschickt. Diese Auswahl der Einzelfälle wurde nach den zugrundeliegenden Kriterien für das Projekt und die damit verbundenen Voraussetzungen der wissenschaftlichen Überprüfung vorgenommen. Dies entspricht jedoch nicht einer differenzierten Diagnostik einer Lese- oder Rechenstörung. Die eingesetzten Kurzverfahren und Normwerte sind dazu nicht geeignet, sondern entsprechen lediglich den besonderen Auswahlkriterien für die Förderung im Zuge des Projektes.  
 Aktuell werden die Daten der Eltern- und Lehrkraftfragebögen ausgewertet, mit dem Ziel zum Jahresende Einladungen für die Förderungen zu verschicken und erneut das elterliche Einverständnis einzuholen. 
 Für die Kinder, für die die Förderung nach unseren Kriterien nicht in Betracht gezogen wird, geht die Teilnahme am KOMPASS-Projekt damit Ende. Wir möchten uns an dieser Stelle bei allen Schülerinnen und Schülern, Lehrkräfte sowie Eltern herzlich für Ihre Teilnahme bedanken! Ohne Ihre Organisation und Unterstützung vor Ort hätte das Screening nicht so erfolgreich abgeschlossen werden können. 
 
 
-**Update 1 (Mitte Oktober 2019)**  
+**Update 1 (Mitte Oktober 2019): Screening**  
 Der erste Schritt, das Screening, ist erfolgreich beendet! 
 Rund 1000 Schülerinnen und Schüler aus 34 Schulen und 71 Klassen haben am KOMPASS Screening teilgenommen. Gemeinsam mit zwei geschulten Testleitern und Testleiterinnen haben die Kinder für zwei Schulstunden im Klassenverband Fragebögen zu schulischen Einstellungen bearbeitet sowie Kurztests zum Lernstand im Lesen und Rechnen durchgeführt. 
 
-Genauere Informationen zur Interpretation der übermittelten Ergebnisse der Lernstandserhebung finden Sie [hier](_pages/projektablauf/screening.md).
+Genauere Informationen zur Interpretation der übermittelten Ergebnisse der Lernstandserhebung finden Sie [hier](http://www.kompass-forschung.de/projektablauf/screening/).
 
 Wir möchten uns an dieser Stelle bei allen Schülerinnen und Schülern, Lehrkräfte sowie Eltern herzlich für Ihre Teilnahme bedanken! Ohne Ihre Organisation und Unterstützung vor Ort hätte das Screening nicht so erfolgreich abgeschlossen werden können. 
 ![Testleiterschulung Wuppertal](/assets/images/HP_TeamWupp.jpg)
