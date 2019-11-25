@@ -1,7 +1,9 @@
 ---
 title: Informationen für Lehrkräfte
 permalink: /teilnehmende_index/lehrkraft/
-
+toc: true
+toc_label: Projektphasen"
+toc_icon: "puzzle-piece"
 ---
 
 Liebe Lehrkräfte,
