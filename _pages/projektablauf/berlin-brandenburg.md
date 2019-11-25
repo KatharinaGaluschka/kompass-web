@@ -9,8 +9,7 @@ sidebar:
 ---
 ## Derzeitiger Stand der Region Berlin/Brandenburg (Ende November 2019)
 **Update 2: Ende November 2019**  
-Die Ergebnisse der 890 teilnehmenden Kinder, die an der Lernstandserhebung teilgenommen haben, wurden am 13.11.2019 an die Schulen verschickt. Nähere Informationen zur besseren Verständlichkeit Ihrer erreichten Werte finden Sie [hier](http://www.kompass-forschung.de/projektablauf/screening/).
-
+Die Ergebnisse der 890 teilnehmenden Kinder, die an der Lernstandserhebung teilgenommen haben, wurden am 13.11.2019 an die Schulen verschickt. Nähere Informationen zur besseren Verständlichkeit Ihrer erreichten Werte finden Sie [hier](http://www.kompass-forschung.de/projektablauf/screening/).  
 Zwischen dem 5.11. und dem 13.11. verschickten wir zudem an ausgewählte Familien Fragebögen zu Ihren Kindern und befragen auch die Lehrpersonen zum Verhalten dieser Kinder. Bisher haben wir schon 81 Fragebögen der Eltern und 155 Fragebögen der Eltern zurück erhalten. Wir freuen uns über weitere Post und danken allen für Ihr aktives Mitwirken!
 
 
