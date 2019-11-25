@@ -12,10 +12,11 @@ Demnach sollte ein Ansatzpunkt in der Förderung von Lernschwierigkeiten ebenfal
 Doch wie kann eine Intervention optimal sowohl auf den Bereich der Leistung, als auch auf den Bereich des Verhaltens wirken?
 Die Beantwortung dieser Frage ist das Ziel des geplanten Forschungsprojekts.
 
-Erfahren Sie mehr über die [Interventionen](interventionen/) und den [Wissenschaftlichen Hintergrund](wissenschaftlicher-hintergrund/) unserer Studie, die im Schuljahr 2018/2019 im Raum München und im Schuljahr 2019/2020 im Raum Wuppertal und in der Region Berlin-Brandenburg durchgeführt wird.  
+Den aktuellen Projektstand für das Schuljahr 2019/2020 können Sie für den Standort Wuppertal [hier](http://www.kompass-forschung.de/projektablauf/wuppertal/) einsehen. Für den Standort Potsdam rufen Sie bitte [diese Seite](http://www.kompass-forschung.de/projektablauf/berlin-brandenburg/) auf. 
 {: .notice--info}
 
->Den aktuellen Projektstand für das Schuljahr 2019/2020 können Sie für den Standort Wuppertal [hier](http://www.kompass-forschung.de/projektablauf/wuppertal/) einsehen. Für den Standort Potsdam rufen Sie bitte [diese Seite](http://www.kompass-forschung.de/projektablauf/berlin-brandenburg/) auf. 
+Erfahren Sie mehr über die [Interventionen](interventionen/) und den [Wissenschaftlichen Hintergrund](wissenschaftlicher-hintergrund/) unserer Studie, im Schuljahr 2019/2020 im Raum Wuppertal und in der Region Berlin-Brandenburg durchgeführt wird. Im Schuljahr 2018/2019 wurde die Studie bereits im Raum München durchgeführt. 
+{: .notice--info}
 
 ![Kompass-Team2018](/assets/images/180904 Gruppenfoto Kopie.jpg)
     
