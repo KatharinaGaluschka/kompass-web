@@ -12,11 +12,15 @@ herzlichen Dank für Ihre Zusage, uns im Projekt KOMPASS zu unterstützen. Diese
 Herzliche Grüße und herzlichen Dank für Ihr Engagement,
 die Mitarbeitenden der Universitäten München, Potsdam und Wuppertal
 
-## vor Phase 1 (derzeit Potsdam und Wuppertal) Materialien für den Elternabend
+## vor Phase 1 (abgeschlossen) Materialien für den Elternabend
 Als erster Schritt nach der Zustimmung der Schule ist die Einverständnis der Eltern einzuholen. Wir möchten Sie daher bitten, die Eltern im Rhamen eines Elternabends über das Projekt zu informieren.
 Alle Unterlagen, die wir Ihnen für den **Standort Potsdam** dafür  zusammengestellt haben, können Sie mit dem Passwort "ElternabendPotsdam" hier einsehen: [Elternabendinformationen Potsdam](https://boxup.uni-potsdam.de/index.php/s/1HYu1DmvasEDx5F) 
 
-## für Phase 2 (derzeit München) Lehrkräftefortbildung
+## für Phase 2 (derzeit in Potsdam und Wuppertal) Lernstandsrückmeldung und Verhaltenseinschätzung  
+Wir haben Ihnen zum besseren Verständnis der Lernstandsrückmeldung im Bereich [Screening](www.kompass-forschung.de/projektablauf/screening) zusätzliche Informationen bereit gestellt.  
+Zudem haben wir Ihnen Fragebögen zugesendet und bitten Sie um deren Ausfüllen und Weiterleitung der Briefe an die entsprechenden Eltern.
+
+## für Phase 3 (noch nicht begonnen) Lehrkräftefortbildung
 1. Link zur Registrierung für die Fortbildung: [Moodle Account anlegen](https://www.uni-potsdam.de/db/zeik-portal/intern/moodle/anmeldung01.php)
 2. Ihnen wird im Anschluss an die Registrierung eine E-Mail zugesendet. Bitte bestätigen Sie diese mit Ihrem Passwort.
 3. Sie erhalten eine Email mit Ihrem Benutzernamen.
