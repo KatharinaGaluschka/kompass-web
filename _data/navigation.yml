@@ -33,6 +33,8 @@ projektablauf:
     url: /projektablauf/muenchen/
   - title: "Wuppertal"
     url: /projektablauf/wuppertal/
+  - title: "zusätzliche Informationen"
+    url: /projektablauf/screening/
     
 teilnehmende_index:
   - title: "Eltern"
