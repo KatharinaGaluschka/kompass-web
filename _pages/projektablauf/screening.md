@@ -8,9 +8,13 @@ Die Kinder wurden aufgefordert zu kennzeichnen, ob es sich hierbei um einen inha
 
 Der **Heidelberger Rechentest 1 – 4 [HRT]** (Haffner, Baro, Parzer & Resch, 2005) dient der Erfassung der mathematischen Grundlagenkenntnisse. Im Rahmen des Screenings wurde eine Auswahl von drei der elf vorhandenen Untertests durchgeführt: Addition, Subtraktion und Multiplikation. Die Kinder hatten pro Untertest zwei Minuten Zeit, um so viele Aufgaben wie möglich zu lösen. 
 Beispielaufgaben aus dem HRT – Untertest Addition sind: 
+
 5 + 3 = ____ 
+
 17 + 0 = ____ 
+
 38 + 15 = ____
+
 Auch hier wurden die Kinder dazu aufgefordert so schnell und so genau wie möglich zu arbeiten. Die Aufgaben sind pro Untertest nach Schwierigkeit aufsteigend angeordnet. Der HRT erfasst also die Rechengeschwindigkeit.
 Die Fragebögen zum Verhalten und Erleben des Kindes in der Schule haben wir durchgeführt, um Nebenfragestellungen im Projekt beantworten zu können. Eine Eingabe und Auswertung dieser Daten liegt zum aktuellen Zeitpunkt noch nicht vor.
 
