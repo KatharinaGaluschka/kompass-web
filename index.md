@@ -12,9 +12,9 @@ Kennen Sie das? Einzelne Kinder, mit denen Sie alltäglich in Kontakt stehen, ha
 Sie suchen wie wir nach Möglichkeiten, wie diesen Kindern geholfen und ihnen das Lernen erleichtert werden kann?  
 </aside>
 
-  <br> KOMPASS ist eine Studie für Kinder mit Lernschwierigkeiten und psychischen Belastungen. Wir möchten die betroffenen Kinder, deren Eltern und Lehrkräfte in ihrem alltäglichen Umgang mit der Doppelbelastung unterstützen.
+  <br> **KOMPASS ist eine Studie für Kinder mit Lernschwierigkeiten und psychischen Belastungen. Wir möchten die betroffenen Kinder, deren Eltern und Lehrkräfte in ihrem alltäglichen Umgang mit der Doppelbelastung unterstützen.**
   Dazu kombinieren wir eine schulische Verhaltensintervention mit einer PC-/Online-basierten Lernförderung und begleiten das Projekt wissenschaftlich.  
-  Das Projekt wurde im Schuljahr 2018/2019 in München durchgeführt und wird im Schuljahr 2019/2020 an den Standorten [Raum Wuppertal](http://www.kompass-forschung.de/projektablauf/wuppertal/) und [Berlin Brandenburg](http://www.kompass-forschung.de/projektablauf/berlinbrandenburg/) durchgeführt. Nähere Informationen zum aktuellen Stand erhalten Sie durch Anwahl des Standortes. Informationen für Teilnehmende finden sich [hier](http://www.kompass-forschung.de/teilnehmende_index/).
+  Das Projekt wurde im Schuljahr 2018/2019 in München durchgeführt und wird im **Schuljahr 2019/2020 an den Standorten [Raum Wuppertal](http://www.kompass-forschung.de/projektablauf/wuppertal/) und [Berlin Brandenburg](http://www.kompass-forschung.de/projektablauf/berlinbrandenburg/)** durchgeführt. Nähere Informationen zum aktuellen Stand erhalten Sie durch Anwahl des Standortes. Informationen für Teilnehmende finden sich [hier](http://www.kompass-forschung.de/teilnehmende_index/).
 
 ## Hintergrund
 Als [multidisziplinäres Forschungsteam](http://www.kompass-forschung.de/team/) untersuchen wir, wie Kinder mit Schwierigkeiten im Lesen und Rechnen wirksam gefördert werden können. Wir nutzen dabei an unseren Standorten entwickelte Förderprogramme, die das Lesen und Rechnen von Kindern mit Lernschwierigkeiten in anderen Studien stark verbessern konnten. 
