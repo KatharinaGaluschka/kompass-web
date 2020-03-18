@@ -1,6 +1,5 @@
 ---
 title: Kooperative Verhaltensmodifikation und PC-basierte Förderung bei Verhaltensauffälligkeiten und Schulschwierigkeiten
-subtitle: Informationen zum weiteren Verlauf der Studie während der Corona bedingten Schulschließungen finden Sie hier
 permalink: /
 header:
   overlay_color: "#9e0e33"
@@ -8,6 +7,9 @@ toc: true
 toc_label: "Inhalt"
 toc_icon: "file-alt"
 ---
+<aside class="notice--primary">
+Informationen zum weiteren Verlauf der Studie während der Corona bedingten Schulschließungen finden Sie hier.
+</aside>  
 <aside class="notice--primary">
 Kennen Sie das? Einzelne Kinder, mit denen Sie alltäglich in Kontakt stehen, haben Schwierigkeiten beim Lesen oder Rechnen, sind häufig unaufmerksam, traurig, ängstlich, unruhig oder fallen anderweitig im Unterricht auf?
 Sie suchen wie wir nach Möglichkeiten, wie diesen Kindern geholfen und ihnen das Lernen erleichtert werden kann?  
