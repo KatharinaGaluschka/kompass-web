@@ -7,9 +7,9 @@ toc: true
 toc_label: "Inhalt"
 toc_icon: "file-alt"
 ---
-<br> <aside class="notice--primary">
+<aside class="notice--primary">
 Informationen zum weiteren Verlauf der Studie während der Corona bedingten Schulschließungen finden Sie [hier](http://www.kompass-forschung.de/teilnehmende_index/).
-</aside> </br> 
+</aside>
 <aside class="notice--primary">
 Kennen Sie das? Einzelne Kinder, mit denen Sie alltäglich in Kontakt stehen, haben Schwierigkeiten beim Lesen oder Rechnen, sind häufig unaufmerksam, traurig, ängstlich, unruhig oder fallen anderweitig im Unterricht auf?
 Sie suchen wie wir nach Möglichkeiten, wie diesen Kindern geholfen und ihnen das Lernen erleichtert werden kann?  
