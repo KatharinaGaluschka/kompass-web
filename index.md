@@ -1,5 +1,6 @@
 ---
 title: Kooperative Verhaltensmodifikation und PC-basierte Förderung bei Verhaltensauffälligkeiten und Schulschwierigkeiten
+subtitle: Informationen zum weiteren Verlauf der Studie während der Corona bedingten Schulschließungen finden Sie hier
 permalink: /
 header:
   overlay_color: "#9e0e33"
