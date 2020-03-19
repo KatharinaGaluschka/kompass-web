@@ -8,6 +8,11 @@ sidebar:
   nav: "projektablauf"
 ---
 ## Derzeitiger Stand der Region Wuppertal (Ende November 2019)
+**Update 3 (Mitte März 2020)**
+Wir sind im Februar/ März in  die Förderphase der Studie gestartet. Wir danken allen Eltern, Lehrenden und Kindern für das aktive Mitwirken. Leider müssen wir auf Grund der aktuellen Corona-Situation und der damit verbundenen Schulschließungen alle Förderbestandteile, die in der Schule stattfinden, pausieren lassen.
+Die außerschulische Förderung (Online-Förderung/ Lernspiele) wird jedoch weiterhin durchgeführt.
+Wir hoffen, dass sich diese Situation bald ändert und auch die Förderungen in den Schulen wieder stattfinden können.
+
 **Update 2 (Ende November 2019): Eltern- und Lehrkraftfragebogen**  
 Nach der Erhebung im Klassenverband wurden ausgewählten Eltern und Lehrkräften Fragebögen für einzelne Kinder zugeschickt. Diese Auswahl der Einzelfälle wurde nach den zugrundeliegenden Kriterien für das Projekt und die damit verbundenen Voraussetzungen der wissenschaftlichen Überprüfung vorgenommen. Dies entspricht jedoch nicht einer differenzierten Diagnostik einer Lese- oder Rechenstörung. Die eingesetzten Kurzverfahren und Normwerte sind dazu nicht geeignet, sondern entsprechen lediglich den besonderen Auswahlkriterien für die Förderung im Zuge des Projektes.  
 Aktuell werden die Daten der Eltern- und Lehrkraftfragebögen ausgewertet, mit dem Ziel zum Jahresende Einladungen für die Förderungen zu verschicken und erneut das elterliche Einverständnis einzuholen. 
