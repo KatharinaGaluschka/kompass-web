@@ -7,7 +7,7 @@ header:
 sidebar:
   nav: "projektablauf"
 ---
-## Derzeitiger Stand der Region Wuppertal (Ende November 2019)
+## Derzeitiger Stand der Region Wuppertal (Mitte März 2020)
 **Update 3 (Mitte März 2020)**
 Wir sind im Februar/ März in  die Förderphase der Studie gestartet. Wir danken allen Eltern, Lehrenden und Kindern für das aktive Mitwirken. Leider müssen wir auf Grund der aktuellen Corona-Situation und der damit verbundenen Schulschließungen alle Förderbestandteile, die in der Schule stattfinden, pausieren lassen.
 Die außerschulische Förderung (Online-Förderung/ Lernspiele) wird jedoch weiterhin durchgeführt.
