@@ -7,7 +7,12 @@ header:
 sidebar:
   nav: "projektablauf"
 ---
-## Derzeitiger Stand der Region Berlin/Brandenburg (Ende November 2019)
+## Derzeitiger Stand der Region Berlin/Brandenburg (Mitte März 2020)
+**Update 3 (Mitte März 2020) Pausieren der Förderung**  
+Wir haben im Februar/ März mit insgesamt 55 Kindern die Förderphase der Studie gestartet. Wir danken allen Eltern, Lehrenden und Kindern für das aktive Mitwirken. Leider müssen wir auf Grund der aktuellen Corona-Situation und der damit verbundenen Schulschließungen alle Förderbestandteile, die in der Schule stattfinden, pausieren lassen.
+Die außerschulische Förderung (Online-Förderung/ Lernspiele) wird jedoch weiterhin durchgeführt.
+Wir hoffen, dass sich diese Situation bald ändert und auch die Förderungen in den Schulen wieder stattfinden können.
+
 **Update 2 (Ende November 2019) Rückmeldung zur Lernstandserhebung, Beginn der Verhaltenseinschätzung**  
 Die Ergebnisse der 890 teilnehmenden Kinder, die an der Lernstandserhebung teilgenommen haben, wurden am 13.11.2019 an die Schulen verschickt. Nähere Informationen zur besseren Verständlichkeit Ihrer erreichten Werte finden Sie [hier](http://www.kompass-forschung.de/projektablauf/screening/).  
 Zwischen dem 5.11. und dem 13.11. verschickten wir zudem an ausgewählte Familien Fragebögen zu Ihren Kindern und befragen auch die Lehrpersonen zum Verhalten dieser Kinder. Bisher haben wir schon 81 Fragebögen der Eltern und 155 Fragebögen der Eltern zurück erhalten. Wir freuen uns über weitere Post und danken allen für Ihr aktives Mitwirken!
