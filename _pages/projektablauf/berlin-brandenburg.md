@@ -7,7 +7,11 @@ header:
 sidebar:
   nav: "projektablauf"
 ---
-## Derzeitiger Stand der Region Berlin/Brandenburg (Mitte März 2020)
+## Derzeitiger Stand der Region Berlin/Brandenburg (Anfang Juni 2020)
+**Update 4 (Anfang Juni 2020) Beenden der Förderung, Absage der Posttests und ergänzende Fragebogenerhebung**
+Leider mussten wir uns auf Grund der aktuellen Corona-Situation und der damit verbundenen Schulschließungen dafür entscheiden die Durchführung aller Förderbestandteile, die in der Schule stattfinden, zu beenden. Die außerschulische Förderung (Online-Förderung/ Lernspiele) wurde jedoch weiterhin erfolgreich durchgeführt, wofür wir uns recht herzlich bedanken möchten.
+Da wir uns in der aktuellen Situation vor allem für die Frage interessieren: "Wie hat sich das emotionale Erleben und soziale Verhalten von Kindern durch die Schulschließungen verändert?" werden wir in den nächsten Wochen noch einmal über die Schulen Fragebögen an ausgewählte Eltern versenden und bitten um Ihre Mithilfe.
+
 **Update 3 (Mitte März 2020) Pausieren der Förderung**  
 Wir haben im Februar/ März mit insgesamt 55 Kindern die Förderphase der Studie gestartet. Wir danken allen Eltern, Lehrenden und Kindern für das aktive Mitwirken. Leider müssen wir auf Grund der aktuellen Corona-Situation und der damit verbundenen Schulschließungen alle Förderbestandteile, die in der Schule stattfinden, pausieren lassen.
 Die außerschulische Förderung (Online-Förderung/ Lernspiele) wird jedoch weiterhin durchgeführt.
