@@ -7,8 +7,9 @@ toc_icon: "puzzle-piece"
 ---
 ### Allgemein
 <aside class="notice--primary">
-<font color="red"> Alle Informationen zum weiteren Projektverlauf während der Schulschließungen auf Grund der aktuellen Corona-Situation erhalten Sie per E-Mail. Bitte setzen Sie Lernförderung zu Hause unbedingt fort. .</font>
+<font color="red"> Alle Informationen zum weiteren Projektverlauf während der Schulschließungen auf Grund der aktuellen Corona-Situation erhalten Sie per E-Mail. Bitte setzen Sie Lernförderung zu Hause unbedingt fort. Sie werden bis Mitte Juni von uns Fragebögen erhalten, in denen wir uns für die aktuelle Lage in Bezug auf das Lernen und Erleben der Kinder beziehen. Wir bitten Sie um Ihre Mithilfe.</font>
 </aside>
+
 Die Teilnahme an der Studie ist freiwillig. Die Einverständnis der Eltern an der Teilnahme kann jederzeit ohne Nachteile zurück genommen werden. 
 Informationen zum strukturierten Medienkonsum bei Kindern können Sie dem folgenden Video entnehmen: [Medienkonsum Video](https://uni-wuppertal.sciebo.de/s/DoYxTrkEg7bS539)
 
