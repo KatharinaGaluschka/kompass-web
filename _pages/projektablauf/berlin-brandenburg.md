@@ -7,7 +7,7 @@ header:
 sidebar:
   nav: "projektablauf"
 ---
-## Derzeitiger Stand der Region Berlin/Brandenburg (Anfang Juni 2020)
+## Derzeitiger Stand der Region Berlin/Brandenburg (Mitte Juni 2020)
 **Update 5 (Mitte Juni 2020) Versendung der ergänzenden Fragebögen**
 Die Fragebögen wurden an die Schulen gegeben.
 
