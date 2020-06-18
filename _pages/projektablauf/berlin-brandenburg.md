@@ -39,10 +39,13 @@ Als zweiter Schritt erfolgt eine Zuteilung der geeigneten Klassen auf die Interv
 ## Schritt 3: Fortbildung der Lehrkräfte und Erhebung der Ausgangslage
 Im Anschluss erfolgt die Fortbildung (FB) der Lehrkräfte ab November 2019 insbesonder in Bezug auf das KlasseKinderSpiel (KKS). An diese Phase schließt eine Erhebung der Ausgangslage sowohl in Bezug auf die schulischen Schwierigkeiten als auch in Bezug auf die Ausprägung des Verhaltens an. Dies wird "Prätest" (Vortestung) genannt.
 
-## Schritt 4: Förderung und Erhebung des abschließenden Lernstands
+## Schritt 4: Förderung
 Nachdem all diese Schritte durchlaufen sind, startet die engmaschig begleitete Interventionsphase über die gesamte Dauer des 2. Schulhalbjahres des Schuljahres 2019/2020, demnach von Februar bis Juli 2020. 
-Diese schließt mit der abschließenden Erhebung des Lernstandes und der Verhaltensausprägung ("Posttest") ab, welche die Vergleichsgrundlage für die Auswertung des Interventionserfolges liefert. 
-Zum Schuljahres Ende endet auch die Durchführungsphase des Projektes und der Auswertungszeitraum, in dem die Ergebnisse analysiert und veröffentlicht werden, schließt sich an. Dieser kann mehrere Jahre umfassen. Gern informieren wir Sie in dieser Zeit regelmäßig über neue Publikationen des Projektteams.
+
+# Schritt 5: Auswertung des Lern- und Erlebensstandes der Kinder (und situationsbedingt Erweiterung der Studie)
+Die Förderung sollte ursprünglich mit der abschließenden Erhebung des Lernstandes und der Verhaltensausprägung ("Posttest") abschließen, welche die Vergleichsgrundlage für die Auswertung des Interventionserfolges liefern sollte.
+Auf Grund der aktuellen Situation der Schulschließungen wurde davon jedoch abgewichen. Die Lernleistungen werden über den Lernverlauf in den Lernspielen abgebildet und es wird eine Fragebogenbefragung zur aktuellen Situation postalisch an alle gesendet.
+Damit endet auch Durchführungsphase des Projektes und der Auswertungszeitraum, in dem die Ergebnisse analysiert und veröffentlicht werden, schließt sich an. Dieser kann mehrere Jahre umfassen. Gern informieren wir Sie in dieser Zeit regelmäßig über neue Publikationen des Projektteams.
 
 ## Weitere Informationen/ Teilnehmen
 Weitere Informationen zum Projektablauf in Berlin finden Sie zudem im [Flyer](https://boxup.uni-potsdam.de/index.php/s/rzxzw2LPgvPoG6x) mit dem Passwort KOMPASS.
