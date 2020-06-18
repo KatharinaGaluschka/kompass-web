@@ -8,6 +8,8 @@ sidebar:
   nav: "projektablauf"
 ---
 ## Derzeitiger Stand der Region Wuppertal (Anfang Juni 2020)
+**Update 5 (Mitte Juni 2020) Versendung der ergänzenden Fragebögen**
+Die Fragebögen wurden an die Schulen gegeben.
 
 **Update 4 (Anfang Juni 2020) Beenden der Förderung, Absage der Posttests und ergänzende Fragebogenerhebung**
 Leider mussten wir uns auf Grund der aktuellen Corona-Situation und der damit verbundenen Schulschließungen dafür entscheiden die Durchführung aller Förderbestandteile, die in der Schule stattfinden, zu beenden. Die außerschulische Förderung (Online-Förderung/ Lernspiele) wurde jedoch weiterhin erfolgreich durchgeführt, wofür wir uns recht herzlich bedanken möchten.
