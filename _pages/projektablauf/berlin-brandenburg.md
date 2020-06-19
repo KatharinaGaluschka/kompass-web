@@ -9,7 +9,9 @@ sidebar:
 ---
 ## Derzeitiger Stand der Region Berlin/Brandenburg (Mitte Juni 2020)
 **Update 5 (Mitte Juni 2020) Versendung der ergänzenden Fragebögen**
-Die Fragebögen wurden an die Schulen gegeben.
+Die Postpakete, welche die ergänzenden Fragebögen zum Distanzlernen enthalten, wurden an Schulen und Eltern verschickt. Die Fragebögen sollen uns eine Einschätzung geben, wie die letzten Wochen durch die besondere Situation das Erleben und Verhalten der Schüler verändert hat.
+Einige Fragebögen sind bereits wieder ausgefüllt bei uns eingetroffen. Wir hoffen darauf noch viele weitere Antworten zu erhalten.
+**Zuletzt wollen wir uns herzlich bei allen Teilnehmenden und Kooperationspartnern für die engagierte Zusammenarbeit bedanken. Wir können unser Projekt trotz der aktuellen Situation zwar anders als geplant, aber dennoch erfolgreich abschließen.**
 
 **Update 4 (Anfang Juni 2020) Beenden der Förderung, Absage der Posttests und ergänzende Fragebogenerhebung**
 Leider mussten wir uns auf Grund der aktuellen Corona-Situation und der damit verbundenen Schulschließungen dafür entscheiden die Durchführung aller Förderbestandteile, die in der Schule stattfinden, zu beenden. Die außerschulische Förderung (Online-Förderung/ Lernspiele) wurde jedoch weiterhin erfolgreich durchgeführt, wofür wir uns recht herzlich bedanken möchten.
@@ -19,6 +21,7 @@ Da wir uns in der aktuellen Situation vor allem für die Frage interessieren: "W
 Wir haben im Februar/ März mit insgesamt 55 Kindern die Förderphase der Studie gestartet. Wir danken allen Eltern, Lehrenden und Kindern für das aktive Mitwirken. Leider müssen wir auf Grund der aktuellen Corona-Situation und der damit verbundenen Schulschließungen alle Förderbestandteile, die in der Schule stattfinden, pausieren lassen.
 Die außerschulische Förderung (Online-Förderung/ Lernspiele) wird jedoch weiterhin durchgeführt.
 Wir hoffen, dass sich diese Situation bald ändert und auch die Förderungen in den Schulen wieder stattfinden können.
+Zudem konnten wir allen teilnehmenden Schulen bereits zu diesem Zeitpunkt 3-jährige Schullizenzen zu den beiden Lernförderprogrammen als Dank für Ihr Engagement zur Verfügung stellen und hoffen, dass diese Sie in dieser komplizierten Zeit unterstützen.
 
 **Update 2 (Ende November 2019) Rückmeldung zur Lernstandserhebung, Beginn der Verhaltenseinschätzung**  
 Die Ergebnisse der 890 teilnehmenden Kinder, die an der Lernstandserhebung teilgenommen haben, wurden am 13.11.2019 an die Schulen verschickt. Nähere Informationen zur besseren Verständlichkeit Ihrer erreichten Werte finden Sie [hier](http://www.kompass-forschung.de/projektablauf/screening/).  
