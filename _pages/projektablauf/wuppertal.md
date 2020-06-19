@@ -9,7 +9,8 @@ sidebar:
 ---
 ## Derzeitiger Stand der Region Wuppertal (Mitte Juni 2020)
 **Update 5 (Mitte Juni 2020) Versendung der ergänzenden Fragebögen**
-Die Fragebögen wurden an die Schulen gegeben.
+Die Postpakete, welche die ergänzenden Fragebögen zum Distanzlernen enthalten, wurden an Schulen und Eltern verschickt. Die Fragebögen sollen uns eine Einschätzung geben, wie die letzten Wochen durch die besondere Situation das Erleben und Verhalten der Schüler verändert hat. Auch die Schullizenzen für die Lernförderungen haben nun alle Schulen erhalten.
+Bisher haben wir sogar schon ein paar Fragebögen zurückerhalten und hoffen auf viele weitere, damit wir bald mit der Dateneingabe und Auswertung starten können. Zuletzt wollen wir uns herzlich bei allen Teilnehmenden und Kooperationspartnern für die tolle Zusammenarbeit bedanken. Wir können wohl trotz der aktuellen Situation unser Projekt zwar anders als geplant, aber dennoch erfolgreich abschließen.
 
 **Update 4 (Anfang Juni 2020) Beenden der Förderung, Absage der Posttests und ergänzende Fragebogenerhebung**
 Leider mussten wir uns auf Grund der aktuellen Corona-Situation und der damit verbundenen Schulschließungen dafür entscheiden die Durchführung aller Förderbestandteile, die in der Schule stattfinden, zu beenden. Die außerschulische Förderung (Online-Förderung/ Lernspiele) wurde jedoch weiterhin erfolgreich durchgeführt, wofür wir uns recht herzlich bedanken möchten.
