@@ -32,7 +32,8 @@ Beispielaufgaben aus dem HRT – Untertest Addition sind:
 38 + 15 = ____
 
 Auch hier wurden die Kinder dazu aufgefordert so schnell und so genau wie möglich zu arbeiten. Die Aufgaben sind pro Untertest nach Schwierigkeit aufsteigend angeordnet. Der HRT erfasst also die Rechengeschwindigkeit.
-Die Fragebögen zum Verhalten und Erleben des Kindes in der Schule haben wir durchgeführt, um Nebenfragestellungen im Projekt beantworten zu können. Eine Eingabe und Auswertung dieser Daten liegt zum aktuellen Zeitpunkt noch nicht vor.
+
+Zudem haben wir **Fragebögen zum Verhalten und Erleben des Kindes in der Schule** durchgeführt, um weitere Fragestellungen im Rahmen des Projekts beantworten zu können.
 
 
 **Vertrauensintervall**
