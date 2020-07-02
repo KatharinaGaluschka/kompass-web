@@ -35,6 +35,7 @@ Weitere Informationen finden Sie unter:  [Ueber die Studie](http://www.kompass-f
 ## Weitere Informationen
 [Mathematikförderung Dybuster Calcularis](https://dybuster.com/de/calcularis/)
 [Leseförderung Meister Cody Namagi](https://www.meistercody.com/produkte/namagi-legasthenie/)
+[Vorteile für teilnehmende Schulen und Lehrkräfte](http://www.kompass-forschung.de/ueber-die-studie/vorteile/)
 
 ### Zum kombinierten Auftreten von emotional-sozialen Schwierigkeiten und Rechen-/Leseschwierigkeiten
 Bos, C. S. & Vaughn, S. (2006). Strategies for Teaching Students with Learning and Behavior Problems. Boston: Pearson.
