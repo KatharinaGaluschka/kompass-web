@@ -15,7 +15,7 @@ Die Online-Förderung erfolgt über die wissenschaftlich erarbeiteten Förderpro
 ## ![MeisterCody](/assets/images/Meister Cody Namagi.jpg) Meister Cody Namagi
 *Meister Cody-Namagi* ist ein onlinebasiertes **Lesetrainingsprogramm** für Kinder mit Lese- und Rechtschreibschwierigkeiten. 
 Es unterstützt insbesondere Grundschulkinder in der Entwicklung ihrer schriftsprachlichen Fähigkeiten. 
-"Onlinebasiert" bedeutet, dass das Programm über ein Tablet oder Smartphone aufgerufen wird und dort in einer spielerischen Umgegbung geübt wird.
+"Onlinebasiert" bedeutet, dass das Programm über ein Tablet oder Smartphone aufgerufen wird und dort in einer spielerischen Umgebung geübt wird.
 Zur Förderung der Motivation werden die Trainingsinhalte spielerisch vermittelt, eingebettet in eine spannende Rahmengeschichte um den Zauberer Meister Cody und ein kindgerechtes Belohnungssystem. 
 Gemeinsam mit Meister Cody erleben die Kinder Abenteuer und lösen Rätsel mit dem Ziel die Fantasiewelt Talasia vom Drachen Sordan zu befreien. Eine automatische Rückmeldung zur Qualität der gelösten Aufgaben ist in das Programm integriert, sodass das Kind selbstgesteuert üben kann.
 
