@@ -54,6 +54,6 @@ Auf Grund der aktuellen Situation der Schulschließungen wurde davon jedoch abge
 Damit endet auch Durchführungsphase des Projektes und der Auswertungszeitraum, in dem die Ergebnisse analysiert und veröffentlicht werden, schließt sich an. Dieser kann mehrere Jahre umfassen. Gern informieren wir Sie in dieser Zeit regelmäßig über neue Publikationen des Projektteams.
 
 ## Weitere Informationen/ Teilnehmen
-Weitere Informationen zum Projektablauf in Berlin finden Sie zudem im [Flyer](https://boxup.uni-potsdam.de/index.php/s/rzxzw2LPgvPoG6x) mit dem Passwort KOMPASS.
+Für nähere Informationen über das Projekt und seine Ergebnisse steht Ihnen das Projektteam aus Berlin/Brandenburg gern zur Verfügung.
 
-Wir freuen uns auf die Zusammenarbeit.
+Wir Danken Ihnen für Ihre Teilnahme und die Unterstützung,
