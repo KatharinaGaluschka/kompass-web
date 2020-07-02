@@ -6,7 +6,8 @@ toc_label: Regionen
 toc_icon: "home"
 ---
 
-Bitte kontaktieren Sie für Rückfragen und bei Interesse an der Studienteilnahme direkt die Ansprechpartner in Ihrer Region via E-Mail. Nennen Sie uns dabei bitte Ihren Namen, Ihre Schule und (wenn gewünscht) Ihre Telefonnummer für Rückfragen.
+Bitte kontaktieren Sie für Rückfragen direkt die Ansprechpartner in Ihrer Region via E-Mail. Nennen Sie uns dabei bitte Ihren Namen, gegebenenfalls Ihre Schule und (wenn gewünscht) Ihre Telefonnummer für Rückfragen.
+Mit der Publikation erster Studienergebnisse wird im zweiten Halbjahr 2021 gerechnet.
 
 ## Region Berlin-Brandenburg
 ![Universtiät Potsdam](/assets/images/logos/Potsdam.jpg){: .align-right}
