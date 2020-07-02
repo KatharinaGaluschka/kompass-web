@@ -57,3 +57,4 @@ Damit endet auch Durchführungsphase des Projektes und der Auswertungszeitraum, 
 Für nähere Informationen über das Projekt und seine Ergebnisse steht Ihnen das Projektteam aus Berlin/Brandenburg gern zur Verfügung.
 
 Wir Danken Ihnen für Ihre Teilnahme und die Unterstützung,
+Ihr KOMPASS-Team Potsdam
