@@ -59,9 +59,9 @@ Die Förderung sollte ursprünglich mit der abschließenden Erhebung des Lernsta
 Auf Grund der aktuellen Situation der Schulschließungen wurde davon jedoch abgewichen. Die Lernleistungen werden über den Lernverlauf in den Lernspielen abgebildet und es wird eine Fragebogenbefragung zur aktuellen Situation postalisch an alle gesendet.
 Damit endet auch Durchführungsphase des Projektes und der Auswertungszeitraum, in dem die Ergebnisse analysiert und veröffentlicht werden, schließt sich an. Dieser kann mehrere Jahre umfassen. Gern informieren wir Sie in dieser Zeit regelmäßig über neue Publikationen des Projektteams.
 
-## Weitere Informationen/ Teilnehmen
-Für nähere Informationen zum Projektablauf werfen Sie einen Blick in den [Flyer](https://boxup.uni-potsdam.de/index.php/s/tZh0gfW3NAoYGHM) mit dem Passwort KOMPASS.
+## Weitere Informationen
+Für nähere Informationen über das Projekt und seine Ergebnisse steht Ihnen das Projektteam aus Wuppertal gern zur Verfügung.
 
-Wir Danken Ihnen für Ihre Teilnahme,
+Wir Danken Ihnen für Ihre Teilnahme und die Unterstützung,
 Ihr KOMPASS-Team Wuppertal
 ![KOMPASS-Team Wuppertal](/assets/images/HP_TeamWupp.jpg)
