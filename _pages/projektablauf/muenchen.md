@@ -32,8 +32,8 @@ Zum Ende des Schuljahres endet auch die Durchführungsphase des Projektes. Nun s
 
 
 ## Weitere Informationen und Teilnahme
-Für nähere Informationen besuchen Sie gerne auch die [Erklärungen zur Intervention](http://www.kompass-forschung.de/ueber-die-studie/interventionen/). 
 
-Als Elternteil können Sie alle Informationen aus diesem [Flyer](https://boxup.uni-potsdam.de/index.php/s/MeGkVttG1EA4sH5) mit dem Passwort KOMPASS entnehmen. Bitte beachten Sie, dass dabei davon ausgegangen wird, dass die Schule Ihres Kindes dem Vorhaben bereits zugestimmt hat.
+Für nähere Informationen über das Projekt und seine Ergebnisse steht Ihnen das Projektteam aus Wuppertal gern zur Verfügung. Besuchen Sie gerne auch die [Erklärungen zur Intervention](http://www.kompass-forschung.de/ueber-die-studie/interventionen/). 
 
+Wir Danken Ihnen für Ihre Teilnahme und die Unterstützung, Ihr KOMPASS-Team München
 
