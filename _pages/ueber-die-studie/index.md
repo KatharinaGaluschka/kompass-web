@@ -13,6 +13,7 @@ Doch wie kann eine Intervention optimal sowohl auf den Bereich der Leistung, als
 Die Beantwortung dieser Frage ist das Ziel des geplanten Forschungsprojekts.
 
 **Studienablauf**
+
 Die Studie startet zu Beginn des 3. Schuljahrs mit der Feststellung des Lernstandes in Bezug auf die Lese-Rechtschreib- und Rechenleistung aller Kinder der teilnehmenden Klassen.
 Zeigen einzelne Kinder im Lesen oder Rechnen Schwierigkeiten, werden wir ihre Lehrkräfte und Eltern um eine kurze Verhaltensbeurteilung bitten.
 Kinder mit Schwierigkeiten im Lesen oder Rechnen, für die auf Grund der Verhaltensbeurteilung emotionale Probleme oder Verhaltensschwierigkeiten zu vermuten sind, schließen wir in unsere Studie ein. 
@@ -22,6 +23,7 @@ Erfahren Sie mehr über die [Interventionen](interventionen/) und den [Wissensch
 {: .notice--info}
 
 **Aktueller Stand**
+
 Den aktuellen Projektstand können Sie für den Standort Wuppertal [hier](http://www.kompass-forschung.de/projektablauf/wuppertal/) einsehen. Für den Standort Potsdam rufen Sie bitte [diese Seite](http://www.kompass-forschung.de/projektablauf/berlin-brandenburg/) auf. 
 {: .notice--info}
 
