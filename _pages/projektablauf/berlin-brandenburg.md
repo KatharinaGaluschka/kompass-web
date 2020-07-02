@@ -59,5 +59,5 @@ Für nähere Informationen über das Projekt und seine Ergebnisse steht Ihnen da
 Wir Danken Ihnen für Ihre Teilnahme und die Unterstützung,
 Ihr KOMPASS-Team Potsdam
 
-assets/images/KOMPASS Interventionsteam Potsdam.png
+![TeamUP](assets/images/KOMPASS Interventionsteam Potsdam.png)
 (das KOMPASS Team Berlin-Brandenburg zusammen mit Sina Napiany aus Wuppertal bei einer Schulung)
