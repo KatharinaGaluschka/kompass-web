@@ -22,7 +22,7 @@ Das Team mit der geringsten Punktezahl gewinnt am Ende der Spielzeit eine Gruppe
 
 Der Einsatz des KlasseKinderSpiels reduziert nachweislich störendes Verhalten im Unterricht und beeinflusst das Klassenklima positiv. Die Kinder lernen, sich bei der Beachtung von Regeln gegenseitig zu unterstützen, was das Sozial- und Lernklima verbessert und die Lernzeiten im Unterricht erhöht. Motivation und Erfolgserleben bei adäquatem Verhalten werden gesteigert. 
 Lehrkräfte werden durch eine Kurzfortbildung in das KlasseKinderSpiel und mögliche Problemstellungen eingeführt. Hierzu werden sämtliche Materialien zur Verfügung gestellt.
-Weitere Informationen und hilfreiche Artikel zum KlasseKinderSpiel finden Sie auch auf der Seite der [Heilpädagogischen Akademie Köln](http://www.heilpaedagogische-akademie.de/angebot/klassekinderspiel.html) (die Heilpädagogische Akademie Köln arbeitet eng mit den Universitäten in Nordrhein-Westphalen zusammen, siehe auch "Dozenten der Akademie"). 
+Weitere Informationen und hilfreiche Artikel zum KlasseKinderSpiel finden Sie auch auf der Seite der [Heilpädagogischen Akademie Köln](http://www.heilpaedagogische-akademie.de/angebot/klassekinderspiel.html) (die Heilpädagogische Akademie Köln arbeitet eng mit den Universitäten in Nordrhein-Westfalen zusammen, siehe auch "Dozenten der Akademie"). 
 
 
 ## individuelle Förderung des einzelnen Kindes Kooperative Verhaltensmodifikation
