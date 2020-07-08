@@ -11,7 +11,7 @@ toc_icon: "puzzle-piece"
 </aside>
 
 Die Teilnahme an der Studie ist freiwillig. Die Einverständnis der Eltern an der Teilnahme kann jederzeit ohne Nachteile zurück genommen werden. 
-Sollten Sie Bedenken zum Einsatz einer Lernapp auf Grund des dadurch erhöhten Medienkonsums Ihres Kindes haben, finden Sie Informationen zum strukturierten Medienkonsum bei Kindern im folgenden Video: [Medienkonsum Video](https://uni-wuppertal.sciebo.de/s/DoYxTrkEg7bS539)
+Sollten Sie Bedenken zum Einsatz einer Lernapp auf Grund des dadurch erhöhten Medienkonsums Ihres Kindes haben, finden Sie Informationen zum strukturierten Medienkonsum bei Kindern im folgenden Video: [Medienkonsum Video](https://uni-wuppertal.sciebo.de/s/xRpg8txkv2vXBln) mit dem Passwort: KOMPASS.
 
 ### Eltern
 Alle relevanten Informationen für Eltern sind auf der Unterseite [Eltern](http://www.kompass-forschung.de/teilnehmende_index/eltern) zusammengefasst.
